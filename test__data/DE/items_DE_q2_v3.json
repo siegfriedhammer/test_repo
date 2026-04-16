@@ -11,6 +11,12 @@
       "id": "bjl7l"
     },
     {
+      "index": "q2_111",
+      "text": "Im Jahr 2025 verzeichnete unsere Stadt einen bemerkenswerten Anstieg im Tourismus. Die Gesamtzahl der Übernachtungen stieg kontinuierlich, beginnend mit 18.500 im Januar und erreichte einen Höhepunkt von 49.300 im Juli. Dies führte zu einer signifikanten Steigerung der Hotel-Auslastung, die im Juli 86 % erreichte. Die durchschnittlichen Zimmerpreise stiegen parallel dazu und lagen im Juli bei 138 € pro Nacht. Die Stornorate zeigte ebenfalls eine positive Entwicklung, die im Juli auf nur 7 % fiel. Besonders im Mai und Juni wurde ein geringerer Stornowert beobachtet, was auf eine gesteigerte Zufriedenheit der Gäste hinweist. Diese Faktoren zusammen deuten auf einen starken und stabilen Tourismus im Jahr 2025 hin.",
+      "treatment": 1,
+      "id": "bfa5g"
+    },
+    {
       "index": "q2_123",
       "text": "In der Mitte des Jahres war das Hotel am meisten ausgelastet, hatte also die meisten Übernachtungen. Dort war auch die Storno-Rate am niedrigsten. (Kein Bock mehr genauer zu schreiben tbh)",
       "treatment": 0,
@@ -33,18 +39,6 @@
       "text": "In den Sommermonaten steigt sowohl die Zahl der Übernachtungen als auch die Preise für ein Zimmer. Die Zahl der Stornierungen ist gegensätzlich, sie sinkt in den Sommermonaten trotz der erhöhten Buchungen. Der beste Monat in Bezug auf die Auslastung stellt der Juli dar.",
       "treatment": 0,
       "id": "eoa6p"
-    },
-    {
-      "index": "q2_162",
-      "text": "Alle Werte außer der Stornierungsrate steigen über die Sommermonate stark an, bei der Stornierungsrate ist es genau andersherum.",
-      "treatment": 0,
-      "id": "anx3l"
-    },
-    {
-      "index": "q2_165",
-      "text": "Es ist klar zu sehen, dass die Übernachtungen, die Hotelauslastung und der Zimmerpreis im Sommer am höchsten sind und im Winter am niedrigsten. Es ist ein Verlauf zu erkennen.",
-      "treatment": 1,
-      "id": "oon4t"
     },
     {
       "index": "q2_172",
@@ -123,6 +117,12 @@
       "text": "Im Jahr 2025 hat sich der Tourismus in unserer Stadt bemerkenswert entwickelt. Die Übernachtungen stiegen kontinuierlich an, beginnend mit 18.500 im Januar und erreichten im Juli ihren Höhepunkt mit 49.300. Die Hotel-Auslastung verbesserte sich ebenfalls, von 42 % im Januar auf 86 % im Juli, womit der Sommermonat den höchsten Stand verzeichnete. Der durchschnittliche Zimmerpreis erhöhte sich von 89 Euro im Januar auf 138 Euro im Juli, was auf eine steigende Nachfrage hindeutet. Die Stornorate sank von 14 % zu Beginn des Jahres auf lediglich 7 % in den Sommermonaten, was auf eine höhere Planungsstabilität der Gäste hinweist. Obwohl die Zahlen im Laufe des Jahres schwankten, reflektieren sie insgesamt ein positives Wachstum im Tourismussektor. Die Entwicklungen sind ein Zeichen für die Attraktivität unserer Stadt und bieten viele Chancen für das Stadtmarketing.",
       "treatment": 1,
       "id": "ime5h"
+    },
+    {
+      "index": "q2_83",
+      "text": "Im Sommer höhere Hotelauslastungen = geringere Stornorate = höhere Zimmerpreise.",
+      "treatment": 0,
+      "id": "ude9c"
     }
   ]
 }

@@ -17,12 +17,6 @@
       "id": "rji5w"
     },
     {
-      "index": "q2_125",
-      "text": "Um eine Schätzung abzugeben, könnte man annehmen, dass ein durchschnittlicher Supermarkt täglich mehrere hundert bis tausend Kunden hat. Wenn jeder Kunde in etwa ein bis drei Pfandflaschen zurückbringt, könnte dies schnell in die Tausende gehen. Geht man beispielsweise von 500 Kunden und im Durchschnitt 2 Flaschen pro Kunde aus, wären das 1.000 Pfandflaschen pro Tag. Die Wartezeiten vor den Automaten deuten darauf hin, dass es eine regelmäßige Nutzung gibt, was diese Schätzung unterstützt. Außerdem könnten besondere Events oder Rabatte die Rückgaben an bestimmten Tagen erhöhen. Insgesamt würde ich schätzen, dass an einem durchschnittlichen Tag zwischen 800 und 1.200 Pfandflaschen zurückgegeben werden.",
-      "treatment": 1,
-      "id": "aah6h"
-    },
-    {
       "index": "q2_13",
       "text": "1.500.",
       "treatment": 0,
@@ -57,6 +51,12 @@
       "text": "Pro Tag werden wahrscheinlich um die 3000 Pfandflaschen zurückgegeben. Man kann annehmen, dass der Supermarkt 8 Stunden am Tag offen hat und pro Stunde etwa 25 Leute ihre Pfandflasche zurückgeben.",
       "treatment": 0,
       "id": "ija5c"
+    },
+    {
+      "index": "q2_214",
+      "text": "Hierbei handelt es sich um eine Modellierungsaufgabe. Leider habe ich keine Zeit mehr in der Vorlesung gehabt, dies zu berechnen.",
+      "treatment": 0,
+      "id": "isa4h"
     },
     {
       "index": "q2_225",

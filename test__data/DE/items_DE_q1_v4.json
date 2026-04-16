@@ -65,22 +65,28 @@
       "id": "amk5l"
     },
     {
-      "index": "q1_317",
-      "text": "Der Fahrradladen XY verzeichnet deutlich mehr Bestellungen im Sommer, da bestimmt viele Leute Fahrrad fahren wollen. Außerdem besteht zu dieser Zeit auch eine höhere Lieferquote und Zuverlässigkeit. Der Fahrradladen arbeitet effektiver im Sommer.",
-      "treatment": 1,
-      "id": "ejd7h"
-    },
-    {
       "index": "q1_324",
       "text": "Im Jahr 2024 hat der örtliche Fahrradladen eine bemerkenswerte Entwicklung in seiner Lieferfähigkeit gezeigt. Die monatlichen Bestellungen stiegen kontinuierlich von 180 im Januar auf 480 im Juli. Besonders im Mai und Juni konnte eine signifikante Lieferquote von 68 % beziehungsweise 72 % erreicht werden, was die Kundenzufriedenheit erhöhte. Dennoch gab es im März und August Rückstände, die mit 210 beziehungsweise 165 unbefriedigt blieben. Die durchschnittliche Lieferzeit verbesserte sich erheblich von 21 Tagen im Januar auf nur 12 Tage im Juli. Dies zeigt, dass der Fahrradladen nicht nur in der Lage war, die Nachfrage zu decken, sondern auch seine operative Effizienz steigern konnte. Die Anpassungen in den Betriebsabläufen scheinen sich ausgezahlt zu haben und machen den Laden zu einem zuverlässigen Anbieter in der Region.",
       "treatment": 1,
       "id": "cos6w"
     },
     {
+      "index": "q1_379",
+      "text": "Im Jahr 2024 schwankte die Lieferfähigkeit des Fahrradladens deutlich. Zu Jahresbeginn lagen die Lieferquoten zwischen 55 % und 62 %, während die durchschnittliche Lieferzeit auf bis zu 29 Tage anstieg. Mit dem starken Anstieg der Bestellungen im Frühjahr und Frühsommer wuchs auch der Rückstand, der im April seinen Höchststand von 238 offenen Bestellungen erreichte. Ab Mai verbesserten sich die Lieferquoten jedoch kontinuierlich und erreichten im Juli mit 74 % ihren Spitzenwert. Gleichzeitig sank die Lieferzeit in den Sommermonaten auf nur 12 bis 16 Tage. Trotz höherer Nachfrage gelang es dem Laden im Sommer, Rückstände abzubauen. Ab September nahm die Zahl der Bestellungen wieder ab, während die Lieferquote stabil über 60 % blieb. Insgesamt zeigt sich über das Jahr hinweg eine deutliche Verbesserung der Lieferfähigkeit.",
+      "treatment": 1,
+      "id": "cjl4l"
+    },
+    {
       "index": "q1_383",
       "text": "Die getätigten Bestellungen nehmen ab Januar (180) bis August (450) zu und sinken in den folgenden Monaten auf 220 Bestellungen im Dezember stetig wieder ab. Einen ähnlichen Verlauf zeigt die Bestellquote, welche in den Sommermonaten ein Hoch erreicht. Auch die durchschnittliche Lieferzeit folgt demselben Trend und sinkt in den Sommermonaten Mai bis August auf einen Tiefwert von 12 und nimmt daraufhin wieder zu. Im Gegensatz zu den genannten Werten bleibt der Rückstand im ganzen Jahr recht konstant.",
       "treatment": 1,
       "id": "afk7m"
+    },
+    {
+      "index": "q1_4",
+      "text": "Vor allem in den Sommermonaten, in denen es viele Bestellungen gab, wurde effizienter gearbeitet. Die Lieferzeit war hier geringer und die Lieferquote war höher. In den Sommermonaten war somit die Lieferfähigkeit am besten. Ende des Jahres gab es tendenziell nochmal mehr Bestellungen als Anfang des Jahres und von diesen wurden auch prinzipiell meist mehr Bestellungen geliefert.",
+      "treatment": 0,
+      "id": "ami4b"
     },
     {
       "index": "q1_402",
@@ -105,12 +111,6 @@
       "text": "Im Jahr 2024 hat der örtliche Fahrradladen Veränderungen in der Lieferfähigkeit erfahren. Laut der aktuellen Tabelle stieg die monatliche Bestellmenge innerhalb von 7 Monaten von 180 auf 480, was auf die wachsende Beliebtheit von Fahrrädern in den Sommermonaten hindeutet. Die Lieferquote stieg in etwa proportional zum Bedarf und sank gegen Winter wieder. Gleichzeitig stiegen auch die Rückstände, die aber in den Monaten ab April reduziert werden konnten, was vor allem auf die Zusammenarbeit mit regionalen Lieferanten zurückzuführen ist. Kunden äußern sich zunehmend positiv über die schnellere Bearbeitung ihrer Bestellungen im Sommer. Der Geschäftsführer des Ladens betont, dass die Investitionen in die Logistik und das Kundenmanagement entscheidend für den Erfolg waren. Diese Entwicklungen zeigen, dass der Fahrradladen gut auf die steigende Nachfrage reagiert hat und sich als verlässlicher Partner in der Region etabliert.",
       "treatment": 1,
       "id": "oja7l"
-    },
-    {
-      "index": "q1_482",
-      "text": "Im Januar lagen die Kundenbestellungen bei 180. Im Laufe des Jahres ist diese Zahl jedoch signifikant angestiegen, bis sie im Juli ihren Höhepunkt bei 480 Bestellungen erreichte und im Anschluss wieder abfiel. Beobachten konnte man hierbei, dass bei erstmaligem Anstieg der Bestellungen die Lieferzeit anstieg und offene Bestellungen sich anhäuften. Im Mai wurde dieser Trend erkannt und die durchschnittliche Lieferzeit ging trotz hoher Nachfrage zurück. Die Anzahl der offenen Bestellungen hingegen blieb erhöht. In diesem Zeitraum war die Lieferquote so hoch wie nie (74%). Ab Oktober allerdings entwickelte es sich wieder zum „alten“. Die Bestellungen gingen zurück, die offenen Bestellungen wurden weniger und die Lieferzeit erhöhte sich erneut.",
-      "treatment": 1,
-      "id": "eas5u"
     },
     {
       "index": "q1_49",
