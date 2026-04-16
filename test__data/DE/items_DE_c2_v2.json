@@ -5,22 +5,10 @@
   "n_items": 20,
   "items": [
     {
-      "index": "c2_10",
-      "text": "Die App „InfoFilter“ wurde entwickelt, um Nutzern zu helfen, die tägliche Informationsflut zu bewältigen. Sie richtet sich an alle, die in der digitalen Welt schnell überflutet werden, sei es durch Nachrichten, soziale Medien oder E-Mails. „InfoFilter“ analysiert die Informationsquellen der Nutzer und kategorisiert die Inhalte nach Relevanz und Interesse. Nutzer können individuell einstellen, welche Themen sie priorisieren möchten. Die App nutzt KI-Algorithmen, um personalisierte Vorschläge zu liefern und weniger relevante Informationen auszublenden. Dies ist besonders nützlich, um Zeit zu sparen und die mentale Belastung zu reduzieren. Neu und kreativ ist die Fähigkeit, sich dynamisch an die Interessen der Nutzer anzupassen und kontinuierlich zu lernen.",
-      "treatment": 1,
-      "id": "ofa6g"
-    },
-    {
       "index": "c2_11",
       "text": "Unsere App hilft Menschen, mit der täglichen Informationsflut gezielt und entspannt umzugehen. Die Grundidee ist ein intelligenter Filter, der Inhalte nicht nach Klicks, sondern nach persönlicher Relevanz, Zeitbudget und mentaler Belastung ordnet. Nutzer:innen sind vor allem Studierende, Berufstätige und Wissensarbeiter:innen, die viele Nachrichten, Mails und Social-Media-Inhalte verarbeiten müssen. Die App bündelt Informationen aus verschiedenen Quellen, fasst sie automatisch zusammen und priorisiert sie mithilfe von KI, basierend auf Interessen, Zielen und Nutzungsverhalten. Dabei entstehen anonymisierte Nutzungsdaten wie Themenpräferenzen, Lesezeiten und Stressindikatoren (z. B. Abbruchverhalten). Das ist nützlich, weil Nutzer:innen weniger Zeit mit irrelevanten Inhalten verbringen und bewusster informiert bleiben. Besonders kreativ ist, dass die App aktiv Pausen vorschlägt und Inhalte „zurückhält“, wenn sie erkennt, dass die Informationsmenge gerade zu hoch wird.",
       "treatment": 0,
       "id": "sjj6o"
-    },
-    {
-      "index": "c2_132",
-      "text": "Eine App, die zwar begrenzteres Wissen hat, aber dafür geprüft und verlässlich ist. Datensätze von KI ausgewählt, aber menschlich überprüft, um das Internet besonders für Kinder sicherer zu machen.",
-      "treatment": 1,
-      "id": "öje9b"
     },
     {
       "index": "c2_145",
@@ -33,6 +21,12 @@
       "text": "Die App ZenNode ist ein biometrisch gesteuerter Informationswächter, der die digitale Flut basierend auf dem aktuellen Stresslevel des Nutzers reguliert. Sie richtet sich primär an Wissensarbeiter und Studierende, die unter ständiger Erreichbarkeit und kognitiver Überlastung leiden. Konkret verknüpft sich die App mit Wearables, um über Parameter wie die Herzfrequenzvariabilität den Grad der mentalen Beanspruchung in Echtzeit zu messen. Steigt die Belastung zu stark an, werden eingehende Informationen automatisch nach Relevanz gefiltert oder komplexe Inhalte KI-gestützt in leicht verdauliche Zusammenfassungen umgewandelt. Hierbei werden sensible Vitaldaten sowie Metadaten der Kommunikationstools genutzt, woraus anonymisierte Belastungsprofile zur langfristigen Optimierung der eigenen Work-Life-Balance entstehen. Der Nutzen liegt in der drastischen Reduktion des \"Cognitive Load\", wodurch die mentale Gesundheit geschont und die Produktivität nachhaltig gesteigert wird. Neuartig ist die Idee, die Informationsdichte nicht statisch, sondern dynamisch an die biologische Belastungsgrenze des menschlichen Gehirns zu koppeln. Durch diese Symbiose aus Körperdaten und digitalem Filter wird das Smartphone erstmals vom Stressfaktor zum adaptiven Schutzschild gegen die Informationsflut.",
       "treatment": 1,
       "id": "öjy6s"
+    },
+    {
+      "index": "c2_190",
+      "text": "Info-Clear: richtet sich an Studierende und Personen im Beruf. KI hilft dabei, die Informationen zu filtern, welche relevant sind und bezieht sich dafür nur auf von Menschen erstellte Inhalte (spezifisch Qualitätsjournalismus wie den Spiegel oder die Tagesschau), um sich vor KI-Halluzinationen zu schützen und Doppelmeldungen zu vermeiden. So wird eine Möglichkeit für mehr Effizienz in der Informationswelt geschaffen.",
+      "treatment": 1,
+      "id": "uja4a"
     },
     {
       "index": "c2_219",
@@ -53,12 +47,6 @@
       "id": "ioi4h"
     },
     {
-      "index": "c2_233",
-      "text": "Die Grundidee ist, dass die App Informationen aus dem Internet filtert und nach Seriosität filtert. Dabei werden die Nachrichten/Informationen auch danach sortiert, aus welcher Richtung sie kommen. Man kann also auf einen Blick sehen, welche Strömung (rechts/links/„Mitte“) wie über ein Thema berichtet. Wenn man ein Thema eingibt, bekommt man dann von verschiedenen Quellen die Artikel zu dem Thema. Sie wird von verschiedenen Menschen genutzt, vor allem von jungen Menschen, die sich umfassend informieren wollen, kann aber auch zur Forschung verwendet werden.",
-      "treatment": 0,
-      "id": "cje5b"
-    },
-    {
       "index": "c2_281",
       "text": "Meine Idee für eine App wäre, dass man Rechtsberatung leicht zugänglich macht. Dafür soll man seine eigene Situation spielerisch schildern können. Mit Rollenspielen, welche man an seine Situation anpassen kann. Jede Person, die an einer Rechtsberatung interessiert wäre oder sich ihrer Rechte nicht bewusst ist, kann die App benutzen. Dafür würden Gesetze benötigt werden, genauso wie Links zu tatsächlicher Rechtsberatung in Kanzleien (dabei auch kostenlose Beratungsstellen). Es soll eine Übersicht der eigenen Situation und der Rechte ermöglichen, welche für alle verständlich ist, da juristische Normen nicht leicht zu verstehen sind.",
       "treatment": 1,
@@ -77,6 +65,12 @@
       "id": "rnn5h"
     },
     {
+      "index": "c2_290",
+      "text": "Die App heißt \"Real-Life\". Sie richtet sich an Nutzende aus allen gesellschaftlichen Schichten und Altersklassen. Die Nutzenden benötigen dafür kein Endgerät und es werden auch keine Daten erhoben - völlig anonym also. Mit dieser Anwendung kann das Leben entschleunigt und immaterieller werden. So bauen die Nutzenden eine gesunde Bodenständigkeit bei einem Waldspaziergang oder Aktivitäten mit Familie und Freunden auf. Ohne stetiges Verlangen nach Konsum oder Geltung können sich die Nutzenden auf das Wesentliche im Leben konzentrieren.",
+      "treatment": 0,
+      "id": "lan8u"
+    },
+    {
       "index": "c2_303",
       "text": "Der/Die User:in kann filtern, welche Themenbereiche ihn/sie interessieren. Der Algorithmus wird mit Datensätzen trainiert, die viele verschiedene Informationen aus unterschiedlichen Bereichen (Politik, Sport, Wirtschaft, Kultur, Wissenschaft, ...) erhalten, damit er diese selbstständig kategorisieren kann. Es gibt zudem eine Funktion, um weltweit relevante Informationen zu sehen und eine Funktion, um Informationen zu erhalten, die nicht zum typischen Interesse der Userin/des Users passen. Dadurch sind nicht alle, die er/sie erhält, Informationen aus einer Bubble. Dies ist besonders nützlich, da so der/die User:in filtern kann, was ihn/sie interessiert und nicht von den vielen Informationen erschlagen wird, ohne in einer Bubble zu landen.",
       "treatment": 1,
@@ -89,28 +83,28 @@
       "id": "ona6m"
     },
     {
-      "index": "c2_31",
-      "text": "Die App ist ein spielerischer Begleiter gegen Informationsflut, der wie ein Tamagotchi funktioniert und das eigene Lern- und Informationsverhalten widerspiegelt. Nutzer:innen, die sich oft überfordert fühlen oder effektiver lernen möchten, pflegen ein digitales Wesen, das davon lebt, wie gut Informationen ausgewählt, strukturiert und reflektiert werden. Die App sammelt z. B. Daten darüber, welche Inhalte konsumiert werden, wie lange man sich mit Themen beschäftigt und ob man Gelerntes zusammenfasst oder anwendet. Aus diesen Daten entstehen Lernmuster, die das Tamagotchi „gesünder“, klüger oder kreativer werden lassen. Statt endlosem Scrollen belohnt die App bewusstes Lesen, Pausen und aktives Verarbeiten von Wissen. Spielerische Elemente wie Level, Emotionen des Wesens und kleine Challenges motivieren zur Selbstregulation. Nützlich ist die App, weil sie Informationskompetenz fördert und Überforderung sichtbar macht. Besonders kreativ ist die emotionale Bindung zum virtuellen Wesen, das abstrakte Informationsflut in ein greifbares, spielbares Erlebnis übersetzt.",
+      "index": "c2_309",
+      "text": "Die App ist an alle gerichtet, die sich überhaupt im Internet aufhalten oder aufhalten wollen. Menschen, die vorher eher zögerlich waren, weil es überfordernd ist, wird der Einstieg leichter gemacht. Die Nutzung der App funktioniert so, dass man vorab auswählen kann, was für Art von Content man sehen will (Informationen, Unterhaltung, Politik, Kunst etc.) und wie lange man das sehen möchte. Dadurch limitiert sich die Bildschirmzeit. Die User bekommen dann hauptsächlich zu ihrem Thema Content vorgeschlagen, entweder im Stil von YouTube, wo man sich Videos auswählen kann, oder wie TikToks/Reels. Der Inhalt muss trotzdem divers sein und der Algorithmus darf nicht so „gut“ funktionieren, dass man nur in einer Bubble bleibt, sondern sollte auch andere Videos anzeigen. Bei jedem Video sollte es einen Faktencheck geben und ein Flagging, ob es mit KI erstellt worden ist oder nicht.",
       "treatment": 1,
-      "id": "eae4o"
+      "id": "rma5h"
     },
     {
-      "index": "c2_336",
-      "text": "Die App soll Jugendliche ansprechen und im ersten Schritt sie darüber informieren, was Informationsflut ist und was es für Folgen gibt (z.B. schlechtere Schlaf etc.). Schwerpunkt der Infoflut sollen hier die sozialen Medien spielen. Die App soll motivieren, Social Media bewusster zu konsumieren und soll ein digital detox Timer sein. Daten, die dafür gebraucht werden, sind Folgen von Informationsflut für Jugendliche, vor allem durch die sozialen Medien.",
+      "index": "c2_32",
+      "text": "Unsere App zur Bewältigung der Informationsflut hilft Nutzern, die ständig wachsende Menge an Informationen effektiv zu organisieren und zu filtern. Die Grundidee besteht darin, personalisierte Inhalte bereitzustellen, die auf den Interessen und Präferenzen der Nutzer basieren. Zielgruppen sind sowohl Berufstätige, die im Homeoffice arbeiten, als auch Studierende, die sich mit einer Fülle von Lernmaterialien auseinandersetzen müssen. Die App nutzt KI-Algorithmen, um relevante Nachrichten, Artikel und Forschungsergebnisse automatisch zu kuratieren. Nutzer können ihre Quellen und Themen anpassen, um nur die für sie wichtigen Informationen zu erhalten. Dies ist besonders nützlich, da es hilft, Überforderung zu vermeiden und die Konzentration zu fördern. Eine neuartige Funktion ist die Möglichkeit, Inhalte in kurze, verdauliche Abschnitte zu gliedern, um sie schneller erfassen zu können. Zusätzlich ermöglicht die App eine soziale Komponente, in der Nutzer Inhalte mit Gleichgesinnten teilen und diskutieren können, was den Austausch von Ideen anregt.",
       "treatment": 1,
-      "id": "rna5w"
+      "id": "dms6l"
+    },
+    {
+      "index": "c2_331",
+      "text": "App, die einen in einer Art Tunnelsystem durch das Internet browsen lässt. Verschiedene Tunnel decken verschiedene Themenbereiche ab, und innerhalb eines Tunnels werden einem nur fachspezifische Inhalte angezeigt. Immer wieder erreicht man Checkpoints/Kreuzungen, an denen man sich entscheiden kann, im Tunnel zu bleiben, zu wechseln oder das Gebiet auszuweiten. So kann man vermeiden, bei Recherche oder auch Unterhaltung von anderen Themen abgelenkt zu werden. Natürlich liegt bei si etwas die Gefahr vor, in \"rabbit holes\" zu fallen und in gewissen Formen gäbe es da bestimmt Potenzial, schnell in Extreme zu gelangen. Da müssten in der App auf jeden Fall Kontrollmechanismen eingebaut werden. Beispielsweise, dass man einen Tunnel nur begrenzt lange folgen kann.",
+      "treatment": 0,
+      "id": "ima5e"
     },
     {
       "index": "c2_340",
       "text": "Das interaktive Spiel dreht sich um ein niedliches Faulpelz-Tierchen, das an einem Tag verschiedene Aufgaben erfüllen muss, um seinen schweren Pelzmantel abzulegen. Spieler erhalten personalisierte Aktivitätsvorschläge, die zu ihren Interessen passen, wie Spaziergänge, Lesen oder Mini-Spiele. Durch das Setzen von Zielen, wie das Abschließen von drei Aktivitäten, können die Spieler das Tierchen motivieren und Belohnungen freischalten. Das Spiel simuliert Wetterbedingungen, wodurch bestimmte Aktivitäten nur bei bestem Wetter verfügbar sind. Community-Elemente ermöglichen es den Spielern, ihre Fortschritte zu teilen und gemeinsam herausfordernde Aktivitäten zu planen. Die Kombination aus produktiven Aufgaben und Spaß macht das Spiel ansprechend. Am Ende des Tages wird das Tierchen für die geleistete Produktivität belohnt und kann seinen Pelzmantel ablegen. So erleben die Spieler eine Mischung aus Motivation und Unterhaltung.",
       "treatment": 1,
       "id": "ame9s"
-    },
-    {
-      "index": "c2_39",
-      "text": "Eine App für alle, bei der man Fotos von Nahrungsmitteln, sowohl verarbeitet als auch unverarbeitet, einfügen kann und diese mithilfe von KI ausgewertet werden. Dabei soll herauskommen, ob sie noch essbar sind oder nicht. Anschließend sollen dann noch Lösungsvorschläge zum Thema gerechter Entsorgung oder zur möglichen Verarbeitung der Lebensmittel gegeben werden.",
-      "treatment": 0,
-      "id": "wja5l"
     },
     {
       "index": "c2_42",
@@ -123,6 +117,12 @@
       "text": "Die App filtert und ordnet nach Quelle, Suchbegriff, Sprache und Verwendungszweck sowie Kontext, um dem User einen sinnvollen Überblick über Inhalte geben zu können.",
       "treatment": 0,
       "id": "aji5h"
+    },
+    {
+      "index": "c2_78",
+      "text": "Die App \"MindMap My Day\" bietet eine innovative Lösung für effektives Aufgabenmanagement. Sie richtet sich an Schüler, Studierende und Berufstätige, die ihre täglichen Aktivitäten besser strukturieren möchten. Mit einer interaktiven Mind-Map können Nutzer Aufgaben, Deadlines und relevante Informationen visuell anordnen und miteinander verknüpfen. Eine intuitive Benutzeroberfläche ermöglicht es, Prioritäten zu setzen und Fortschritte spielend nachzuvollziehen. KI-gestützte Vorschläge helfen, Zeit optimal zu managen und Ressourcen besser zu nutzen. Die App fördert nicht nur die Übersichtlichkeit, sondern auch das Gedächtnis und die Entscheidungsfindung. Besonders kreativ ist die Echtzeit-Kollaboration, die das gemeinsame Bearbeiten von Mind-Maps ermöglicht. Dies stärkt den Austausch unter Freunden oder Kollegen und fördert teamorientiertes Arbeiten.",
+      "treatment": 1,
+      "id": "amt5g"
     }
   ]
 }

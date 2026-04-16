@@ -53,12 +53,6 @@
       "id": "ija5c"
     },
     {
-      "index": "q2_214",
-      "text": "Hierbei handelt es sich um eine Modellierungsaufgabe. Leider habe ich keine Zeit mehr in der Vorlesung gehabt, dies zu berechnen.",
-      "treatment": 0,
-      "id": "isa4h"
-    },
-    {
       "index": "q2_225",
       "text": "Ich denke, es werden sehr viele sein. Von mehreren Tausenden gehe ich aus. 3.000-6.000.",
       "treatment": 1,
@@ -87,6 +81,12 @@
       "text": "Da es ein großer Supermarkt mit mehreren Automaten ist, schätze ich, dass täglich 2500-3500 Pfandflaschen abgegeben werden. Ich bin auf diese Idee gekommen, indem ich über die Öffnungszeit und die durchschnittliche Abgabe pro Person nachgedacht habe.",
       "treatment": 0,
       "id": "eoa6g"
+    },
+    {
+      "index": "q2_328",
+      "text": "Über 1200 Flaschen können am Tag an einem Automaten abgegeben werden. Durch die mehreren Automaten müssten es mindestens 2400 Flaschen sein.",
+      "treatment": 1,
+      "id": "cje6h"
     },
     {
       "index": "q2_330",

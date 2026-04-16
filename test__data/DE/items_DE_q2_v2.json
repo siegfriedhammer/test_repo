@@ -5,34 +5,28 @@
   "n_items": 20,
   "items": [
     {
-      "index": "q2_108",
-      "text": "Da es keine genauen Angaben der Anzahl der Läufer oder km usw. gibt, kann man nur schätzen. Angenommen 5.000 Teilnehmer und 50-70 % nehmen an jeder der Wasserstationen alle 5 km ca. Wasser, dann wären es etwa 2.100 Liter Wasser, die herausgegeben werden, aber alles nur Schätzungen an ungefähren Werten festgestellt.",
+      "index": "q2_133",
+      "text": "Angenommen, es nehmen 10.000 Läufer:innen teil, jede Person trinkt im Schnitt an 5 Verpflegungsstationen einen 200-ml-Becher, dann werden insgesamt etwa 10.000 Liter Wasser ausgegeben. Je nach Teilnehmerzahl, Anzahl der Stationen und Trinkmenge pro Becher liegt die Gesamtmenge realistisch im Bereich von ungefähr 10.000 bis 30.000 Litern.",
+      "treatment": 0,
+      "id": "omr4l"
+    },
+    {
+      "index": "q2_141",
+      "text": "8000. In einem Becher sind ungefähr 0,25L, das mal 4 sind 1L. 400 Becher sind also 100L usw. Wenn eine Person im Durchschnitt 8 Becher trinkt, während des Laufens, dann würde man ungefähr auf eine solche Menge kommen.",
       "treatment": 1,
-      "id": "ija3h"
+      "id": "njn5s"
     },
     {
-      "index": "q2_116",
-      "text": "Mehrere tausend Liter, da oft Wasser überschwappt und Leute sich neue Becher holen müssen. Viele kippen das Wasser auch nur über sich, es wird also viel verschwendet, würde ich sagen, und es wird nicht nur zum Trinken benutzt.",
-      "treatment": 0,
-      "id": "ioe5h"
-    },
-    {
-      "index": "q2_119",
-      "text": "Es gibt keine genauen Daten dazu, wie viele Wasserstationen es gibt, wie viel Wasser dort ausgeschenkt wird und wie viele Läufer das Angebot des Wassers annehmen. Außerdem gibt es zur Anzahl der Läufer nur die Aussage mehrere Tausende, was relativ ungenau ist. Um ermitteln zu können, wie viele Liter Wasser ca. ausgeschenkt werden, braucht man einen genauen und aussagekräftigen Datensatz.",
+      "index": "q2_150",
+      "text": "Bei einem Marathon gibt es in der Regel alle 5 Kilometer Verpflegungsstationen, was bedeutet, dass es etwa 6-8 Stationen entlang der Strecke gibt, abhängig von der Gesamtlänge des Marathons. Ein Läufer trinkt im Durchschnitt zwischen 500 ml und 1 Liter Wasser während des gesamten Rennens, abhängig von der Temperatur, der Luftfeuchtigkeit und der individuellen Vorliebe. Mehrere Tausend Läufer -> z.B. 3.000. 7 Stationen. Ca. 750 ml. 3.000 Läufer. 750 x 3.000.",
       "treatment": 1,
-      "id": "ode7b"
+      "id": "ija4h"
     },
     {
-      "index": "q2_157",
-      "text": "Wenn ich davon ausgehe, dass in einem Pappbecher 250 ml Wasser drin sind und ca. 330 Läufer*innen pro Station Wasser nehmen werden, um es zu trinken oder sich abzukühlen, und ich von 21 Stationen (alle 2 km eine Station) ausgehe, dann würde ich die Litermenge in 0.25 * 330 * 21 ausgehen.",
-      "treatment": 0,
-      "id": "rae7h"
-    },
-    {
-      "index": "q2_218",
-      "text": "1000-1500, geraten",
-      "treatment": 0,
-      "id": "aoa4h"
+      "index": "q2_232",
+      "text": "Das Ganze hängt von der genauen Anzahl Läufern, der Größe der Wasser-Cups und wie viel die Läufer trinken während des Marathons. Während eines Marathons wird empfohlen, etwa 500 bis 1000 ml Wasser pro Stunde zu trinken, abhängig von individuellem Bedarf, Wetterbedingungen und Fitnesslevel. Sagen wir 2-4 Stunden, das heißt 1000-4000 ml pro Läufer -> 5000 Läufer ca. 5000-20000 Liter.",
+      "treatment": 1,
+      "id": "ioi4h"
     },
     {
       "index": "q2_233",
@@ -41,16 +35,40 @@
       "id": "cje5b"
     },
     {
+      "index": "q2_24",
+      "text": "Ich gehe davon aus, dass an dem Marathon etwa 10.000 Läufer:innen teilnehmen. Entlang der Strecke gibt es ungefähr 10 Verpflegungsstationen. Nicht jede Person nimmt an jeder Station Wasser, daher schätze ich, dass jede Person im Durchschnitt an etwa 6 Stationen trinkt. Pro Becher werden ungefähr 200 ml Wasser ausgegeben. Das ergibt 10.000 × 6 × 0,2 Liter = 12.000 Liter Wasser insgesamt. Diese Menge erscheint realistisch, da bei langen Läufen regelmäßig, aber nicht an jeder Station, Wasser aufgenommen wird.",
+      "treatment": 1,
+      "id": "eja4h"
+    },
+    {
+      "index": "q2_253",
+      "text": "Ich schätze, dass bei dem Marathon etwa 10.000 Leute mitlaufen. Es gibt ungefähr 8 Verpflegungsstationen, aber niemand nimmt an jeder Station Wasser. Wenn man annimmt, dass jede Person im Schnitt an 4 Stationen einen Becher nimmt, kommt man auf 4 Becher pro Person. Ein Becher fasst etwa 0,2 Liter. Insgesamt wären das also rund 8.000 Liter Wasser. Das ist nur eine grobe Schätzung, weil das Trinkverhalten sehr unterschiedlich ist.",
+      "treatment": 0,
+      "id": "uda4s"
+    },
+    {
       "index": "q2_265",
       "text": "Es wird davon ausgegangen, dass mind. alle 5 km eine Station mit Wasser steht, das wären bei 42,5 km ca. 8-9 Stationen. Gehen wir davon aus, dass jeder der hier angenommenen 6.000 MarathonläuferInnen 5x Wasser trinkt. Das wären 30.000 Wasserbecher à 200 ml. Es würden nach dieser Rechnung also mind. 6.000 l Wasser.",
       "treatment": 0,
       "id": "nsa6a"
     },
     {
-      "index": "q2_272",
-      "text": "Anzahl der Trinkstationen multiplizieren mit der Gesamtanzahl an Marathonläufern mal 0,75 (geschätzter Anteil, der Getränk wahrnimmt). Dieses Zwischenergebnis multipliziert mit der Füllmenge eines Bechers, bspw. 0,2 ml.",
+      "index": "q2_271",
+      "text": "Mehrere tausend Liter.",
       "treatment": 1,
-      "id": "zja8h"
+      "id": "öse5h"
+    },
+    {
+      "index": "q2_273",
+      "text": "Es werden ca. 3600 Wasser ausgegeben. Ansatz: Mehrere tausend Läufer*innen = 4000. Pro Lauf trinkt jemand ca. 800 ml-1 Liter Wasser. 0,8 * 4000 = 3200. 1 * 4000 = 4000. 3600 als Mittelwert.",
+      "treatment": 0,
+      "id": "ana6l"
+    },
+    {
+      "index": "q2_275",
+      "text": "Was ein Hammer. Völlig uneinschätzbar, da die Zahl mehrere tausend Läufer, alles zwischen 2 und x tausend Teilnehmenden sein. Meine Antwort ist dementsprechend genau so vage und lautet zwischen 1 und x Litern Wasser.",
+      "treatment": 0,
+      "id": "uon9b"
     },
     {
       "index": "q2_279",
@@ -59,28 +77,28 @@
       "id": "isa6h"
     },
     {
-      "index": "q2_292",
-      "text": "Ca. 1.000 Liter, da nicht jeder einen ganzen Liter trinken wird und auch eigene Trinkflaschen dabei haben werde.",
+      "index": "q2_287",
+      "text": "Das hängt von der Anzahl der Wasserstationen und der Größe der Becher ab. Ich vermute, es werden ca. halb so viele Liter wie Teilnehmer ausgegeben.",
       "treatment": 0,
-      "id": "üoa3r"
+      "id": "lja7b"
     },
     {
-      "index": "q2_293",
-      "text": "Sagen wir, jeder zweite nimmt eine kleine Flasche Wasser (0,5 l). Ich würde dann schätzen, dass von mehreren tausend Menschen die Menge an Wasser bis zu ~600 l sein wird.",
+      "index": "q2_308",
+      "text": "1000 mal x sind die Anzahl der Läufer*innen. x schätze ich ein zwischen 2-9. Ein Einwegbecher ist 250 ml. Ein Marathon ist 42 km. Es sollte jeden km ein Stand sein. Dementsprechend sind es 42 Stände. Die Hälfte der Läufer nimmt sich einen Becher. Pro Stand sind es 1000 mal x / 2 Leute, die sich was zu trinken nehmen. 1000 x 2. Also von 10.500.000 (für x = 2) bis 47.250.000 ml.",
       "treatment": 0,
-      "id": "ofh10"
+      "id": "ona6m"
     },
     {
-      "index": "q2_348",
-      "text": "Angenommen, es nehmen 5.000 Läufer teil und jeder Läufer nimmt im Durchschnitt an 3 Verpflegungsstationen Wasser. Wenn bei jeder Station pro Läufer etwa 0,25 Liter Wasser ausgegeben werden, ergibt sich folgende Rechnung: 5.000 Läufer × 3 Stationen × 0,25 Liter = 3.750 Liter Wasser insgesamt.",
+      "index": "q2_309",
+      "text": "1000 Liter Begründung: Ich war mehrmals bei der Wasserhaushalte dabei und es war eine Menge Wasser.",
       "treatment": 1,
-      "id": "edt6g"
+      "id": "rma5h"
     },
     {
-      "index": "q2_350",
-      "text": "Was ich denke, ist, dass die Frage so nicht zu beantworten ist.",
-      "treatment": 0,
-      "id": "oos6b"
+      "index": "q2_342",
+      "text": "Ich möchte erst einmal meine angenommenen Daten nennen, da vieles nicht explizit gegeben war: In der Aufgabe hieß es, mehrere Tausend Teilnehmer nehmen mit, da im Schnitt 10.000-3.000 laut Chat GPT teilnehmen, rechne ich mit 20.000 Leuten. Außerdem habe ich folgende Annahmen oder Schätzungen bei der Trinkmenge angenommen: Laut Chat GPT trinken Läufer alle 20-30 Minuten Wasser. Da eventuell noch Becher verschüttet oder versehentlich umgeschmissen werden, gehe ich nicht vom Durchschnitt, sondern alle 20 Minuten aus und von einer durchschnittlichen Lauflänge von 3 Stunden. Laut GPT sind die Becher mit 150-200 ml gefüllt. Ich gehe hier von 200 ml aus.",
+      "treatment": 1,
+      "id": "cdh6l"
     },
     {
       "index": "q2_359",
@@ -89,40 +107,22 @@
       "id": "oat5w"
     },
     {
-      "index": "q2_41",
-      "text": "Die Frage wäre jetzt hierbei, wie viele Wasserstationen es denn über die Strecke verteilt gibt. So kann nämlich dann erst ermittelt werden, wie viel Liter Wasser an jeder Station verbraucht werden. Hier muss auch beachtet werden, dass nicht jeder an jeder Wasserstation trinkt. Müsste ich grob schätzen, würde ich 20 Liter pro Station sagen.",
-      "treatment": 0,
-      "id": "coa4b"
-    },
-    {
-      "index": "q2_43",
-      "text": "Ich schätze, dass insgesamt etwa 18.000 Liter Wasser ausgegeben werden. Begründung: Angenommen, es nehmen rund 10.000 Läufer:innen teil und entlang der Strecke gibt es etwa 20 Verpflegungsstationen. Pro Station trinkt im Durchschnitt nicht jede Person, sondern vielleicht 60 % der Teilnehmenden. Ein Einwegbecher fasst ungefähr 0,15 Liter Wasser. Daraus ergibt sich: 10.000 × 20 × 0,6 × 0,15 L ≈ 18.000 L. Die tatsächliche Menge kann je nach Wetter, Leistungsniveau und Streckenlänge höher oder niedriger ausfallen.",
-      "treatment": 0,
-      "id": "aja9h"
-    },
-    {
-      "index": "q2_49",
-      "text": "15. - 30.000 Liter",
+      "index": "q2_47",
+      "text": "Die Menge an Wasser, die während eines Marathons ausgegeben wird, hängt von verschiedenen Faktoren ab, einschließlich der Anzahl der Verpflegungsstationen und der Teilnehmer. Angenommen, bei einem Marathon nehmen etwa 10.000 Läufer teil. Wenn an jeder Verpflegungsstation etwa 250 ml Wasser in Einwegbechern ausgegeben werden und es beispielsweise fünf solcher Stationen gibt, könnte man schätzen, dass pro Teilnehmer etwa 1,25 Liter Wasser ausgegeben werden. Wenn nicht jeder Läufer an jeder Station Wasser nimmt, ist eine konservative Schätzung, dass etwa 70 % der Läufer an mindestens drei Stationen Wasser nehmen. Das würde bedeuten, dass insgesamt zwischen 20.000 und 30.000 Litern Wasser ausgegeben werden könnten. Diese Zahl variiert jedoch stark je nach Wetterbedingungen und den individuellen Trinkgewohnheiten der Läufer.",
       "treatment": 1,
-      "id": "üjh6g"
+      "id": "rsa9h"
     },
     {
-      "index": "q2_62",
-      "text": "Mehrere tausend Liter. Da einige vielleicht mehr trinken und somit auch die Anzahl der nicht Trinkenden ausgeglichen werden könnte.",
-      "treatment": 1,
-      "id": "cae5w"
-    },
-    {
-      "index": "q2_96",
-      "text": "Kommt stark darauf an, wie viele Läuferinnen antreten. Mehrere tausend ist sehr ungenau. Das kann 3000, aber auch 20000 sein!",
-      "treatment": 1,
-      "id": "cma6w"
-    },
-    {
-      "index": "q2_98",
-      "text": "Es kommt ein wenig darauf an, wie lang die Strecke ist. Ich gehe davon aus, dass die Läuferinnen jeder etwas Wasser trinken, aber nicht zu viel, weil man dann nicht mehr so gut laufen kann. Also im Durchschnitt so um die 1 Liter (wie gesagt, je nachdem wie lang die Strecke ist, dann mehr; Marathon ca. 40 km). Also ca. 1000 Liter.",
+      "index": "q2_94",
+      "text": "Etwa die Hälfte der Läufer*innenanzahl.",
       "treatment": 0,
-      "id": "öda3b"
+      "id": "afs7g"
+    },
+    {
+      "index": "q2_95",
+      "text": "Ca. 7.000 Liter Wasser.",
+      "treatment": 0,
+      "id": "ron3h"
     }
   ]
 }
