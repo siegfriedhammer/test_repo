@@ -2,7 +2,7 @@
   "language": "DE",
   "task": "c2",
   "variant": 3,
-  "n_items": 66,
+  "n_items": 20,
   "items": [
     {
       "index": "c2_108",
@@ -17,82 +17,10 @@
       "id": "üjn6h"
     },
     {
-      "index": "c2_112",
-      "text": "Eine App, die einen davon abhält, sein Telefon zu nutzen, indem sie einen Timer laufen lässt, solange man es nicht benutzt. Die App gibt positives Reinforcement, je länger man das Telefon nicht benutzt, und gibt Motivation, dass man sich länger konzentriert.",
-      "treatment": 0,
-      "id": "lsk6h"
-    },
-    {
       "index": "c2_115",
       "text": "Eine App, in die man jegliche ToDos reinschreiben kann. Die App kategorisiert dann die ToDos. Man kann sie abhaken und auch eintragen, wie lange die ToDos circa benötigen. Die App stellt dann einen ungefähren Plan vor. Zudem kann man auch Einkäufe eintragen bzw. Rezepte speichern und Rezepte vorgeschlagen bekommen. Es kann auch geteilte Accounts geben für zum Beispiel Familien oder WGs.",
       "treatment": 0,
       "id": "rsa4h"
-    },
-    {
-      "index": "c2_121",
-      "text": "Meine App ist so konzipiert, dass sie die Nutzung anderer ablenkender Apps verhindert. Dabei ist die App sehr minimalistisch aufgebaut und kann mit einem einzelnen Button das Lernen starten. Dabei bewirkt die App, dass alle anderen Anwendungen in schwarz-weiß gefärbt werden und so einen wenigen Anreiz zur Nutzung bieten. Gleichzeitig misst die App die Zeit, die zum Lernen verbracht wurde, und nach 30 Minuten wird eine 5-10-minütige Pause ermöglicht, die den Zugriff auf die anderen Apps wieder ermöglicht.",
-      "treatment": 0,
-      "id": "rji5w"
-    },
-    {
-      "index": "c2_122",
-      "text": "Die besagte App analysiert die Bildschirmzeit und deren Verteilung über verschiedene Apps. Anschließend sperrt die App bei Aktivierung die Hauptquellen der Ablenkung für einen vorher festgelegten Zeitraum. Wichtig ist hierbei, dass die App im Gegensatz zu anderen Programmen dem Nutzer für die festgelegte Zeit nicht die Möglichkeit bietet, früher aus dem Fokus-Zustand auszutreten. Somit ist eine Ablenkung durch fehlende Disziplin nicht möglich.",
-      "treatment": 1,
-      "id": "öjy5h"
-    },
-    {
-      "index": "c2_135",
-      "text": "Die App „Störfilter“ verzögert eingehende Informationen, statt sie sofort anzuzeigen. Benachrichtigungen werden gesammelt und nur zu festgelegten Pausen freigegeben. Verpasste Inhalte erscheinen als kurze Zusammenfassung, damit nichts Wichtiges verloren geht. Häufiges, impulsives Entsperren verlängert die nächste Verzögerung leicht. Wichtige Kontakte oder Apps können Ausnahmen bekommen. Beim Öffnen des Handys zeigt die App zuerst die aktuelle Aufgabe statt vieler Symbole. Ablenkung wird sichtbar gemacht, ohne sie zu bewerten oder zu bestrafen. So entsteht mehr Ruhe durch Tempo-Reduktion statt durch Verbote.",
-      "treatment": 1,
-      "id": "eje5b"
-    },
-    {
-      "index": "c2_139",
-      "text": "Eine App, die Atemübungen mit dir macht. Jede Woche geht die kleine Meditation eine Minute länger, somit lernen die Benutzenden sich verstärkt auf sich selbst zu konzentrieren. Die Menschen können dann eintragen, wie sie sich vor und danach und generell an diesem Tag gefühlt haben. So kann man Daten erheben, ob es einen positiven Einfluss auf die gesamte Stimmung hat, wenn man kurz zur Ruhe kommt.",
-      "treatment": 0,
-      "id": "nfa5w"
-    },
-    {
-      "index": "c2_146",
-      "text": "Meine App ist ein beruhigendes Spiel, in dem man sich seinen eigenen Garten erstellen kann. Sie kann nur im Flugmodus gespielt werden, damit man nicht von irgendwelchen Nachrichten gestört wird, sondern sich vom stressigen Alltag ablenken kann. Pro Tag kann man seinen Garten ein kleines bisschen vergrößern und neue Gegenstände gewinnen.",
-      "treatment": 0,
-      "id": "ase5h"
-    },
-    {
-      "index": "c2_148",
-      "text": "Die App soll die Social-Media-Nutzung verringern, indem sie die Nutzungsmuster von Usern analysiert und mithilfe eines Algorithmus herausfindet, wann man strategisch gut eine Benachrichtigung senden kann, um den Nutzer von seiner Social-Media-Nutzung abzubringen, während dieser beispielsweise Instagram oder TikTok geöffnet hat. Die Daten sollen dabei auf dem Smartphone analysiert und sicher dort gespeichert werden. Meines Wissens nach gibt es eine solche App bisher noch nicht, lediglich andere Ansätze, die nicht so gut funktionieren. Man könnte dabei noch Anreize für die Nutzenden geben, beispielsweise eine Stadt, die langsam wächst und neue Features hinzubekommt oder einen Fortschrittstracker einzubauen.",
-      "treatment": 1,
-      "id": "tar6p"
-    },
-    {
-      "index": "c2_149",
-      "text": "Die App heißt „FocusSphere“ und zielt darauf ab, Ablenkungen im Alltag durch gezielte gemeinschaftliche Fokussierung zu reduzieren. Sie richtet sich an Studierende, Berufstätige und kreative Köpfe, die ihre Konzentration steigern möchten. Nutzer erstellen einen digitalen Raum, in dem sie mit Freunden oder Kollegen verbindlich festgelegte Arbeitszeiten haben. Während dieser Zeit werden Benachrichtigungen von sozialen Medien und anderen Ablenkungen automatisch blockiert. Die App analysiert das Nutzerverhalten zu Ablenkungen, um personalisierte Empfehlungen zu geben und nachweislich produktivitätssteigernde Zeitfenster zu identifizieren. Außerdem könnten die Nutzer ihre Erfolge in Form von Statistiken visualisieren, was wiederum die Eigenmotivation steigert. Dieser gemeinschaftliche Fokus und die automatische Blockade von Ablenkungen sind neu und kreativ, da sie die soziale Verantwortung und Unterstützung fürs konzentrierte Arbeiten betonen. Mit der Integration von Gamification-Elementen steigert die App die Nutzerbindung und macht das produktive Arbeiten zu einer unterhaltsamen Herausforderung.",
-      "treatment": 1,
-      "id": "cde5p"
-    },
-    {
-      "index": "c2_15",
-      "text": "Unsere App zur Bekämpfung von Ablenkungen, „FocusMate“, richtet sich an Studierende und Berufstätige, die ihre Produktivität steigern möchten. Die Grundidee besteht darin, Nutzer dabei zu unterstützen, konzentriert zu arbeiten, indem sie Ablenkungen aktiv minimiert. Die App bietet personalisierte Zeitmanagement-Tools und Gamification-Elemente, um den Nutzer zu motivieren. Sie analysiert das Nutzerverhalten und identifiziert häufige Ablenkungen, um maßgeschneiderte Strategien zu entwickeln. Dabei entstehen Daten über Arbeitsgewohnheiten und Zeitnutzung, die helfen, den individuellen Fokus zu verbessern. Die besondere Kreativität der App liegt in der Kombination aus sozialem Austausch – Nutzer können virtuelle Partner finden, um gemeinsam fokussiert zu arbeiten – und interaktiven Herausforderungen, die den Fortschritt sichtbar machen. Dieses Konzept fördert nicht nur die Produktivität, sondern schafft auch eine unterstützende Community.",
-      "treatment": 1,
-      "id": "uar5h"
-    },
-    {
-      "index": "c2_152",
-      "text": "Eine App, die auf der einen Ebene wie herkömmliche Apps Push-up-Benachrichtigungen unterdrücken kann von anderen Apps und zudem aber auch Tipps gibt für Aufmerksamkeitsübungen. Was kann man am Tag tun, um seine Konzentration zu stärken und weniger am Handy zu sein? Wo und wann am Tag kann ich mein Handy weg lassen und durch etwas anderes ersetzen? Die App weiß das, da man am Anfang der Einrichtung angeben kann, wo und wann man sein Handy am Tag benutzt. Daraus werden dann Schlüsse gezogen und Strategien entwickelt.",
-      "treatment": 1,
-      "id": "esr6h"
-    },
-    {
-      "index": "c2_156",
-      "text": "Eine App, die das Handy für eine bestimmte Zeit, z.B. über 20 Minuten, vollständig sperrt, um effektiv und gut zu lernen. Die App erlaubt nur dringende Anrufe anzunehmen und schaltet alle Benachrichtigungen für die Dauer aus und stellt dann ein Zeitlimit auch für Pausen ein, um strukturiert zu lernen.",
-      "treatment": 0,
-      "id": "eaa4o"
-    },
-    {
-      "index": "c2_16",
-      "text": "Es ist eine App, die jeden Mal, wenn ich mich ablenken lasse, mich eine Minute durchatmen lässt. Heißt, wenn ich Instagram öffne, ich unnötig mein Handy öffne oder ähnliches.",
-      "treatment": 0,
-      "id": "ajf5b"
     },
     {
       "index": "c2_162",
@@ -101,64 +29,10 @@
       "id": "anx3l"
     },
     {
-      "index": "c2_171",
-      "text": "Vllt könnte das Handy in vorher angegebenen Abständen vibrieren (z. B. alle 10 min), sodass man immer daran erinnert ist, was man eigentlich zu tun hat und nicht so schnell in den Autopilot schaltet. Wenn man Kopfhörer auf hat oder allein ist, könnte man das auch über ein Geräusch machen. Das wäre auch gleichzeitig eine Motivation, dass man erneut 10 min geschafft hat.",
-      "treatment": 0,
-      "id": "rja4b"
-    },
-    {
-      "index": "c2_174",
-      "text": "Die App setzt zeitliche Grenzen, in denen Apps sozialer Medien genutzt werden. Und gleichzeitig soll sie während des Lernens unterstützen, bspw. könnte sie einen Timer beinhalten, der nach 20 min Lernen eine 5-minütige Pause ermöglicht, in der ggf. Entspannungsübungen von der App vorgegeben werden, bevor der nächste Lernblock startet.",
-      "treatment": 0,
-      "id": "lai5b"
-    },
-    {
-      "index": "c2_177",
-      "text": "Es geht um eine „Streak“-App, dabei kann man sich verschiedene Ziele setzen, z.B. „Ich möchte täglich lernen“, die App erinnert dich dann daran und wenn du das Ziel erreicht hast, wird ein Counter über die Anzahl der Tage hochgezählt, an denen du das Ziel in Folge erreicht hast. Dabei kann man sich dann z.B. auch mit anderen messen, um sich gegenseitig zu motivieren, an seinen Zielen dran zu bleiben. Die Angaben beruhen dabei natürlich auf Vertrauen.",
-      "treatment": 0,
-      "id": "ajn6l"
-    },
-    {
-      "index": "c2_179",
-      "text": "Ich würde eine App entwickeln, um Daten zu sammeln, z.B. in der Uni, um den individuellen Lernfortschritt in den Veranstaltungen zu beobachten und die Zufriedenheit festzustellen und zu verbessern. Dabei würde ich die Daten nutzen, um realistischer zu beobachten, wie man das Universitätsleben, mit dem Fokus auf der mentalen Gesundheit, besser gestalten könnte.",
-      "treatment": 0,
-      "id": "cae8l"
-    },
-    {
-      "index": "c2_184",
-      "text": "Ich entwickle eine App, die dir bei zu viel Zeit am Handy erst einen Hinweis ausgibt, dass du dich zu viel mit deinem Handy beschäftigst und es wichtig ist, eine Pause zu machen. Wenn man nach ein paar Minuten immer noch nicht aufgehört hat, wird gewarnt, dass das Handy in 15 Sekunden ausgeschaltet wird und für eine Zeit von 30 Minuten gesperrt wird. Das heißt, das Handy lässt sich danach auch nicht mehr anschalten, bis die 30 Minuten abgelaufen sind. Die Bildschirmzeit kann für verschiedene Apps angepasst werden.",
-      "treatment": 0,
-      "id": "ümk6h"
-    },
-    {
-      "index": "c2_187",
-      "text": "Eine App, die dem Handy eine Bildschirmzeit auferlegt, ohne Möglichkeiten, die Apps auszuwählen, sowie zählt, wie häufig die Person aufs Handy klickt. Zum Lernen stellt man einen Timer zum Üben auf und lässt diesen laufen, die Apps werden dabei gesperrt. Bei jedem Klicken wird gezählt, wie häufig die Person ans Handy gehen möchte, um danach eine Statistik aufzustellen und Tipps gegen Ablenkungen zu geben. Basierend auf der Häufigkeit würden dann Verhaltensmuster erstellt werden, die dann mit richtigen Maßnahmen verbessert werden könnten, sowie man Erfolge sammelt bei jedem Lernen.",
-      "treatment": 1,
-      "id": "aaa5h"
-    },
-    {
-      "index": "c2_188",
-      "text": "Die App heißt „SoundBubble“ und erzeugt persönliche Klangräume, die Ablenkungen akustisch „wegfiltern“. Sie richtet sich an Menschen, die in lauten Umgebungen lernen oder arbeiten (ÖPNV, Schule, WG, Café). Dazu nutzt die App das Mikrofon, um Umgebungsgeräusche zu erkennen, und mischt daraus adaptive Soundkulissen (z. B. leises White-Noise, Naturklänge oder Musikfragmente), die sich dynamisch an die Geräuschintensität anpassen. Nebenbei sammelt sie Daten zu Lärmquellen und Fokuszeiten und erstellt damit ein „Lärm-Profil“ der Nutzer, das zeigt, wann und wo man am produktivsten ist. Neu und kreativ ist, dass Ablenkungen nicht blockiert oder ignoriert werden – sie werden zu einem eigenen „Klangmaterial“ für personalisierte Soundbubbles, die Konzentration fördern. Das ist nützlich, weil viele Menschen zwar Fokus-Apps nutzen, aber die reale Geräuschkulisse meistens vergessen wird – hier wird sie zum Teil der Lösung statt des Problems.",
-      "treatment": 1,
-      "id": "ija3h"
-    },
-    {
-      "index": "c2_2",
-      "text": "Eine Kleidungs-App, die einem Outfits aus den bereits zuhause liegenden Klamotten erstellt.",
-      "treatment": 1,
-      "id": "e0k5i"
-    },
-    {
       "index": "c2_205",
       "text": "Eine Website, die aussieht wie ein Zoom-Meeting, mit seinen Lieblingscharakteren. Welche sich immer im selben Pattern bewegen. So lenkt man sich nicht ab, da es sich anfühlt, als würde man mit anderen lernen. Dies könnte ein ansprechendes Lern- oder Arbeitsumfeld schaffen. Man könnte die Lieblingscharaktere in einem festen Muster anordnen, sodass die Nutzer nicht abgelenkt werden und sich besser konzentrieren können. Oder anstelle von Charakteren verschiedene Orte, an denen man lernt, mit den jeweiligen Hintergrundgeräuschen. So bringt man Abwechslung ins Lernen und bleibt länger am Ball.",
       "treatment": 1,
       "id": "öjy5h"
-    },
-    {
-      "index": "c2_211",
-      "text": "Die App soll wesentlich aus einem App-Blocker bestehen. Man kann einstellen, zu welchen Zeiten man wie lange insgesamt welche App oder Webseite verwenden kann. Will man eine App im gesperrten Zeitraum öffnen, erscheint ein Fenster, bei dem ein ausführlicher Grund angegeben werden muss, wieso man die App nutzen will. Dies soll zur Reflektion im Umgang mit technischen Geräten und einer bewussteren Nutzung beitragen. Dann wird zudem eine kurze Achtsamkeitsübung nötig sein, z.B. soll man 3 Dinge benennen, die man sehen und hören kann und etwas, was man riechen und schmecken kann. Erst nach dieser Angabe kann die App für eine begrenzte Zeit, die vorher eingestellt wird und während der App-Nutzung nicht veränderbar ist, genutzt werden.",
-      "treatment": 0,
-      "id": "ama6a"
     },
     {
       "index": "c2_221",
@@ -167,28 +41,10 @@
       "id": "tna7m"
     },
     {
-      "index": "c2_225",
-      "text": "Ich überlege, eine App zu bauen, die dir verschiedene Übersichten zeigt. Einmal, wie ist deine Statistik auf deinem Handy und im Gegensatz dazu deine zu erledigenden Aufgaben. Sie dient für Studenten als Überblick für die erledigenden Aufgaben und wie lange und wo sie schon Zeit auf dem Handy verbracht haben. Die Daten müssten vom Handy verfügbar sein und die selber angegebenen Daten für die Aufgaben.",
-      "treatment": 1,
-      "id": "üna4h"
-    },
-    {
       "index": "c2_234",
       "text": "Ich würde gerne eine App programmieren, in der man einen Zeitraum der Konzentrationsphase festlegt. Danach wird die Handyaktivität gemessen und jedes Mal, wenn man auf festgelegte Apps oder sein Handy generell benutzt, werden 50 Cent von dem Bankkonto der nutzenden Person an eine gemeinnützige Organisation gespendet.",
       "treatment": 1,
       "id": "oal8h"
-    },
-    {
-      "index": "c2_242",
-      "text": "Eine App, in der du unterschiedliche Apps in eine Kategorie stecken kannst, bspw. nur Social Media, Nachrichten oder andere Apps, oder auch alle Apps auswählen kannst. Dann kann man alle oder mehrere Kategorien auswählen, welche Apps gesperrt werden sollen. Gleichzeitig beginnt ein Timer, der die Zeit misst, wie lange du die Apps deaktivierst. Man kann auswählen, wie viel Zeit man sich selbst geben möchte, bspw. 20 min pro Tag, um innerhalb dieser Zeit alle Apps zu nutzen. Je länger der Timer, desto weiter entwickelt sich eine Animation, bspw. ein Strauch bis zu einem Garten/ein Dorf bis eine belebte Stadt oder ein Strauch bis Baum. Bei der Unterbrechung wird die Animation sofort “verwelken” oder “zerstört”.",
-      "treatment": 0,
-      "id": "jas4h"
-    },
-    {
-      "index": "c2_245",
-      "text": "Eltern-Kind-App: Unterstützung in der kindlichen Entwicklung von 0 bis 12. Eltern bekommen Informationen zur Entwicklung, Infos, Hilfestellung. Verbessert auf lange Sicht gesellschaftliches Miteinander, Zwischenmenschlichkeit. Daten aus aktuellen und historischen Bereichen und Datensätze aus Erhebungen. Ganzheitlich und nachhaltig.",
-      "treatment": 0,
-      "id": "ean9f"
     },
     {
       "index": "c2_246",
@@ -197,34 +53,10 @@
       "id": "afe6w"
     },
     {
-      "index": "c2_249",
-      "text": "Eine App, in der man kurz Videos sehen kann. Ist zwar nicht neu, aber ich füge einen Battle Pass hinzu und je mehr man guckt und Aufgaben löst, kriegt man Belohnungen, z.B. ein neues Design.",
-      "treatment": 0,
-      "id": "usl6l"
-    },
-    {
-      "index": "c2_252",
-      "text": "Um Ablenkung zu reduzieren, würde ich eine App entwickeln, die ich beim Lernen öffne. Sobald diese App offen ist, kann ich meine To-Dos für den Tag einstellen und die Zeit, die ich zur Verfügung habe, und aussuchen, ob ich nach einer bestimmten Technik lernen möchte (Häufigkeit der Pausen etc.). Sobald ich den Timer der App starte, sind andere Apps und Mitteilungen blockiert. Wenn ich fertig mit der Aufgabe bin, bestätige ich sie. Die App macht auch Vorschläge, wie ich die Lernpausen nutzen kann. Bei der Idee ist nützlich, dass Ablenkung minimiert wird und explizite Vorschläge für Pausen gefeiert werden, während die restliche Handynutzung blockiert ist.",
-      "treatment": 1,
-      "id": "ofa4b"
-    },
-    {
-      "index": "c2_253",
-      "text": "Die App unterstützt Nutzer:innen dabei, bewusster mit Ablenkung im digitalen Alltag umzugehen. Sie richtet sich an Menschen, die ihre Aufmerksamkeit besser steuern und fokussierter arbeiten oder lernen möchten. Durch die Analyse von Nutzungszeiten und Fokusphasen macht die App Ablenkung sichtbar. Auf dieser Grundlage gibt sie individuelle Impulse und kurze Challenges zur Reflexion. Die verwendeten Daten werden anonym und datensparsam verarbeitet. Der kreative Ansatz liegt darin, Ablenkung nicht zu vermeiden, sondern bewusst wahrzunehmen und zu gestalten.",
-      "treatment": 0,
-      "id": "uda4s"
-    },
-    {
       "index": "c2_254",
       "text": "Die Idee war letztendlich die Ausgabe von Blumen in Bildformat durch die Eingabe des gewünschten Anlasses und der Farbe.",
       "treatment": 1,
       "id": "iag7b"
-    },
-    {
-      "index": "c2_257",
-      "text": "Lerngruppen können in der App einen Timer einstellen, der für jede/n gültig ist. In der Zeit dürfen keine weiteren Aktivitäten am Handy ausgeführt werden. Sobald eine Person den Timer beendet, werden allen Teilnehmer/innen Punkte abgezogen.",
-      "treatment": 0,
-      "id": "iji4s"
     },
     {
       "index": "c2_26",
@@ -239,40 +71,10 @@
       "id": "inl4h"
     },
     {
-      "index": "c2_264",
-      "text": "Es bleibt eine App im Hintergrund, die bei jeglicher nicht von Beginn an zugelassenen App interveniert. Dabei liegt ein besonderes Augenmerk auf Social Media und Games. Um das Ganze interaktiver zu gestalten, wird im Hintergrund Stein für Stein ein hohes Gebäude errichtet (bsp. die Akropolis oder das Kolosseum). Durch eine vorher eingestellte Zeit wird hierbei die Größe und Art des Gebäudes bestimmt. So ist die Errichtung einer ganzen Tempelanlage langwieriger und zeitintensiver als die Errichtung eines Wohnhauses. Das Ziel könnte das Errichten von Rom oder Athen oder einer der Inka-Städte sein. Pro Studienkurs ist das Ziel, eine Stadt pro Semester (orientiert an CPs). Das Abbrechen sorgt für einen kompletten Baustillstand bis zum Weiterlernen. Ein Deaktivieren der App ist nur durch Eingeben eines vordefinierten Codes möglich.",
-      "treatment": 0,
-      "id": "eso4m"
-    },
-    {
-      "index": "c2_279",
-      "text": "App: Uni bzw. Bachelor/Master Finder (Major/Minor Finder an der Leuphana). Den Studieninteressierten soll bei der Wahl ihrer Universität und ihres zukünftigen Studienganges geholfen werden. Im Bezug auf die Leuphana also den passenden Major und Minor zu finden. Zunächst soll es ein Swiping-System geben (ähnlich Dating-Apps wie z.B. Tinder). Dann soll die App, ähnlich dem Wahl-O-Mat, funktionieren, also Interessen und Vorlieben abfragen, welche anschließend auch gewichtet werden können. Vorher kann ausgewählt werden, ob die Frage nach der passenden Uni oder Studiengang relevant ist. Die App soll dann auf die passenden Unis oder Studiengänge und die passende Website verweisen.",
-      "treatment": 1,
-      "id": "isa6h"
-    },
-    {
       "index": "c2_28",
       "text": "Die App \"FocusBuddy\" wurde entwickelt, um Ablenkungen in der digitalen Welt zu minimieren und die Produktivität zu steigern. Sie richtet sich an Studierende, Berufstätige und alle, die sich auf ihre Aufgaben konzentrieren möchten. Die Grundidee besteht darin, die Nutzung von Smartphones während der Arbeitszeit zu regulieren, indem Nutzer personalisierte Konzentrationsphasen festlegen können. Während dieser Phasen blockiert die App Ablenkungen durch Social Media und Benachrichtigungen. Nutzer können auch ihre Fortschritte verfolgen, um zu sehen, wie viel Zeit sie tatsächlich produktiv verbracht haben. Die App nutzt Daten über die App-Nutzung und Bildschirmzeit, um individuelle Empfehlungen zur Verbesserung der Konzentration zu geben. Dies ist besonders nützlich, da es Menschen hilft, ihre Arbeitsgewohnheiten zu verstehen und zu optimieren. Durch die einfache Benutzeroberfläche und die Anpassungsfähigkeit hebt sich \"FocusBuddy\" von anderen Ablenkungsregulierungs-Apps ab.",
       "treatment": 1,
       "id": "ljx5h"
-    },
-    {
-      "index": "c2_280",
-      "text": "Bei meiner App geht es darum, das Lernen zu erleichtern, Produktivität zu steigern und Ablenkung zu minimieren. Dazu kann man bei der App einzelne Zeitrahmen einstellen für bestimmte Aufgaben, die man erledigen muss. So kann man sich für das Lernen einen Zeitraum von bspw. einer Stunde ohne Ablenkung einstellen und während ein Timer beginnt zu laufen, startet ausgewählte Entspannungsmusik, die vorher selbst ausgewählt werden kann. Sobald der Timer abgelaufen ist, verstummt die Musik. Da unser Belohnungszentrum aktiviert werden muss, schlage ich vor, dass man Punkte sammeln kann, je nachdem, ob oder wie oft man gestoppt hat, denn die App erkennt Aktivität am Handy und zählt diese automatisch als Unterbrechung, als Ablenkung. Die Punkte, die man sammelt, schalten neue Entspannungsmusik frei.",
-      "treatment": 0,
-      "id": "eda8h"
-    },
-    {
-      "index": "c2_284",
-      "text": "Die App könnte „FocusReminder“ heißen und eine ansprechende Benutzeroberfläche bieten. Nach dem Setzen von wichtigen Terminen im Kalender wird die App Nutzer:innen erinnern, indem sie nach 20 Minuten Nutzung sozialer Medien eine Benachrichtigung mit den bevorstehenden Terminen anzeigt. Um die App-Nutzung zu begrenzen, könnte eine sinnvolle Aufgabe wie ein kurzes Quiz oder eine kreative Herausforderung vorgeschlagen werden, die gelöst werden muss, um die Sperre aufzuheben. Falls die Aufgabe ignoriert wird, bleibt der Zugang zu sozialen Medien für eine Stunde gesperrt. Die App könnte auch individuelle Ziele und Belohnungen integrieren, um die Motivation zu fördern. Ein zusätzlicher Statistik-Bereich könnte Nutzer:innen Einblicke in ihre Nutzungsgewohnheiten geben, um Bewusstsein zu schaffen. Die verwendeten Daten sollen die Kalenderdaten und Bildschirmzeit sein.",
-      "treatment": 1,
-      "id": "ijn7g"
-    },
-    {
-      "index": "c2_292",
-      "text": "Die App sperrt dein Handy vollständig und es werden pro gesperrte Minute Punkte gesammelt. Man kann verschiedene Modi einstellen, bspw. lernen, Langeweile, warten auf den Bus, ... Je nachdem, welchen Modus man eingestellt hat, also in welcher Lebenssituation man aktiv auf das Handy verzichtet, bekommt man unterschiedlich viele Punkte für die Zeit ohne Handy. Da es zum Lernen sinnvoll ist, das Handy auszuschalten, bekommt man mehr Punkte, wenn man auf das Handy verzichtet, während man wartet. Ab einer bestimmten Anzahl von Punkten wird ein Baum gepflanzt. Wenn das Baum-Level überschritten wurde, fängt man an, für einen bezahlten Kurzurlaub in den Bergen zu sammeln. Pro „Level“ gibt es neue Anreize, aufs Handy zu verzichten. Die App kann von allen Bevölkerungsgruppen genutzt werden.",
-      "treatment": 0,
-      "id": "üoa3r"
     },
     {
       "index": "c2_302",
@@ -293,28 +95,10 @@
       "id": "rae5b"
     },
     {
-      "index": "c2_316",
-      "text": "Generell würde ich sagen, dass digitale Medien und gerade Social Media für die größte Ablenkung in unserem Alltag sorgen. Deswegen tue ich mich schwer damit, eine App oder eine Idee zu beschreiben, die dabei helfen soll. Dafür müsste man schließlich ans Handy oder den Laptop. Außerdem sind Ablenkungen generell sehr individuell. Es gibt bereits Apps oder Regulierungen, die gerade bei Social Media dabei helfen sollen, das Handy wegzulegen. Beim Arbeiten für die Uni oder ähnliche Kontexte - vor allem bezogen auf das Lernen - würde ich etwas entwickeln wollen, wo man den Startzeitpunkt der Zeit angibt, ab wann man produktiv arbeiten möchte. Dann legt man Lernziele für die heutige Lernsitzung fest und nennt den Zeitspanne des Lernens. Nachdem die Zeit abgelaufen ist, werden Fragen, angepasst an die vorher angegebenen Lernziele, erstellt und von einem selbst beantwortet. Abschließend kann man dann sehen, wie viel Prozent man von den Lerninhalten schon mitgenommen hat.",
-      "treatment": 0,
-      "id": "efa4h"
-    },
-    {
       "index": "c2_323",
       "text": "Ein Motivator, um deine Chance zu ergreifen. Als gestresster Student oder Studentin neigt man oft zur Prokrastination und Aufschiebung von Problemen und Aufgaben. Mit einer App, die deine Aufgaben strukturell wiedergibt, von Morgen bis Abend. Ob es sich ums Aufstehen und Fertigmachen, Verkehrsmittelauswahl oder tatsächliche Aufgabenlast handelt - die App ist dafür da, alles übersichtlich wiederzugeben, damit man den tatsächlichen Workload nicht unterschätzt. Außerdem wird man ab und zu durch lustige Sprüche daran erinnert und motiviert, sich den Aufgaben zu stellen.",
       "treatment": 1,
       "id": "ima6t"
-    },
-    {
-      "index": "c2_329",
-      "text": "Eine App, die Ablenkung reduziert und dabei geistige Aktivität fördert. Die App lässt einen Timer laufen, sobald man anfängt, sich in eine konzentrierte Phase zu begeben (die App quasi aktiviert). Um das Tool zu deaktivieren, muss entweder ein Sudoku gelöst oder ein Fachbegriff in einem Online-Lexikon/Wörterbuch nachgeschlagen werden. Ganz ohne Hilfe oder Suchleiste. Dies lässt die nutzende Person überdenken, ob es ein Automatismus war, der zum Telefon/Social Media/Ablenkung greift, oder ob es wirklich notwendig ist. Das Tool wäre als Zugriffsmaßnahme für jegliche soziale Medien von Vorteil. Das Tool könnte tracken, wie oft jemand zum Telefon greift und den Zugriff erfordert und wie oft dann die Aufgabe tatsächlich bearbeitet wird oder wie oft sie abgebrochen wird. Gründe dafür könnten beim Abbruch erfragt werden.",
-      "treatment": 1,
-      "id": "rme9q"
-    },
-    {
-      "index": "c2_330",
-      "text": "Zunächst könnten Daten erhoben werden, wann in einem Lernprozess sich Lernende am schnellsten ablenken lassen, also eher am Beginn, in der Mitte oder am Ende. Dieses Wissen könnte dann dazu genutzt werden, in den besonders „Ablenkung-gefährdeten“ Momenten eine Meldung auf das jeweilige digitale Endgerät, auf dem gelernt wird, zu schicken. Diese Meldung kommt von einer App und äußert die Vermutung, dass die Person gerade abgelenkt ist und lädt zu einer kurzen Reflexion ein. So würde z.B. gefragt werden, ob die lernende Person eher eine Pause braucht oder gerade nur unmotiviert ist. Basierend auf den Antworten würde die App dann andere Lernstrategien vorschlagen, um die Erschöpfung zu minimieren oder den Lernenden durch eine kurze Nachricht einfach wissen lassen, dass die Person abgelenkt war und zu der Aufgabe zurückkehren sollte, auch wenn die Person gerade evtl. weniger motiviert ist.",
-      "treatment": 0,
-      "id": "ida8s"
     },
     {
       "index": "c2_334",
@@ -323,76 +107,16 @@
       "id": "hjs5h"
     },
     {
-      "index": "c2_337",
-      "text": "Know What you Want - dein Tool, um Struktur in deine Workflows zu bringen.",
-      "treatment": 1,
-      "id": "lol6p"
-    },
-    {
       "index": "c2_338",
       "text": "In meiner App geht es darum, herauszufinden, in welchem Land und in welchem Jahr man wählen durfte. Man gibt in einer Benutzeroberfläche das Land und Jahr ein, in dem man wählen möchte, und es erscheinen Fragen, die die benötigten Daten ermitteln, wie z.B. Geschlecht, Alter, Geburtsort. Dabei muss man sich nicht an seine persönlichen Daten halten, sondern kann auch herausfinden, ob eine 20-jährige Frau, die 1890 in Deutschland geboren wurde, in den USA wählen darf. Bei bestimmten Zeiten, wie z.B. der Nazi-Zeit in Deutschland, werden noch andere Fragen, wie z.B. Religion, gestellt. Dies ermöglicht Schülern und Lehrenden, einfacher an Informationen zum Wahlrecht zu kommen und zeigt, wie wertvoll dieses Recht eigentlich ist.",
       "treatment": 1,
       "id": "eaa3h"
     },
     {
-      "index": "c2_34",
-      "text": "Ablenkungen in der App dokumentieren.",
-      "treatment": 0,
-      "id": "ada6h"
-    },
-    {
-      "index": "c2_342",
-      "text": "Grundidee: ein Dashboard mit Widgets, die man sehr unkompliziert vorab erstellen, ein- und ausblenden kann. Unter diesen sind Counter für erledigte Dinge, wahlweise mit gamifiziertem Bewertungsschlüssel zur Motivation, die schnelle Möglichkeit, Aufgaben und Termine einzutragen mit der Auswahl, in welchen (wahlweise externen) Kalender. Außerdem gute Möglichkeiten, andere Seiten wie Moodle, der direkte Link zu Lernvideos usw. einzubetten, Unterkategorien zu Neurodivergenz, mentaler Gesundheit, Body Doubling, Playlists zum Lernen usw. Außerdem gibt es die Möglichkeit, zum leichten Bewerten und Austauschen von (neuartigen) Lernmethoden; man könnte zum Beispiel ein Widget mit den Erkenntnissen zum Lernverhalten von Studenten derselben Veranstaltungen/des gleichen Lerntyps einblenden. Feedback an die Dozent*innen, Initiativen, Universitäten, Vernetzungen zu Start-up-Ideen sind leicht möglich. Man kann KI-Empfehlungen bekommen, was einem helfen könnte. Kurz gesagt: dadurch, dass auf einer Startseite alles eingebettet werden kann, wie eine digitale visuelle Lobby, ist weniger Ablenkung vorprogrammiert; von dort kommt man schnell in die ausgewählten, guttuenden “Räume” (weitere Seiten/verlinkte Apps), die einem gerade guttun. (Nur eigene Idee, keine KI, finde ich sinnvoller.)",
-      "treatment": 1,
-      "id": "cdh6l"
-    },
-    {
-      "index": "c2_350",
-      "text": "Eine App, die geöffnet wird, wenn der Fokus auf etwas liegt, das außerhalb des Gerätes geschieht. Z.B. Studieren am Laptop und das Vermeiden von dabei „kurz aufs Handy schauen und dann sind es doch 20 Minuten geworden“. Die App wird während des Studierens auf dem Laptop am Handy geöffnet und das Handy beiseite gelegt. Wenn die App geöffnet bleibt, geschieht nichts. Wird sie allerdings verlassen, sendet sie alle 90 Sekunden eine Notifikation, um den Nutzer zurückzuholen und an den Fokus auf das Studieren zu richten.",
-      "treatment": 0,
-      "id": "oos6b"
-    },
-    {
-      "index": "c2_354",
-      "text": "Ein kleines Dorf, das man mit seinen Freunden bauen kann. \nJede nicht benutzte Viertel Stunde des Handys = 1 Ziegelstein/anderes Wertsystem. Jede BEWUSSTE nicht am Handy verbrachte Viertel Stunde = 5 Wert. (So schafft man grundsätzliches Einkommen - Motivation für mehr, da schneller wenn bewusst nicht genutzt) \nEintausch in einem Shop gegen Einrichtungsgegenstände/neue Häuser etc. Mit Freunden kann man zusammenlegen und Ziele erreichen (z.B eine Bibliothek bauen oder Marktplatz) \nBestenliste integriert und zusammen Meilensteine schaffen, Herausforderungen verteilen u. Annehmen. \n",
-      "treatment": 0,
-      "id": "ede5b"
-    },
-    {
-      "index": "c2_359",
-      "text": "Ich halte eine App für sinnvoll, die einen davon abhält, sein Handy zu benutzen, da dies für viele eine große Ablenkungsquelle ist. In der App selbst kann man einen Timer einstellen, wie lange man sich konzentrieren möchte. Es gibt dabei zwei Stufen von Konzentration, bei der einen kann man noch auf andere Apps zugreifen, wodurch man Selbstkontrolle gezielt lernen soll. Die andere Stufe sperrt jegliche Versuche, andere Apps zu benutzen, damit man sein Handy einfach beiseite legt. Es wäre wichtig, hier noch einen Anreiz zu schaffen, die App zu nutzen (außer, dass man Arbeit erledigen kann), also müsste während der Zeit, in der man sich konzentriert, etwas hergestellt oder verdient werden, das man anschließend ausgeben kann, damit man sich darauf freut, produktiv zu sein und gleichzeitig eine Belohnung dafür zu erhalten.",
-      "treatment": 1,
-      "id": "oat5w"
-    },
-    {
       "index": "c2_360",
       "text": "Man könnte eine App erfinden, wodurch man erst in Rätsel lösen muss, bevor man an sein Handy gehen kann, beziehungsweise bevor man es entsperren kann. Das würde die Ablenkung des Handys reduzieren und einfach mal kurz aufs Handy schauen, nicht mehr ermöglichen. Dadurch sinkt die Wahrscheinlichkeit für Ablenkung.\nDaten würden dabei entstehen, die zeigen, wie oft man an einem Tag ans Handy geht. Besonders kreativ daran ist das Rätsel, was man vorher lösen muss.",
       "treatment": 0,
       "id": "asa4h"
-    },
-    {
-      "index": "c2_362",
-      "text": "Der Ansporn für die Verringerung von Ablenkungen an Geräten bietet ein Vergleich mit Freunden, jeder definiert dabei offen sein Ziel. \nBevor eine App geöffnet werden kann, erscheinen private Nachrichten von Freunden, die dafür sorgen sollen einmal zu reflektieren, ob man wirklich die App öffnen möchte (z.B. ein \"Ruf mich lieber an\", Motivation durch Fotos, Sticker, ...). \nEin zusätzliches Element ist eine direkte Visualisierung der Appnutzungsdauer, es können Ziele, Wetten, Belohnungen usw. integriert werden.\n\nDatenformate: Text, Foto, Zahlen (persönliche Daten -> Einwilligung und Datensicherheit wichtig)\nKreativ: persönlicher und spielerischer Ansatz, Transparenz der Handynutzung vor Freunden, trotzdem Motivation im Vordergrund",
-      "treatment": 0,
-      "id": "ojn4b"
-    },
-    {
-      "index": "c2_63",
-      "text": "Mein Projekt ist eine App, die aus der Zusammensetzung der Informationen zu Wetter, Temperatur und Stimmung gezielt Aktivitäten raussucht, die man dann unternehmen kann. Durch diese App fällt es einem leichter, gute Aktivitäten zu finden, vor allem wenn einem langweilig ist oder man schlecht gelaunt ist. Die Aktivitäten kann man auch zu zweit unternehmen.",
-      "treatment": 0,
-      "id": "laa8b"
-    },
-    {
-      "index": "c2_64",
-      "text": "Ich würde ein kleines Spielchen zur Verbesserung der Konzentration erstellen. Dem Spieler werden am Anfang einige Wörter gezeigt, die nach einiger Zeit verschwinden, und nun soll niedergeschrieben werden, an welche Wörter sich der Spieler erinnert. Dies trainiert zum einen das Gedächtnis, zum anderen regt es die Konzentration an und man kann sich im Anschluss möglicherweise besser auf eine anstehende Aufgabe fokussieren. Es soll nicht lange dauern, sondern lediglich einen Anstoß geben, um danach konzentrierter arbeiten zu können und sich nicht so schnell ablenken zu lassen.",
-      "treatment": 0,
-      "id": "asn6r"
-    },
-    {
-      "index": "c2_75",
-      "text": "Irgendwas, um die Konzentrationsfähigkeit zu steigern oder Ablenkung durch das Handy zu reduzieren. Allerdings gibt es in diesem Bereich fast alle Konzepte schon.",
-      "treatment": 0,
-      "id": "eje9h"
     },
     {
       "index": "c2_82",

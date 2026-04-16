@@ -2,20 +2,8 @@
   "language": "DE",
   "task": "c2",
   "variant": 1,
-  "n_items": 44,
+  "n_items": 20,
   "items": [
-    {
-      "index": "c2_114",
-      "text": "Eine unweit basierte App, in der man Notizen mit Kommilitoninnen teilt. Ähnlich wie Studydrive, aber explizit nur für die Uni. In der App kann man auch Chats beitreten zu Study Sessions, Events, Hobbys oder anderen Interessen, die man mit Kommilitoninnen teilen möchte. Ziel der App ist es, Lernen zu optimieren und das Vernetzen einfacher zu machen. Insbesondere für Erstsemester könnte eine solche App hilfreich sein.",
-      "treatment": 0,
-      "id": "oje4h"
-    },
-    {
-      "index": "c2_133",
-      "text": "Meine App-Idee heißt „ExamSense“ und richtet sich an Studierende, die ihre Prüfungen gezielter und datenbasiert vorbereiten möchten. Die Grundidee ist, aus kurzen täglichen Check-ins und Lernaktivitätsdaten individuelle Erfolgswahrscheinlichkeiten für Klausuren zu berechnen. Nutzer:innen beantworten täglich 3–5 kurze Fragen zu Motivation, Verständnis, Stress und Schlaf, während die App zusätzlich Lernzeiten und Ergebnisse aus Übungsaufgaben erfasst. Ein einfaches Modell kombiniert diese Daten und zeigt für jede Prüfung eine visuelle Risiko- oder Erfolgsskala an. Die App simuliert außerdem „Was-wäre-wenn“-Szenarien, zum Beispiel, wie sich zwei zusätzliche Lernstunden pro Woche auf die Bestehenswahrscheinlichkeit auswirken würden. Genutzt werden Selbstberichte, Zeitdaten, Leistungsdaten aus Lernplattformen sowie optional Kalender- und Schlafdaten. Das ist nützlich, weil Studierende frühzeitig erkennen, bei welchen Fächern echtes Durchfallrisiko besteht, und ihre Zeit entsprechend umverteilen können. Neu und kreativ ist, dass Lernen hier nicht nur geplant, sondern quantitativ in persönliche Erfolgschancen übersetzt wird.",
-      "treatment": 0,
-      "id": "omr4l"
-    },
     {
       "index": "c2_134",
       "text": "Eine App, die KI-Ausgabe-Daten zu bestimmten Themen erhebt. Mit diesem Datensatz kann die App eine Risikoanalyse durchführen. Studierende können in der App dann bestimmte Themen abfragen und eine Risikobewertung erfragen. Die App gibt dann Daten aus: Wie oft wurde KI zu diesem Thema befragt, neigt KI bei diesem Thema dazu, häufiger zu halluzinieren, wofür lässt sich KI in diesem Themenbereich einsetzen.",
@@ -23,34 +11,10 @@
       "id": "afn4b"
     },
     {
-      "index": "c2_158",
-      "text": "Eine App, die eine Art Kalender ist, wo die AI deinen Alltag so zeiteffektiv wie möglich plant. Diese bekommt Input wie zum Beispiel deine Termine und deinen Stundenplan und Klausuren und gibt dir als Output die besten Termine, wann du lernen solltest, was du lernen solltest und gibt dir Vorschläge bei deinen persönlichen Terminen, wie zum Beispiel Geburtstagsgeschenkideen. Am besten noch mit standortbasierten Funktionen, sodass die Fahrzeit etc. miteingeplant werden.",
-      "treatment": 0,
-      "id": "ijp6l"
-    },
-    {
       "index": "c2_168",
       "text": "Ich würde eine App programmieren, in der man die Daten hochladen kann, in Verbindung mit dem jeweiligen Modul und seinen Studienalltag planen kann. Man trägt seinen Stundenplan, Termine und so etwas wie Hobbys zeitlich ein und kann mit Hilfe einer KI Vorschläge entwickeln. Diese Vorschläge sind dafür da, um am besten zu planen, wie man sich vorbereitet. Wenn man die Klausurenphase durch hat, kann man jedes Mal sein Gefühl angeben, wo man Probleme hatte und was man hätte gerne anders gemacht. Daraufhin baut sich die KI für den Nutzer weiter aus, um sich seinen Arbeitsidealen stetig anzupassen. Dadurch würde der Student eine Leistungsoptimierung, Zeitersparnis und Notenverbesserung erlangen.",
       "treatment": 0,
       "id": "yjn4h"
-    },
-    {
-      "index": "c2_180",
-      "text": "Stell dir eine App vor, die wie ein persönlicher KI-Mentor funktioniert. Sie empfängt deine Aufgaben – sei es Textverarbeitung, Datenanalyse oder kreative Gestaltung – und analysiert sie, um dir die idealen KI-Modelle vorzuschlagen. Durch ihre umfassende Datenbank kennt sie die Stärken und Schwächen jeder Lösung und ordnet sie perfekt deinen Bedürfnissen zu. Doch das ist noch nicht alles! Sie erstellt auch maßgeschneiderte Prompts, die dafür sorgen, dass du das Potenzial der empfohlenen KI voll ausschöpfst. Diese App wird zu deinem treuen Begleiter im Dschungel der KI-Technologien, indem sie nicht nur unterstützt, sondern auch deine Kreativität anregt. Mit ihr wird das Erledigen von Aufgaben nicht nur effizienter, sondern auch spannender!",
-      "treatment": 1,
-      "id": "afk6m"
-    },
-    {
-      "index": "c2_185",
-      "text": "Eine Organisationsapp, über die die Inhalte der Module notiert werden können, wie zum Beispiel in Word. Anschließend können die Notizen dem jeweiligen Modul zugeordnet werden und unterteilt in Vorlesung, Seminar und Übung. Wichtige Begrifflichkeiten für alle Inhalte können übergeordnet gespeichert werden und von allen Bereichen aus darauf zugegriffen werden.",
-      "treatment": 0,
-      "id": "ijc8h"
-    },
-    {
-      "index": "c2_194",
-      "text": "Das Projekt befasst sich mit der Entwicklung eines digitalen LK-Rechners für Tennisspieler, der die komplexe Berechnung der Leistungsklasse verständlich und transparent macht. Ziel ist es, Spielerinnen und Spielern eine einfache Möglichkeit zu geben, ihre LK-Veränderung nach Matches realistisch einzuschätzen. Dazu wurde ein erster funktionsfähiger Prototyp entwickelt, der zentrale Berechnungsfaktoren abbildet und als Grundlage für eine spätere, weiterführende Anwendung dient. Es soll Tennisspielern dabei helfen, ihre Leistungssteigerung zu beobachten und das System anschaulicher zu gestalten. Dabei ist zu erwähnen, dass man seine Leistung und Zufriedenheit nicht ausschließlich an Zahlen messen und bewerten sollte, sondern auch an persönlichen Fortschritten, die nicht messbar sind.",
-      "treatment": 1,
-      "id": "usa9b"
     },
     {
       "index": "c2_198",
@@ -65,34 +29,10 @@
       "id": "emn4r"
     },
     {
-      "index": "c2_201",
-      "text": "Die App soll ganz grundlegend alles Wichtige zu ganz individuell meinem Studiengang zeigen. Und zwar auf einen Blick. Somit würde der Switch zwischen Moodle, MyStudy und MyCampus wegfallen. In der App sieht man alle anstehenden Prüfungsleistungen, Standard-Stundenpläne, das Mensa-Essen, alle Materialien der Profs. Das würde es vor allem Erstsemestern leichter machen, sich zurechtzufinden. Und eine große Zeitersparnis liefern.",
-      "treatment": 0,
-      "id": "ija5c"
-    },
-    {
-      "index": "c2_210",
-      "text": "Unsere To-do-App richtet sich speziell an Studierende und zeichnet sich durch ein einfaches, benutzerfreundliches Design aus, das für alle zugänglich ist. Das klare Layout ermöglicht eine unkomplizierte Nutzung, sodass Nutzer sich auf ihre Aufgaben konzentrieren können, ohne von überflüssigen Elementen abgelenkt zu werden. Gleichzeitig bieten wir die Möglichkeit, das Design individuell anzupassen, damit jeder Nutzer die App nach seinen persönlichen Vorlieben gestalten kann. Mit Funktionen wie Kursverwaltung, Fälligkeitsdaten und Erinnerungen unterstützen wir Studenten dabei, ihre Aufgaben effizient zu organisieren. Eine Kalenderansicht hilft, den Überblick über wichtige Fristen zu behalten. Zudem können Aufgaben einfach mit Kommilitonen geteilt werden, was die Zusammenarbeit bei Gruppenprojekten erleichtert. Insgesamt kombinieren wir Funktionalität mit Flexibilität, um die perfekte digitale Unterstützung im Studienalltag zu bieten.",
-      "treatment": 1,
-      "id": "rme5r"
-    },
-    {
       "index": "c2_213",
       "text": "Meine Idee ist ein Lern-Timer. Während man intensiv lernt, ist es wichtig, zwischendurch effektive Lernpausen zu machen. Die App timt den Beginn deines Lernprozesses und es ertönt ein Wecker nach einer Stunde, z.B. um eine Pause zu machen. In diesen Pausen greift man meistens nach dem Handy und scrollt auf sozialen Medien. In der App soll man aber während der Lernpausen kleine Alltags-Quizzes machen können oder Affirmationsfragen beantworten (Was ist dir diese Woche Gutes passiert? Bist du dankbar für etwas? Auf was freust du dich nach dem Lernen?). Auch kann man einstellen, dass man einen Timer für Trinkpausen bekommt, weil ich z.B. dazu tendiere, manchmal zu vergessen, zu trinken.",
       "treatment": 0,
       "id": "eo5ih"
-    },
-    {
-      "index": "c2_217",
-      "text": "App, mit der man checken kann, wie voll die Parkplätze an der Uni sind und wie voll sie wahrscheinlich sein werden. So kann man besser planen, wann man losfahren muss bzw. wie weit entfernt man von der Uni parken muss, wenn alles voll ist. Die App könnte angeben, wo man zu einer bestimmten Uhrzeit am wahrscheinlichsten einen Parkplatz findet, indem sie z.B. Nutzerdaten auswertet.",
-      "treatment": 0,
-      "id": "tfa4g"
-    },
-    {
-      "index": "c2_218",
-      "text": "Eine App, bei der man durch Standort und Umgebung eine Art Online-Community-Sharing-Space aufbaut. Man kann Sachen aus dem Privat Haushalt angeben, die man spontan nicht mehr braucht, wie Lebensmittel, und Leute auch zum Essen einladen. Ein interaktiver Space, bei dem man sich und die Gastfreundlichkeit und Verlässlichkeit auch bewerten kann. Wie ein sehr, sehr persönliches Ebay-Format. Man kann auch Gruppen erstellen mit Menschen und Bilder posten von den Gruppen-Hangouts. Das geht aber mit allen Sachen, Klamotten, Essen, eine Mischung aus einem Online-Tauschhaus, Social Media und Community-Housing-Ebay-Anzeigen-App-Format. Das soll die Stadt- und Nachbarschaftsbeziehung stärken und Menschen wieder daran erinnern, dass die Welt nicht individuell ist, sondern geteilt wird. Mehr Bewusstsein und Interesse an anderen.",
-      "treatment": 0,
-      "id": "aoa4h"
     },
     {
       "index": "c2_220",
@@ -125,34 +65,10 @@
       "id": "ana5h"
     },
     {
-      "index": "c2_238",
-      "text": "Ich habe eine App entwickelt, die Studierenden dabei hilft, ihren Stress zu regulieren. Jeder kennt es: viele Abgaben, stressige Gruppenarbeit, etc. Jetzt kommt meine App ins Spiel: Wenn man sich gerade überfordert oder gestresst fühlt, bietet sie eine Möglichkeit der aktiven Entspannung und Stressregulierung. Je nach Stresslevel werden Yoga- oder Atemübungen angeleitet und Traumreisen vorgelesen. Ziel ist es, zu einer besseren mentalen Gesundheit der Studierenden beizutragen. Dafür kann die App stets noch weiterentwickelt werden. So habe ich versucht, ein neues Konzept zu entwickeln, was den Studienalltag erleichtern kann. Sie ist leicht zu nutzen, nicht zeitaufwendig und mit Blick auf die selbst entwickelten Traumreisen kreativ und neuartig gestaltet.",
-      "treatment": 1,
-      "id": "eoa5l"
-    },
-    {
-      "index": "c2_24",
-      "text": "Meine App richtet sich an Studierende und hilft dabei, günstig, gesund und nachhaltig zu essen. Die Grundidee ist, Einkaufsentscheidungen zu vereinfachen, indem Budget, Zeit, Ernährungsziele und vorhandene Lebensmittel berücksichtigt werden. Nutzer:innen geben ihr Wochenbudget, ihre Essensvorlieben, eventuelle Unverträglichkeiten sowie die Lebensmittel ein, die sie bereits zuhause haben. Auf dieser Basis erstellt die App einfache, leckere Rezepte und einen passenden Einkaufsplan. Dabei werden Angebote aus Supermärkten sowie saisonale und günstige Produkte einbezogen. Zusätzlich warnt die App vor Lebensmitteln, die bald ablaufen, und schlägt Rezepte vor, um diese zu verwerten. Genutzt werden dabei Nutzereingaben, Rezeptdaten, Preisinformationen und optionale Einkaufsdaten. Neu und kreativ ist die Kombination aus Geldspar-Hilfe, gesunder Ernährung und Vermeidung von Lebensmittelverschwendung speziell für den Studienalltag.",
-      "treatment": 1,
-      "id": "eja4h"
-    },
-    {
-      "index": "c2_251",
-      "text": "Die App soll eine digitale Erweiterung zu den Angeboten des Hochschulsports darstellen. Übungen für zu Hause, mit Videos zur Erklärung. Die App kann in den Unialltag eingebunden werden, indem man sich beispielsweise durch eine abgeschlossene Trainingsserie einen Saunagang beim Hochschulsport oder Rabatt beim Klippo Café freischaltet. Die App besteht aus einer grafischen Oberfläche, mit verschiedenen DropDown-Menüs zum Filtern des gewünschten Trainings (Muskelpartie, Länge, Intensität). Durch Listenstrukturen werden dann passende Übungen ausgewählt und vorgeschlagen. Der Hochschulsport stellt Videos bereit, die die Übungen erklären.",
-      "treatment": 0,
-      "id": "caa6w"
-    },
-    {
       "index": "c2_260",
       "text": "Die Idee meiner App soll Leuten mit ADHS helfen, ihren Alltag zu organisieren. Man gibt in dieser App seine täglichen oder wöchentlichen Ziele ein, als auch den Grad der Dringlichkeit. Außerdem gibt man Aktivitäten ein, die einem Spaß machen. Hier gibt es verschiedene Kategorien wie Sport, Draußen sein und Kreatives. Die App wählt dann mit einem Würfelsystem erst die Aufgabe und, wenn man fertig damit ist, die Aktivität. Somit wird einem die Qual der Wahl genommen und trotzdem bleibt der Alltag spontan und organisiert.",
       "treatment": 0,
       "id": "emh5l"
-    },
-    {
-      "index": "c2_261",
-      "text": "Die Grundidee ist ein Marktanalysetool, welches sich in einer lehrenden Methode ausbauen lässt. Auf dieser können Studierende aus den wirtschaftswissenschaftlichen Studiengängen gezielt Informationen wie das BIP, die Arbeitslosenquote oder die Inflationsrate zu verschiedenen Ländern in unterschiedlichen Jahren vergleichen und nachvollziehen. Dies kann in Form einer interaktiven Methodik stattfinden, bei welcher ebenfalls auch die historischen und politischen Einflüsse auf solche Ergebnisse immer als Notiz am Ende ausgegeben werden. Letztlich kann dies ausgearbeitet werden zu einem Wirtschaftstool, ähnlich wie ein Duolingo, nur für ökonomische Indikatoren und Begrifflichkeiten. Dies kann man optional auf verschiedene Berufszweige ausweiten, wie im M&A Due Diligence Analysen durchgeführt werden oder was genau EBITDA ist.",
-      "treatment": 0,
-      "id": "omo5h"
     },
     {
       "index": "c2_277",
@@ -167,12 +83,6 @@
       "id": "son3i"
     },
     {
-      "index": "c2_288",
-      "text": "Die App ist für Studierende, besonders des ersten Semesters, geeignet. Sie hilft dabei, Studium und Alltag zu koordinieren. In die App ist ein Kalender integriert, der sowohl den Stundenplan als auch einen Lernplan beinhaltet. Zudem kann man einen Essensplan und Aktivitäten, wie z.B. Einkaufen, andere Hausarbeiten und Freizeitaktivitäten mit ihr planen. So hilft die App dabei, vor allem Erstsemestern leichter im Studium anzukommen. Die Idee ist nicht von AI inspiriert.",
-      "treatment": 1,
-      "id": "eje5w"
-    },
-    {
       "index": "c2_295",
       "text": "Sie richtet sich an Studierende, die Vorlesungen, Abgaben, Prüfungen und Lernzeiten besser koordinieren wollen, ohne alles manuell planen zu müssen. Es soll z.B. Vorschläge machen, wann man eine Nachbereitung macht, allgemein wie ein Reiseführer durch die Uni, da es am Anfang doch recht schwierig ist, sich da einzuführen.",
       "treatment": 0,
@@ -183,42 +93,6 @@
       "text": "In meinem Projekt geht es um eine App zum Stress und dem psychischen Zustand von Studierenden. Es soll in dieser App eine regelmäßige Abfrage geben, auf die Studierende durch eine Benachrichtigung hingewiesen werden. In der Abfrage geht es dann um das aktuelle Stresslevel, die Gründe für den Stress und was gegen den Stress helfen würde. Die Abfragen wären zu Vorlesungsbeginn, während der Klausurenphase, unter der Woche abends, mittags oder morgens und am Wochenende, unterschiedlich regelmäßig. Durch die Auswertung der Daten könnten vielleicht verbesserte Stundenpläne, Klausurtermine oder Sonstiges entstehen. Neue Ideen zur Stressreduzierung könnten eingereicht und bei der nächsten Abfrage aufgeführt werden. Ebenso könnte erhoben werden, ob mehr Angebot der Uni gegen Stress angeboten werden sollten.",
       "treatment": 1,
       "id": "ran9h"
-    },
-    {
-      "index": "c2_310",
-      "text": "Meine Idee wäre eine App, in der man sich mit anderen Studierenden zum “Mensen” verabreden kann. Vorab erstellt man ein Profil, in dem persönliche Daten sowie studienbezogene Daten gespeichert werden (Name, Alter, Uni, Semester, Studiengang,…). In der App kann sich dann spontan in verschiedene Gruppen eingetragen werden, um gemeinsam in der Mensa zu essen. Dabei kann man den Tag und die Uhrzeit auswählen, aber auch verschiedene Gesprächsthemen, Studiengänge (um sich vielleicht auch mit Studierenden aus höheren Semestern zu connecten) oder auch einfach offene Runden ohne spezielle Themen etc. Diese App wäre für alle Studis nützlich, die an offenen Gesprächen und neuen Leuten interessiert sind. Außerdem kann man immer in die Mensa gehen, ohne allein zu sein, auch wenn die eigenen Freunde vielleicht mal keine Zeit haben.",
-      "treatment": 0,
-      "id": "efa4l"
-    },
-    {
-      "index": "c2_326",
-      "text": "Meine Projektidee ist eine Timer-App \"Focus Rewards\". Nach 2h produktiven Lernens bekommt man eine Belohnung aus einer Liste, welche man persönlich zusammengestellt hat. Es sind Belohnungen, wie Freunde treffen oder ein neues Buch kaufen. Diese Belohnungen sollen zur Motivation beitragen. Da der/die Benutzer:in die Belohnungsliste selbst zusammenstellt, sollte die App merklich zur Lernmotivation beitragen. Vor allem in der Prüfungsphase könnte sie nützlich sein. Die App bietet nicht nur einen Motivationsanschub, sondern auch Ausgleich zum Lernalltag, zum Beispiel durch die Belohnung Freunde treffen. So belohnt man sich mit sozialen Kontakten und man hat ni",
-      "treatment": 1,
-      "id": "ome6l"
-    },
-    {
-      "index": "c2_351",
-      "text": "Meine App-Idee ist ein Ersatz für Amazon, welche die ganze Bevölkerung nutzen kann. Dort können kleine Händler ihre Produkte anbieten und bekommen den ganzen Betrag des Produktes zurück. So werden kleine Händler gerettet und Amazon geht pleite. Für diese App könnte man auch Gutscheine verschenken. Datenbasiert würde sie funktionieren wie andere Apps auch. Allerdings würde es keinen Algorithmus geben, der den Käufer dazu bringt, in einen Kaufrausch zu verfallen. Insgesamt wäre die Neuheit, dass ein Großkonzern wie Amazon bankrottgeht, welcher eine viel zu große Monopolstellung hat und unsere Städte aussterben lässt.",
-      "treatment": 0,
-      "id": "lja4h"
-    },
-    {
-      "index": "c2_355",
-      "text": "Ich würde eine App erstellen um das Zeitmanagement von Studierenden besser zu analysieren. Dafür muss man seine grobe Alltagsstruktur und tägliche Dinge eintragen und was man am Tag noch machen muss/möchte oder was für Termine man noch hat. Die App berechnet einem dann einen abgestimmten Zeitplan für seinen Tag, inklusive geeigneter Pausenzeiten und Zeiten für Schlaf, Hygiene, Essen... Dadurch kann die Zeit effektiver genutzt werden und mna muss sich weniger Gedanken über seine Tagesstruktur machen. Ich denke es würde stark helfen Zeit zu sparen. Mit einem weiteren Tool kann man messen inwieweit die berechneten Zeiten mit den tatsächlichen übereingestimmt haben und wo man noch etwas verbessern kann. ",
-      "treatment": 0,
-      "id": "eaa5l"
-    },
-    {
-      "index": "c2_36",
-      "text": "Die App soll eine Verbesserung der Lebensqualität bieten, indem sie Nutzerinnen und Nutzern durch Therapie von AI unterstützt.",
-      "treatment": 0,
-      "id": "efa4h"
-    },
-    {
-      "index": "c2_37",
-      "text": "Eine Haushaltsplan-App, wo auch Gerichte erstellt werden können und eine Einkaufsliste darauf basierend erstellt wird.",
-      "treatment": 0,
-      "id": "une5g"
     },
     {
       "index": "c2_38",
@@ -239,28 +113,10 @@
       "id": "üne6h"
     },
     {
-      "index": "c2_74",
-      "text": "Eine Lernapp, die den Tag plant, man trägt ein, wann welche Klausur ansteht und wie groß der Lernaufwand dafür ist. Außerdem kennt die App deinen Stundenplan, sodass der Tag durchgeplant ist, Mensapausen inklusive!",
-      "treatment": 1,
-      "id": "cjy5b"
-    },
-    {
-      "index": "c2_84",
-      "text": "Die App, die komplexe Aufgabenstellungen analysiert, bietet eine benutzerfreundliche Schnittstelle, die es Nutzern ermöglicht, Fragen einfach einzugeben. Sie zerlegt die Aufgaben in verständlichere Teile und übersetzt diese in klare, einfache Sprache. Für jeden Abschnitt hebt die App die Wichtigkeit und Relevanz hervor, sodass Nutzer schnell erkennen, worauf sie fokussieren sollten. Interaktive Elemente wie quizähnliche Fragen fördern das aktive Lernen und verbessern das Verständnis. Zudem könnte die App personalisierte Lernpfade anbieten, die sich an den Fortschritt und die individuellen Bedürfnisse der Nutzer anpassen. Unterstützende Ressourcen, wie Erklärvideos oder Tutorials, könnten ebenfalls integriert werden, um zusätzliche Hilfestellung zu bieten. Eine Feedback-Funktion ermöglicht es den Nutzern, ihre Erfahrungen zu teilen und die App kontinuierlich zu verbessern. Schließlich würde eine Fortschrittsübersicht helfen, die erreichten Ziele zu visualisieren und Motivation zu fördern.",
-      "treatment": 1,
-      "id": "cne9h"
-    },
-    {
       "index": "c2_87",
       "text": "Eine App, die mir einen Lernplan für Klausuren gibt. Wann, wie lange und welche Themen ich lernen muss.",
       "treatment": 0,
       "id": "eja4f"
-    },
-    {
-      "index": "c2_90",
-      "text": "Meine App würde dir einen geordneten Zeitplan erstellen, um zu lernen. Man gibt ein, was man bis wann lernen muss und wie viel man dafür lernen muss, und du kriegst einen sinnvollen Lernplan. Wenn du diesen einhältst, kannst du es abhaken, und wenn nicht, wird er angepasst. Er schickt dir auch kleine Erinnerungen, die sehr positiv formuliert sind. Du kannst auch individuell raussuchen, was du lernen möchtest, und der Lernplan wird daraufhin angepasst.",
-      "treatment": 1,
-      "id": "caa3k"
     },
     {
       "index": "c2_98",

@@ -2,20 +2,8 @@
   "language": "DE",
   "task": "q2",
   "variant": 4,
-  "n_items": 38,
+  "n_items": 20,
   "items": [
-    {
-      "index": "q2_10",
-      "text": "Im Geschäftsjahr 2025 verzeichneten wir im Biergarten Einnahmen von insgesamt 406.000 €, während das Restaurant 395.100 € einnahm. Die gesamte Kundenzahl stieg über das Jahr hinweg, beginnend mit 1.000 Gästen im Januar und gipfelte in 2.600 Gästen im Juli, bevor sie im Dezember auf 1.300 fiel. Die Personalkosten lagen im Jahr bei insgesamt 228.000 €, was angesichts des Umsatzes als angemessen betrachtet werden kann. Besonders auffällig war der Mai, in dem die Biergarten-Einnahmen auf 52.000 € anstiegen. Auch im Juni und Juli konnten wir beeindruckende Einnahmen von über 60.000 € im Biergarten erzielen. Insgesamt zeigt das Jahr eine positive Entwicklung, sowohl in der Umsatz- als auch in der Kundenzahl. Der Biergarten erwies sich in den Sommermonaten als besonders beliebt und half, die Gesamteinnahmen erheblich zu steigern.",
-      "treatment": 1,
-      "id": "ofa6g"
-    },
-    {
-      "index": "q2_106",
-      "text": "Besondere hohe Einnahmen aus dem Biergarten in den warmen Monaten bei ungefähr gleich bleibenden Personalkosten.",
-      "treatment": 0,
-      "id": "yaa6h"
-    },
     {
       "index": "q2_107",
       "text": "Im Geschäftsjahr 2025 verzeichneten wir einen stabilen Anstieg der Einnahmen, der um 15 % im Vergleich zum Vorjahr zunahm. Dieser Wachstumstrend wurde durch die Einführung neuer Produkte und eine intensivere Marketingstrategie begünstigt. Die Ausgaben stiegen jedoch um 10 %, hauptsächlich aufgrund erhöhter Produktionskosten und Investitionen in die Digitalisierung. Trotz dieser höheren Ausgaben konnten wir die Kundenzahl um 20 % steigern, was auf eine erfolgreiche Kundengewinnungsstrategie hinweist. Die Investitionen in den Kundenservice führten zu einer höheren Kundenzufriedenheit und -bindung. Insgesamt zeigt das Jahr 2025 ein positives finanzielles Wachstum, das durch strategische Entscheidungen und Marktanpassungen unterstützt wird. Wir sind optimistisch für die kommenden Jahre und planen, das Wachstum weiter zu fördern.",
@@ -23,28 +11,10 @@
       "id": "ana4m"
     },
     {
-      "index": "q2_122",
-      "text": "Im Laufe des Jahres zeigen die Einnahmen im Biergarten und Restaurant signifikante Schwankungen. Die Einnahmen des Biergartens beginnen im Januar mit 3.000 € und erreichen im Juli ihren Höchststand von 60.000 €. Die Restaurant-Einnahmen befinden sich relativ stabil zwischen 19.000 € und 45.000 €, mit einem Höhepunkt im Oktober (45.000 €). Die gesamte Kundenzahl steigt von 1.000 bis 2.600, insbesondere im Juni und Juli. Die Personalkosten variieren ebenfalls, mit einem Maximum von 23.000 € im September. Insgesamt lässt sich feststellen, dass der Biergarten einen starken Anstieg der Einnahmen verzeichnet, während die Restaurant-Einnahmen stabil bleiben und die Kosten konstant sind.",
-      "treatment": 1,
-      "id": "öjy5h"
-    },
-    {
       "index": "q2_126",
       "text": "Winter Biergarten sehr schlecht. Nimmt im Sommer stark zu. Restaurant mittelmäßig, nimmt im Sommer leicht ab. Auch mehr Kunden im Sommer.",
       "treatment": 0,
       "id": "ade6b"
-    },
-    {
-      "index": "q2_128",
-      "text": "Im Geschäftsjahr 2025 verzeichnete das Unternehmen Einnahmen in Höhe von 2 Millionen Euro, was im Vergleich zum Vorjahr einem Anstieg von 15 % entspricht. Die Ausgaben lagen bei 1,5 Millionen Euro, wobei der größte Teil auf Personal- und Betriebskosten entfiel. Die Kundenzahlen stiegen um 20 % auf insgesamt 10.000 aktive Kunden. Diese positive Entwicklung wurde durch gezielte Marketingkampagnen und die Einführung neuer Produkte gefördert. Allerdings war auch ein leicht ansteigender Wettbewerb zu beobachten, der zusätzlichen Druck auf die Gewinnmargen ausübte. Insgesamt zeigt das Geschäftsjahr 2025 eine solide finanzielle Leistung mit Raum für weiteres Wachstum.",
-      "treatment": 1,
-      "id": "eja5l"
-    },
-    {
-      "index": "q2_129",
-      "text": "Am Anfang des Jahres sind die Einnahmen im Biergarten am niedrigsten und die im Restaurant am höchsten. Im Verlauf der Monate nehmen die Einnahmen im Biergarten zu und die im Restaurant ab, möglicherweise aufgrund des Wetters. Auch die Kundenzahlen und die Ausgaben für Personalkosten hängen zusammen.",
-      "treatment": 1,
-      "id": "eda4b"
     },
     {
       "index": "q2_138",
@@ -65,12 +35,6 @@
       "id": "ase6h"
     },
     {
-      "index": "q2_174",
-      "text": "Die Einnahmen des Biergartens sind Richtung Sommer immer weiter angestiegen, bis zum Hoch im Juli, und sind danach wieder abgefallen. Was einhergeht mit der Hauptsaison von Biergärten. Die Einnahmen des Restaurants hingegen waren deutlich konstanter, aber es zeigt sich dennoch, dass in den kälteren Monaten mehr eingenommen wurde. Es zeigt sich, dass die Kundenzahl im Sommer das doppelt so groß war wie im Sommer.",
-      "treatment": 0,
-      "id": "lai5b"
-    },
-    {
       "index": "q2_177",
       "text": "Die Einnahmen im Biergarten sind konstant, zum Teil exponentiell bis Juli gestiegen, haben sich dann bis November auf einem Plateau gehalten und im November und Dezember dann stark nachgelassen.",
       "treatment": 0,
@@ -89,18 +53,6 @@
       "id": "afl6h"
     },
     {
-      "index": "q2_226",
-      "text": "Wir kriegen 10 Minuten für alle Aufgaben, dabei dauern zwei der vier Aufgaben schon jeweils 10 Minuten, ich habe keine Zeit mehr…",
-      "treatment": 0,
-      "id": "aay5h"
-    },
-    {
-      "index": "q2_231",
-      "text": "Über das Jahr hinweg sind die Einnahmen des Biergartens stark angestiegen, mit einem Höhepunkt in den Hochsommer-Monaten, während das Restaurant im Durchschnitt keinen Anstieg der Einnahmen hatte. Die Kundenzahl war ebenfalls in den Sommermonaten am höchsten, doch sie ist trotzdem am Ende des Jahres noch höher als am Anfang. Die Personalkosten haben eine ähnliche Entwicklung wie die des Restaurants durchgemacht, auch hier sind die Kosten im Sommer gestiegen, sind im Schnitt allerdings gleichgeblieben.",
-      "treatment": 0,
-      "id": "ame6g"
-    },
-    {
       "index": "q2_249",
       "text": "In den kalten Monaten kommen mehr Menschen, die ins Restaurant gehen, da das Wetter für draußen zu kalt ist. In den Sommermonaten kommen dann mehr in den Biergarten und weniger ins Restaurant. Im September kommen zwar weniger Gäste als in den Monaten davor und im Oktober, aber da das Oktoberfest immer im September gefeiert wird und eine Maß teurer ist als ein normales Bier, wird da mehr umgesetzt, trotz weniger Kunden. Die Personalkosten sind höher, da mehr Bier in kurzer Zeit verlangt wird.",
       "treatment": 0,
@@ -113,28 +65,10 @@
       "id": "caa6w"
     },
     {
-      "index": "q2_257",
-      "text": "Besonders während der Sommerszeit sind die Besucherzahlen und Einnahmen in dem Biergarten höher. Passend dazu korrelieren die Personalkosten zu dem Zeitraum, da sie mehr Personal benötigen.",
-      "treatment": 0,
-      "id": "iji4s"
-    },
-    {
       "index": "q2_26",
       "text": "In den Sommermonaten war es allgemein besser in den Einnahmen. Insgesamt hat sich alles verbessert.",
       "treatment": 0,
       "id": "cma7w"
-    },
-    {
-      "index": "q2_270",
-      "text": "Im Geschäftsjahr 2025 verzeichnete das Unternehmen eine bemerkenswerte Steigerung der Einnahmen, insbesondere im Biergarten, wo die Einnahmen im Mai 52.000 € und im Juni 58.000 € erreichten. Die Restaurantumsätze blieben mit einem Peak von 45.000 € im Oktober relativ stabil. Die gesamte Kundenzahl wuchs kontinuierlich, mit einem Höchststand von 2.600 Kunden im Juli. Während die Personalkosten schwankten und im September 23.000 € erreichten, blieb der Anstieg der Ausgaben moderat. Trotz der hohen Einnahmen gab es keine signifikanten Erhöhungen bei den Ausgaben, was auf eine gesunde Kostenkontrolle hinweist. Die stabile Nachfrage im Restaurant zeigt, dass das Unternehmen ein ausgewogenes Geschäftsmodell verfolgt. Insgesamt kann gesagt werden, dass 2025 ein finanziell erfolgreiches Jahr für das Unternehmen war, geprägt von steigenden Einnahmen und einer wachsenden Kundenzahl.",
-      "treatment": 1,
-      "id": "ina4w"
-    },
-    {
-      "index": "q2_294",
-      "text": "Die Einnahmen des Biergartens sind im Winter deutlich niedriger als im Sommer bzw. auch Herbst und Frühling. Der schlechteste Monat hierbei ist der Januar und der beste Monat der Juli. Hier sind die Personalkosten deutlich geringer als die Einnahmen, es wird also sehr viel Plus gemacht. Im Restaurant hingegen sind die Einnahmen im Winter etwas höher als in den warmen Sommermonaten. Der Einnahmenstärkste Monat ist hierbei der Dezember. Durch die verschiedenen Einnahmestarken Monate zwischen Biergarten und Restaurant gleichen diese die Personalkosten wieder aus. Würde der Januar nur durch den Biergarten gedeckt werden müssen, würde viel Minus gemacht werden. Insgesamt sind die Kundenzahlen aber dennoch im Sommer höher als im Winter.",
-      "treatment": 0,
-      "id": "baa4h"
     },
     {
       "index": "q2_295",
@@ -143,58 +77,16 @@
       "id": "aoo5h"
     },
     {
-      "index": "q2_297",
-      "text": "Im Geschäftsjahr 2025 zeigte sich eine signifikante Steigerung der Einnahmen im Biergarten, die im Mai mit 52.000 € einen Höhepunkt erreichte, gefolgt von einem Gesamtbetrag von 60.000 € im Juli. Die Restaurant-Einnahmen waren hingegen im Januar mit 30.100 € am höchsten, gefolgt von einem Rückgang auf 19.000 € im Juni. Insgesamt verzeichnete die Einrichtung ein starkes Wachstum bei den Kundenzahlen, die im April 1.600 erreichten und im Juli mit 2.600 den höchsten Stand erreichten. Die Personalkosten variierten, wobei der höchste Wert im September mit 23.000 € registriert wurde. Trotz der Schwankungen in den Einnahmen und Kundenzahlen blieb die wirtschaftliche Performance insgesamt positiv. Die Differenz zwischen den Biergarten- und Restaurant-Einnahmen deutet auf ein steigendes Interesse an Außenbereichen hin. Die Ausgaben wiesen im Laufe des Jahres immer wieder Auf und Ab, was Herausforderungen in der Kostenkontrolle zeigt.",
-      "treatment": 1,
-      "id": "cje6a"
-    },
-    {
-      "index": "q2_301",
-      "text": "Wie man erwarten kann, gab es in den Sommermonaten mehr Besucher und damit auch mehr Einnahmen. Im Biergarten lag der einkommensstärkste Monat im Juli, im Restaurant im Oktober. Doch erhöhte Besucherzahlen bedeuten auch mehr benötigtes Personal und damit erhöhte Personalkosten. Dennoch lagen die Personalkosten immer unter den gesamten Einnahmen, es konnte also immer ein Gewinn erzielt werden.",
-      "treatment": 0,
-      "id": "aaa5h"
-    },
-    {
-      "index": "q2_311",
-      "text": "Die Gesamteinnahmen für das Jahr belaufen sich somit auf 719.100 €. Die Gesamtkundenzahl für das Jahr 2025 ergibt sich aus der Summe der monatlichen Kundenzahlen: 20.700 Kunden.",
-      "treatment": 1,
-      "id": "rae5b"
-    },
-    {
-      "index": "q2_313",
-      "text": "Die Einnahmen im Biergarten steigen im Mai und erreichen dort ihren Höhepunkt und sinken dann wieder im November. Im Restaurant sinken die Einnahmen im Juni und steigen dann wieder, bis sie dann einen Höhepunkt im Oktober erreichen. Die Kundenzahl steigt auch bis August und dann sinkt die Anzahl im September. Die Personalkosten steigen auch hier im September.",
-      "treatment": 1,
-      "id": "zse7h"
-    },
-    {
       "index": "q2_331",
       "text": "Die Einnahmen von Restaurant und Biergarten sind abhängig von der Jahreszeit. Im Sommer steigt die Einnahme des Biergartens an und die des Restaurants sinkt. In den kalten Monaten ist es andersherum. Im Sommer mit Betrieb des Biergartens verdoppelt sich die Kundenanzahl. Mit dem Biergarten gehen auch höhere Personalkosten einher. Generell gibt es mehr Einnahmen gegen Ende des Jahres.",
       "treatment": 0,
       "id": "ima5e"
     },
     {
-      "index": "q2_39",
-      "text": "Über die Sommerzeit lief der Biergarten wirtschaftlich besser als das Restaurant und die Personalkosten stiegen, da es in der Gastronomie eben die Hauptsaison ist. Im Winter lief das Restaurant besser, da mehr Leute außer Haus essen gehen, da z. B. auch Feiertage stattfinden. Die Personalkosten stiegen allerdings nicht, da man im Winter in der Gastronomie weniger zu tun hat und deshalb weniger Personal braucht. Der Umsatz ist trotzdem gut, da eine volle Mahlzeit im Restaurant eben mehr kostet als 2 Bier im Biergarten.",
-      "treatment": 0,
-      "id": "wja5l"
-    },
-    {
       "index": "q2_46",
       "text": "Im Geschäftsjahr 2025 stiegen die Biergarten-Einnahmen ab April stark und erreichten im Juli 60.000 €, während die Restaurantumsätze im Winter höher lagen. Die Kundenzahlen waren im Sommer mit bis zu 2.600 Gästen am höchsten. Personalkosten blieben weitgehend stabil zwischen 17.000 € und 23.000 €. Insgesamt sorgten die starken Sommermonate für einen positiven Jahresverlauf.",
       "treatment": 0,
       "id": "eja7m"
-    },
-    {
-      "index": "q2_54",
-      "text": "Im Geschäftsjahr 2025 haben wir eine positive Entwicklung der Einnahmen im Restaurant und Biergarten verzeichnet. Die Gesamteinnahmen belaufen sich auf 250.000 Euro, was einen Anstieg von 15 % im Vergleich zum Vorjahr darstellt. Die Ausgaben betrugen 180.000 Euro, was einer sparsamen Haushaltsführung entspricht und uns ermöglicht hat, die Gewinnspanne zu steigern. Die Kundenzahlen haben ebenfalls zugenommen: Wir begrüßten insgesamt 20.000 Gäste, was einem Anstieg von 10 % entspricht. Besonders der Biergarten erfreute sich großer Beliebtheit, was sich in einer Verdopplung der Besucherzahlen widerspiegelte. Die Marketingmaßnahmen und Events haben maßgeblich zu diesem Erfolg beigetragen. Insgesamt können wir auf ein erfolgreiches Jahr zurückblicken, das sowohl Umsatz als auch Kundenzufriedenheit gesteigert hat. Gute Antwort von ChatAI und deshalb keine Änderung meinerseits.",
-      "treatment": 1,
-      "id": "hmh7b"
-    },
-    {
-      "index": "q2_61",
-      "text": "Die Einnahmen aus dem Biergarten stiegen von 3.000 € im Januar auf 60.000 € im Juli, wobei der Höhepunkt im Juni erreicht wurde. Auch die Restaurant-Einnahmen schwankten, beginnend bei 30.100 € im Januar und kulminierten bei 45.000 € im Oktober. Die gesamte Kundenzahl wuchs kontinuierlich, von 1.000 im Januar auf einen Höchstwert von 2.600 im Juli, bevor ein leichter Rückgang zu verzeichnen war.",
-      "treatment": 1,
-      "id": "ial6w"
     },
     {
       "index": "q2_72",

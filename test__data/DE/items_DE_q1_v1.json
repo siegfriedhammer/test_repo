@@ -2,43 +2,25 @@
   "language": "DE",
   "task": "q1",
   "variant": 1,
-  "n_items": 33,
+  "n_items": 20,
   "items": [
     {
-      "index": "q1_105",
-      "text": "Es kommt auf den Anfang an, bei dem der Lastwagen angefangen hat, das Wasser zu verteilen. Vor allem auch, wo der Lastwagen angefangen hat, beim Stau Wasser zu verteilen. Wenn der LKW schon 6 Stunden unterwegs ist, benötigt er bestimmt noch 1-3 Stunden, da der LKW anscheinend viele Stopps hat. Es kommt auch auf die anderen Stau-Teilnehmer an, wie gut die anderen Autos Platz machen für die Versorgung.",
+      "index": "q1_144",
+      "text": "Ich schätze, es dauert etwa 6–8 Stunden, bis alle versorgt sind. Begründung: In einem 20-km-Stau mit zwei Spuren und etwa 100 Fahrzeugen pro km und Spur stehen grob 4000 Autos; bei durchschnittlich 1,5 Insassen sind das rund 6000 Menschen. Bekommt jede Person 0,5 Liter, müssen etwa 3000 Liter ausgegeben werden; ein kleiner LKW fasst nur ca. 1000–1500 Liter, also sind 2–3 Füllungen nötig. Selbst mit zwei Helfern und einer Abgaberate von etwa 20 Personen pro Minute dauert die reine Ausgabe ungefähr 6000/20 ≈ 300 Minuten, also rund 5 Stunden. Die Fahrt am Rand und das Nachfüllen/Neuansetzen kosten zusätzlich etwa 1–3 Stunden. Insgesamt ergibt das grob einen halben Tag, sodass es plausibel ist, dass Christina nach 6 Stunden noch nichts bekommen hat.",
       "treatment": 0,
-      "id": "lne5b"
-    },
-    {
-      "index": "q1_12",
-      "text": "Ich denke, man kann dies nicht genau sagen, da dort verschiedene Faktoren eine Rolle spielen. Darunter zählen beispielsweise, ob der Stau vielleicht nicht sogar aufgelöst ist, bis der Lastwagen bei ihr angekommen ist, oder ob der Lastwagen überhaupt noch genügend Wasser besitzt. Außerdem weiß der Lastwagen selbst auch nicht, wie viele Menschen im Stau stehen. Es ist also wie eine Schleife bei Python, die solange ausgeführt wird, bis der Stau zu Ende ist.",
-      "treatment": 0,
-      "id": "oja6l"
-    },
-    {
-      "index": "q1_14",
-      "text": "Ca. 8h, da jedem einzelnen Fahrer evtl. mitfahrenden Wasser gegeben werden muss, sowie ein 6h Stau darauf hindeutet, dass sehr viele Autos beteiligt sind.",
-      "treatment": 0,
-      "id": "eas4h"
-    },
-    {
-      "index": "q1_147",
-      "text": "Länger als 6 Std, Gerücht gehört, bedeutet, dass der Bus noch nicht in Sichtweite ist und auch noch keine konkreten Infos über Radio o.ä. rausgegeben wurden. 20 km langer Stau und bereits 6 Std stehen, nach allgemeiner Lebenserfahrung dauert es mindestens drei Stunden, bis Hilfsgüter angefordert/bereits gestellt werden, plus ca. eine Stunde Anfahrt und Packen. Nach 4-5 Std Beginn Getränkeverteilung, ca. 20 min pro Kilometer, ergo ca. 6,5 - 7 Std bis zum Staubeginn. Maximale weitere Warte-Dauer 5 Std.",
-      "treatment": 0,
-      "id": "rsn6l"
-    },
-    {
-      "index": "q1_154",
-      "text": "Da \"alle Menschen\" (im Stau) in diesem Fall mehrere Tausend Personen bedeuten könnte, bräuchte es mindestens mehrere Stunden, diese zu versorgen. Hinzu kommt das Problem, dass die Wasserressourcen der/des LKW-Fahrer*in ebenfalls begrenzt sind. Wird dieser Punkt fürs Erste außen vor gelassen, könnte man mit folgenden (fiktiven) Daten rechnen: 20 Kilometer sind 20.000 Meter. Bei einer durchschnittlichen Autolänge von ca. 4,5 Metern und einem Durchschnittsabstand zum Vordermann von 1,5 Metern kommen wir auf 6 Meter \"Fläche\" pro Auto. Auf 20 Kilometer kommen somit in etwa 3.330 Autos, mal zwei genommen, da es sich mindestens um eine zweispurige Fahrbahn handelt. Würde jedes dieser 6.660 Autos mit Wasser versorgt werden, würde es Wochen dauern.",
-      "treatment": 0,
-      "id": "ese6m"
+      "id": "rmo3l"
     },
     {
       "index": "q1_161",
       "text": "Wahrscheinlich wird es mehrere Stunden dauern, bis der Lastwagen alle Menschen im 20 km Stau versorgt hat. Ein Stau dieser Länge umfasst eventuell einige tausend Fahrzeuge. Selbst wenn der Lastwagen zügig vorankommt, kann er wegen der stehenden Autos nur langsam zwischen den Reihen fahren. Wenn er pro Auto nur 10–20 Sekunden braucht, summiert sich das bei z. B. 3000 Fahrzeugen auf 8–16 Stunden reine Ausgabezeit. Dazu kommen Stopps, Engstellen und eventuell mehrere Übergaben. Insgesamt ist also realistisch, dass der Lkw mindestens viele Stunden braucht und vermutlich nicht alle rasch erreicht.",
       "treatment": 0,
       "id": "aje8h"
+    },
+    {
+      "index": "q1_187",
+      "text": "Bis der Lastwagen alle Autos versorgt hat, dauert es wahrscheinlich mehrere Stunden. Genau kann man dies allerdings nicht sagen, da man nicht weiß, wie viele Spuren die Autobahn hat. Somit kann man nicht ausrechnen, wie viele Autos ca. in diesem Stau stehen und der LKW somit zu versorgen hat.",
+      "treatment": 0,
+      "id": "ton4h"
     },
     {
       "index": "q1_195",
@@ -51,12 +33,6 @@
       "text": "Der Stau ist 20 km lang, unter der Annahme, dass die Straße 4-spurig ist und das durchschnittliche Auto 3 m lang ist, befinden sich in diesem Stau ca. 26.666 Autos. Unter der Annahme, dass der Laster für jedes Auto 5 Sek. benötigt, um das Wasser zu verteilen, sind das 22.222 Min. oder ca. 370 Stunden. Wenn mehrere Menschen gleichzeitig verteilen, kann diese Zahl natürlich noch durch die Anzahl der mithelfenden geteilt werden.",
       "treatment": 0,
       "id": "aje3r"
-    },
-    {
-      "index": "q1_203",
-      "text": "Bei einer Autobahn kann man von 2 Streifen ausgehen, also etwa 40 km Autos. Geschätzt vielleicht 5000 Fahrzeuge insgesamt. Und nur ein kleiner Lastwagen. Bestimmt 2-4 Stunden, kommt darauf an, wo man sich im Stau befindet.",
-      "treatment": 0,
-      "id": "ada6h"
     },
     {
       "index": "q1_213",
@@ -77,34 +53,22 @@
       "id": "aja4a"
     },
     {
-      "index": "q1_235",
-      "text": "In dem kleinen Lastwagen ist vermutlich nicht genug Wasser, um alle Menschen im Stau zu versorgen, bevor der Stau sich auflöst. Wahrscheinlich bekommt die Mehrheit also nichts. Wenn man davon ausgehen würde, dass sich der Lastwagen mit 5 km/h fortbewegt, würde es ca. 4 h dauern, bis jedes Auto auf einer Strecke von 20 km mit Wasser versorgt wäre, da der Mini-Lastwagen dann in einer Stunde einen Abschnitt von 5 km schaffen würde.",
-      "treatment": 0,
-      "id": "cde5p"
-    },
-    {
-      "index": "q1_256",
-      "text": "Die Versorgung könnte um die 4 Stunden dauern.",
-      "treatment": 1,
-      "id": "eja7b"
-    },
-    {
-      "index": "q1_276",
-      "text": "Ein LKW braucht laut ChatGPT ca. 4 Stunden für 20 Kilometer in Schrittgeschwindigkeit. Mit Verteilen, Fragen beantworten und Wasser ausschenken bräuchte er dann bestimmt nochmal 2 Stunden mehr, weshalb ich insgesamt ungefähr mit 6 Stunden rechnen würde.",
-      "treatment": 1,
-      "id": "e2a4l"
-    },
-    {
       "index": "q1_299",
       "text": "Die Antwort ist abhängig von der Personenanzahl und der Effizienz des Lastwagens. Man kann die Antwort grob hochrechnen, aber ohne genauere Infos kann man keine vernünftige Einschätzung geben. Selbst mit ChatGPT benötigt man ausreichende Informationen, um eine bessere Einschätzung zu geben. Es könnte auch bis zu 6 Stunden dauern, bis jeder mit Wasser versorgt ist, da der Lastwagen ja auch das Wasser zu Fuß verteilen muss.",
       "treatment": 1,
       "id": "uma4s"
     },
     {
-      "index": "q1_308",
-      "text": "2 h",
+      "index": "q1_300",
+      "text": "Es erhellen genug Daten, um klar zu bestimmen, wann Christin vielleicht Wasser erhält. Auch ist unklar, wann alle Menschen bestückt wären. Man kann nur sagen, dass es wohl mehr als 6 Stunden wären; für alles andere fehlt einem schlichtweg die Grundlage.",
       "treatment": 1,
-      "id": "vms5k"
+      "id": "eme4h"
+    },
+    {
+      "index": "q1_311",
+      "text": "Bewegt sich der Wasserwagen mit sehr langsamen 3 km/h, da er immer wieder Stopps zum Versorgen der Menschen einlegen muss, braucht es 6 Stunden 40 Minuten, um alle Menschen zu erreichen.",
+      "treatment": 1,
+      "id": "ema4h"
     },
     {
       "index": "q1_318",
@@ -119,46 +83,10 @@
       "id": "ldl5l"
     },
     {
-      "index": "q1_347",
-      "text": "Zunächst ist unklar, an welcher Stelle im Stau Christina steht und von welchem Ende der Lastwagen losfährt. Ebenso wissen wir nicht, wie viele Spuren auf denen Autos sind und wie viel Kapazität der kleine Lastwagen für Wasser hat und wann er zurückfahren muss, um mehr zu holen. Da uns viele relevante Informationen fehlen, lässt sich keine Antwort auf die Frage geben, wann Christina Wasser bekommt.",
-      "treatment": 1,
-      "id": "lai5b"
-    },
-    {
-      "index": "q1_377",
-      "text": "Kommt darauf an, wo in den 20 km sie ist, wie langsam/schnell die Watertrucks fahren und von wo diese starten.",
-      "treatment": 1,
-      "id": "eja3b"
-    },
-    {
-      "index": "q1_381",
-      "text": "Man kann es schwer einschätzen, weil man nicht weiß, auf welcher Höhe sie vom Stau steht und ob es vielleicht auch mehrere Wasserwagen gibt. Aber bei einem so langen Stau sind mindestens auf den 20 km 4000 Autos anwesend, d.h. dass die Auslieferung des Wassers mehrere Stunden dauern kann.",
-      "treatment": 1,
-      "id": "öda3b"
-    },
-    {
       "index": "q1_390",
       "text": "Um die Dauer zu bestimmen, die der Lastwagen benötigt, um alle Menschen mit Wasser zu versorgen, müssen wir einige Annahmen treffen. Angenommen, der Lastwagen kann jeweils 20 Personen gleichzeitig mit Wasser versorgen und benötigt dafür 10 Minuten pro Halt. Wenn wir die Anzahl der Personen im Stau schätzen, nehmen wir an, dass etwa 1.000 Autos im Stau sind und im Durchschnitt 2 Personen pro Auto sitzen. Das wären also ungefähr 2.000 Personen. Mit 20 Personen pro Halt würde der Lastwagen 100 Stops benötigen, um alle zu versorgen. Das ergibt eine Gesamtzeit von 1.000 Minuten oder etwa 16 Stunden. Diese Schätzung kann je nach Verkehr und anderen Faktoren variieren, aber sie gibt einen ersten Überblick über die lange Wartezeit sowie die Notwendigkeit einer schnelleren Lösung für die Durstigen.",
       "treatment": 1,
       "id": "ton7h"
-    },
-    {
-      "index": "q1_410",
-      "text": "Ich glaube, dass der Lastwagen Sie nicht erreichen wird. Wenn Sie seit 6 Stunden im Stau stehen und sich nicht von der Stelle bewegt, kommt auch kein Lastwagen durch, der Sie mit Wasser versorgen kann, und das bei einem 20 km langen Stau. Man könnte theoretisch von einer Rettungsgasse ausgehen, aber bei einem Stau zu Sommerferienzeiten ist dieser auch nicht immer perfekt gegeben. Bei großem Durst und Hoffnungslosigkeit werden oft auch Gerüchte in die Welt gesetzt und sich an falsche Hoffnungen geklammert. In diesem Fall könnte das eines der Fälle sein.",
-      "treatment": 1,
-      "id": "iag7b"
-    },
-    {
-      "index": "q1_442",
-      "text": "Um die Aufgabe korrekt zu lösen, fehlen einige Daten, die ich zuerst schätzungsweise berechne: Personenanzahl, Wassermenge pro Person, Lastwagenkapazität, Versorgungszeit. Personenanzahl: angenommen einspurig: 6.000 Personen, die hinter Christina sind. Wassermenge: ca. 0,5l * 6000 = 3.000l. Kapazität von einem Lastwagen: ca. 20.000 Liter (großer Lastwagen). Versorgungszeit: 20 Sek. pro Auto (4.000 Autos). Das Ergebnis wird anhand dieser Daten ausgerechnet, es ist unrealistisch, dass der Lastwagen mit dem Wasser innerhalb einer Stunde zu Christina kommt.",
-      "treatment": 1,
-      "id": "eoa6b"
-    },
-    {
-      "index": "q1_450",
-      "text": "Es ist sehr schwer zu sagen, wie lange es dauern wird, bis alle Menschen mit Wasser versorgt sind, da nicht klar ist, wie viele Menschen im Stau stehen, wie viel Wasser der Lastwagen dabei hat und wie schnell er dieses verteilt. Da Cristina jedoch schon seit 6 Stunden im Stau steht, sollte es nicht mehr lange dauern.",
-      "treatment": 1,
-      "id": "rjn5f"
     },
     {
       "index": "q1_476",
@@ -179,10 +107,10 @@
       "id": "ima5e"
     },
     {
-      "index": "q1_63",
-      "text": "Zunächst einmal müsste sich dieser Lastwagen durch eine Rettungsgasse bewegen, da ansonsten kein Vorankommen möglich wäre. Da hier fraglich ist, ob das ohne Geleit durch öffentliche Stellen (z.B. Polizei) möglich ist (z.B. hat der Lastwagen kein Martinshorn, um auf sich aufmerksam zu machen), muss, wenn überhaupt, von einem sehr langsamen Vorankommen auszugehen sein. Allein um die 20 km zurückzulegen, könnte er bei einem Tempo von ca. 5 km/h 4 Stunden brauchen. Hinzu kommt, dass der Lastwagen anhalten und die Menschen mit Wasser versorgen müsste. Auf einem km stehen vielleicht 1000 Autos pro Spur (Länge eines Autos = 2 m --> 2000 m : 2 m = 1000), also insgesamt ca. 20.000 Autos. Rechnet man mit ungefähr 1 Minute pro Auto, bräuchte der Laster zusätzliche 20.000 Minuten. Da es sich um einen sehr kleinen Lastwagen handelt, muss auch mit bedacht werden, dass ggf. neues Wasser aufgefüllt werden muss, wodurch erneut Zeitprobleme entstehen. Hierfür kommen erneute 4 Stunden hinzu. Insgesamt also 8 Stunden + 20.000 Minuten (= 333 Stunden). Also 401 Stunden.",
+      "index": "q1_68",
+      "text": "Bei einem 20 km langen Stau ist davon auszugehen, dass auf 1 km mindestens 100 Fahrzeuge, sofern diese eine durchschnittliche Länge von ca. 5 Metern haben. Dementsprechend könnte der Lastwagen nur mit langsamer Geschwindigkeit inmitten der Autokolonnen hindurchfahren. Pro Auto ist zudem davon auszugehen, dass mindestens eine Person sitzt, also wären das mindestens 2000 Personen. Es kann zusätzlich einige Sekunden bis Minuten dauern, bis die Leute versorgt wurden. Für einen einzigen Lastwagen ist also davon auszugehen, dass bei einer Geschwindigkeit von ca. 2 km/h die Wasserversorgung bis zu einem Tag dauern könnte. Die Wartezeit der bisherigen 6 Stunden von Christina ist also nicht überraschend.",
       "treatment": 0,
-      "id": "ema9w"
+      "id": "asa4h"
     },
     {
       "index": "q1_72",
@@ -195,12 +123,6 @@
       "text": "Wir gehen einmal davon aus, dass die Wasserversorgung erst nach 2 Stunden begonnen hat, da eine Wasserausgabe behördlich oder auch anderweitig Zeit zum Organisieren braucht. Pro Kilometer sind wahrscheinlich zwischen 200 und 250 Autos mit durchschnittlich 2 Insassen. Wenn der Versorger durch die Rettungsgasse fährt und kontinuierlich ausgibt, kommen wir auf 2 km pro Stunde, also nach so 10 Stunden ist man fertig.",
       "treatment": 0,
       "id": "eso4m"
-    },
-    {
-      "index": "q1_96",
-      "text": "Es kommt darauf an, wo im Stau sie steht. Wenn sie relativ weit vorne steht, dauert es natürlich länger, als wenn sie fast am Ende steht.",
-      "treatment": 0,
-      "id": "mje6h"
     }
   ]
 }

@@ -2,62 +2,8 @@
   "language": "DE",
   "task": "q1",
   "variant": 3,
-  "n_items": 53,
+  "n_items": 20,
   "items": [
-    {
-      "index": "q1_124",
-      "text": "Der Strom- und Gasverbrauch sinkt von Januar bis Juli stetig, während die Besucherzahl wächst. Der Stromverbrauch sank insgesamt von ca. 43.000 auf 30.000 kWh, während sich der Gasverbrauch in der Zeit von 11.000 auf 5.400 halbierte. In der Zeit vervierfachte sich die Besucherzahl von 6.500 auf ca. 23.000. Ab Juli bis Dezember steigt der Stromverbrauch in regelmäßigen Schritten auf sein Ursprungsniveau, genauso wie der Gasverbrauch. In der Zeit sinkt die Besucherzahl ebenfalls drastisch, bis sie bei ca. 7.000 im Dezember landet.",
-      "treatment": 0,
-      "id": "rjs5n"
-    },
-    {
-      "index": "q1_133",
-      "text": "Vom Januar bis Juli sind der Strom- sowie der Gasverbrauch im Schwimmbad \"Südpol\" gesunken. Die Besucheranzahl ist jedoch gestiegen. Ab August ändert sich das jedoch. Der Strom- und Gasverbrauch steigt und die Besucheranzahl sinkt wieder.",
-      "treatment": 0,
-      "id": "cna4l"
-    },
-    {
-      "index": "q1_141",
-      "text": "Der Stromverbrauch ist in der Hauptsaison niedriger geworden. Im Verhältnis hat sich der Gasverbrauch ähnlich verhalten. Die Besucherzahl ist in der Hauptsaison gestiegen, somit auch die Einnahmen. Es ist etwas merkwürdig, da mit steigender Besucherzahl der Energieverbrauch sich ebenfalls erhöht.",
-      "treatment": 0,
-      "id": "lomh "
-    },
-    {
-      "index": "q1_145",
-      "text": "Im Schwimmbad „Südpool“ gibt es einige Schwankungen in Sachen Energie- und Gasverbrauch sowie der Anzahl der Besucher*innen und Kioskeinnahmen. In den kälteren Monaten sind Energie- und Gasverbrauch viel höher, weil das Schwimmbad mehr beheizt werden muss, während die Besucher*innenzahl und Kioskeinnahmen niedriger sind, weil weniger Leute im Winter schwimmen gehen. Wenn es dann zum Sommer hingeht, drehen sich die Zahlen quasi um. Das Bad muss nicht mehr so viel geheizt werden, weil es wärmer wird und aufgrund der Temperaturen gehen dann auch mehr Leute schwimmen. Daher hat das Schwimmbad im Sommer auch mehr Einnahmen.",
-      "treatment": 0,
-      "id": "oae9s"
-    },
-    {
-      "index": "q1_156",
-      "text": "Im Schwimmbad ‚Südpol‘ betrug der Energieverbrauch im Januar 2024 42.500 kWh und im Dezember 2024 43.500 kWh. Von Januar bis Juni nahm der Energieverbrauch um ca. 11.000 ab (von 42.500 kWh auf 31.800 kWh). Der höchste gemessene Verbrauch liegt im Dezember bei 43.500 kWh, der niedrigste Wert im Juli mit 30.500 kWh. Die Änderungen des Energieverbrauchs und der Besucherzahl haben keinen Zusammenhang. Die Höhe der Energiekosten in den Wintermonaten (Dezember und Januar) lassen sich auf die Heizkosten zurückführen. Am wenigsten Besucher gab es im Januar (6.540) und am meisten im Juli (22.900). Dies korrespondiert auch mit den Einnahmen (Januar= 2.300€, Juli= 7.100€).",
-      "treatment": 0,
-      "id": "coa4b"
-    },
-    {
-      "index": "q1_166",
-      "text": "Im „Südpool“ zeigte sich 2024 ein deutlicher saisonaler Trend. Von Januar bis Juli stiegen die Besucherzahlen stetig und erreichten im Juli mit 22.900 Gästen ihren Höhepunkt. Gleichzeitig sank der Strom- und Gasverbrauch bis zum Sommer deutlich. Im August und September stieg der Energiebedarf wieder leicht, während weniger Menschen kamen. Der Juni war mit 31.800 kWh besonders stromsparend, trotz 18.400 Besuchern. Den höchsten Verbrauch gab es im Winter, als Heizung und Beleuchtung mehr Energie forderten. Im Dezember wurden 43.500 kWh Strom und 11.500 m³ Gas bei nur 6.900 Gästen gemessen. Das Jahr zeigt insgesamt: Viele Besucher im Sommer, hoher Energiebedarf im Winter.",
-      "treatment": 0,
-      "id": "lma5l"
-    },
-    {
-      "index": "q1_17",
-      "text": "Im örtlichen Schwimmbad „Südpool“ ging schon im April die Saison los. Mit fast 10.000 Badegästen. Die Besucherzahlen des Schwimmbades verdoppelten sich aber noch bis zum Sommer. Juli und August waren die heißesten und somit natürlich auch die am stärksten besuchten Monate. Genau entgegen dieser Besucherkurve entwickelte sich der Stromverbrauch. In den Wintermonaten musste das Schwimmbad am meisten nachheizen. Genauso sah auch der Stromverbrauch aus. In den Sommermonaten am wenigsten und in den Wintermonaten am meisten.",
-      "treatment": 0,
-      "id": "üoa3l"
-    },
-    {
-      "index": "q1_171",
-      "text": "Der Anfang und das Ende des Jahres 2024 sind fast die selben Ergebnisse, sprich der Energieverbrauch sowie die Besucheranzahl sind identisch. Hin und wieder kommt es zu Schwankungen in der Mitte des Jahres. Je mehr Besucher, desto mehr Energieverbrauch.",
-      "treatment": 0,
-      "id": "inl5h"
-    },
-    {
-      "index": "q1_180",
-      "text": "Der Energieverbrauch in einem Schwimmbad verändert sich über das Jahr. Zu den kälteren Monaten müssen die Schwimmbecken beheizt werden und dementsprechend ist der Energieverbrauch dort am höchsten. In den heißen Sommermonaten ist der Energieverbrauch geringer, da es warm ist und der Pool nicht beheizt werden muss. Eine ähnliche Entwicklung kann man bei der Besucheranzahl erkennen, mit dem Höchstwert von 22.900 Besuchern im Juli.",
-      "treatment": 0,
-      "id": "eje4s"
-    },
     {
       "index": "q1_194",
       "text": "Südpol 7/12? Wie die Zahlen des beliebten Schwimmbades \"Südpol\" zeigen, waren die fünf Monate des vergangenen Jahres 2024, die die geringste Besucherzahl aufweisen, gleichzeitig aber diejenigen mit der schlechtesten Umweltbilanz und den niedrigsten Einnahmen. Ist das noch zu vertreten, oder ist es ein Luxus, das Schwimmbad das ganze Jahr lang geöffnet zu lassen, den wir uns eigentlich in diesen Zeiten nicht mehr leisten sollten?",
@@ -71,22 +17,10 @@
       "id": "oay5b"
     },
     {
-      "index": "q1_207",
-      "text": "Die verschieden hohen und tiefen Besucherzahlen in der Tabelle über das Schwimmbad „Südpool“ sind mit der Beliebtheit des Schwimmengehens in den heißen Monaten zu begründen. Somit sind auch die Einnahmen in diesen Monaten erhöht, im Vergleich zu den kälteren Monaten. Die kWh- und m³-Werte sind in diesen Monaten wesentlich höher als in den heißen Monaten, da mehr Strom benötigt wird, um das Wasser und die Räume des Schwimmbads bei der Kälte draußen warm zu halten. Denn in den heißen Monaten wollen die Besucher sich eher abkühlen als sich aufzuwärmen.",
-      "treatment": 0,
-      "id": "eme4r"
-    },
-    {
       "index": "q1_209",
       "text": "Liebe Leser*innen, der Energieverbrauch und die Anzahl der Besucher des örtlichen Schwimmbades Südpol hat sich im Jahr 2024 entwickelt, welches im Folgenden erläutert wird. Zu beobachten ist zum einen, dass der Stromverbrauch in Winter- und Herbstmonaten deutlich höher als in den Sommer- und Frühjahrmonaten ist. Außerdem ist zu erkennen, dass die Höchstwerte des Stromverbrauchs in den Monaten Januar und Dezember zu erkennen sind. Zum anderen lässt sich dies nicht mit der Anzahl der Besucher*innen verknüpfen, da die Anzahl der Besucher*innen in den Sommer- und Frühjahrsmonaten deutlich höher ist als in den Winter- und Herbstmonaten. Eine mögliche Erklärung dafür könnte sein, dass in den Winter- und Herbstmonaten deutlich mehr Strom benötigt wird, um zum einen zu heizen und zum anderen, da mehr Licht aufgrund der Jahreszeiten gebraucht wird. Diese Entwicklung ist spannend zu beobachten und wir sind gespannt auf weitere Folgewerte der nächsten Jahre.",
       "treatment": 0,
       "id": "rmy5h"
-    },
-    {
-      "index": "q1_210",
-      "text": "Der Energieverbrauch und die Besucheranzahl im Schwimmbad Südpol sind in 2024 mal wieder von der Saison abhängig. Während in den kalten Monaten wesentlich weniger BesucherInnen ins Schwimmbad gehen, müssen die Becken natürlich auch doller beheizt werden und damit steigen auch die Stromkosten. Im Sommer gleicht sich das dann wieder etwas aus, da mit der Besucheranzahl auch die Einnahmen sich verdoppeln und durch die Hitze weniger geheizt werden muss. Zum Ende des Jahres geht diese Zahl dann wieder runter und der Stromverbrauch steigt wieder leicht an. Ein erfolgreiches Jahr fürs Südpol!",
-      "treatment": 0,
-      "id": "aoa4h"
     },
     {
       "index": "q1_211",
@@ -95,76 +29,10 @@
       "id": "ij7ah"
     },
     {
-      "index": "q1_218",
-      "text": "Das Schwimmbad „Südpool“ verzeichnete im Jahr 2024 einen deutlichen saisonalen Einfluss auf Energieverbrauch und Besucherzahlen. Der Stromverbrauch sank von 42.500 kWh im Januar kontinuierlich auf den Tiefstwert von 30.500 kWh im Juli, während der Gasverbrauch im selben Zeitraum von 11.200 m³ auf 5.400 m³ zurückging. Gleichzeitig stieg die Besucherzahl von 6.540 im Januar auf den Jahreshöchststand von 22.900 im Juli. Auch die Kioskeinnahmen erreichten mit 7.100 Euro im Juli ihren Spitzenwert. Ab August erhöhte sich der Energiebedarf wieder, so etwa auf 38.400 kWh Strom im Oktober und 10.700 m³ Gas im November. Im Herbst gingen die Besucherzahlen dagegen stetig zurück und lagen im Oktober nur noch bei 11.500. Im Dezember wurden schließlich 6.900 Gäste gezählt. Insgesamt zeigt die Jahresbilanz, dass der Energieverbrauch entgegengesetzt zur Besucherentwicklung verläuft und stark von der Saison abhängig ist.",
-      "treatment": 0,
-      "id": "rjx3h"
-    },
-    {
-      "index": "q1_224",
-      "text": "Der Energieverbrauch des Schwimmbads Südpool ist im Winter dramatisch hoch im Gegensatz zu seinen Besucherzahlen. Dieser Energieverbrauch ist für die Jahreszeit normal, wenn viele Besucher da wären, aber durch den geringen Besuch im Winter würde es sich vielleicht sogar lohnen, das Schwimmbad zu schließen, aus wirtschaftlichen und natürlichen Gründen. Weil dadurch das Klima geschützt werden kann. Durch den geringeren Gas- und geringeren Energieverbrauch reduzieren sich ebenfalls die erhöhten Nebenkosten für das Schwimmbad und könnten es auch somit helfen, länger zu bestehen.",
-      "treatment": 0,
-      "id": "ins6l"
-    },
-    {
       "index": "q1_237",
       "text": "Im Schwimmbad Südpol lässt sich ein deutlicher Wandel im Bereich Energieverbrauch und Besucherzahl über das Jahr verteilt feststellen. Zwischen April und Oktober laufen nicht nur die Menschen ins Schwimmbad, die Geschäfte laufen ebenfalls deutlich besser. Dies ist nicht nur anhand der niedriger werdenden Energiekosten durch den sinkenden Verbrauch in den warmen Monaten zu erkennen, sondern auch an den steigenden Einnahmen des Kiosks und der fast verdoppelten Besucherzahl, wenn man März und Mai betrachtet. Zwischen Oktober und März ist der Energieverbrauch des Südpols am höchsten, doch die Einnahmen umso niedriger. Die Besucher kommen also wesentlich lieber in den warmen Monaten ins Becken. Für Sie Leser bedeutet dies also, dass ein schöner Ausflug ins Schwimmbad dem anderen mehr bedeutet, als es manchmal scheint.",
       "treatment": 0,
       "id": "ija4h"
-    },
-    {
-      "index": "q1_251",
-      "text": "Zur Zeit, in der die Besucheranzahl am höchsten ist, verbraucht das Bad am meisten Strom.",
-      "treatment": 0,
-      "id": "eag4h"
-    },
-    {
-      "index": "q1_254",
-      "text": "In 2024 hat \"Südpool\" einen signifikanten Anstieg sowohl im Energieverbrauch als auch in der Besucherzahl verzeichnet, ein Trend, der größtenteils durch verbesserte Einrichtungen und Werbeaktivitäten vorangetrieben wurde. Das Schwimmbad berichtete von einem Anstieg der Besucher um 15% im Vergleich zum Vorjahr und begrüßte über 50.000 Gäste. Dieser Anstieg kann auf neu hinzugefügte Funktionen, wie Wasserrutschen und Fitnessprogramme, die ein breiteres Publikum ansprechen, zurückgeführt werden. Allerdings geht der Anstieg der Beliebtheit mit einem 20%igen Anstieg des Energieverbrauchs einher, was Bedenken hinsichtlich der Nachhaltigkeit aufwirft. Die Geschäftsführung prüft nun Optionen für erneuerbare Energiequellen, um die Umweltauswirkungen zu verringern. Das Feedback der Gemeinschaft deutet darauf hin, dass die Besucher zwar von den Verbesserungen begeistert sind, sie jedoch auch darauf bedacht sind, dass das Schwimmbad umweltfreundlich bleibt. In Anbetracht dieser Entwicklungen strebt \"Südpool\" an, ein Gleichgewicht zwischen Besucherzufriedenheit und verantwortungsbewusstem Energieverbrauch in den kommenden Jahren zu finden.",
-      "treatment": 1,
-      "id": "ljh8b"
-    },
-    {
-      "index": "q1_274",
-      "text": "Im Jahr 2024 verzeichnete das örtliche Schwimmbad „Südpool“ einen Anstieg der Besucherzahl um 20 % im Vergleich zum Vorjahr. Dies spiegelt das wachsende Interesse an gesundheitsfördernden Aktivitäten wider. Gleichzeitig stieg der Energieverbrauch um 15 %, was durch erweiterte Öffnungszeiten und zusätzliche Angebote wie Aquafitness-Kurse bedingt ist. Die Schwimmbadleitung betont jedoch, dass Maßnahmen zur Energieeffizienz ergriffen wurden, darunter der Einsatz von Solarpanelen. Diese Initiativen zielen darauf ab, die Kosten zu senken und den ökologischen Fußabdruck zu reduzieren. Die „Südpool“-Verwaltung zeigt sich optimistisch hinsichtlich der Nachhaltigkeit. Insgesamt bleibt das Schwimmbad ein wichtiger Ort für die Gemeinschaft.",
-      "treatment": 1,
-      "id": "ems6l"
-    },
-    {
-      "index": "q1_305",
-      "text": "Im Januar betrug der Stromverbrauch 42.500 kWh, während der Gasverbrauch bei 11.200 m³ lag. Die Besucherzahl war im Januar mit 6.540 die niedrigste des Jahres, und die Einnahmen im Kiosk betrugen 2.300 €. Im März stieg die Besucherzahl auf 7.900, was zu höheren Einnahmen von 2.850 € führte. Der April verzeichnete einen Rückgang im Strom- und Gasverbrauch, jedoch eine Zunahme der Besucher auf 10.120. Im Mai erholte sich der Kiosk mit Einnahmen von 4.850 € bei einer Besucherzahl von 14.500. Der Juni war der Monat mit den meisten Besuchern (18.400) und brachte die höchsten Kiosk-Einnahmen von 6.200 €. Im Juli sank der Stromverbrauch auf 30.500 kWh, aber die Besucher sprangen auf 22.900. Der Dezember endete mit einem hohen Stromverbrauch von 43.500 kWh und 6.900 Besuchern, wobei die Kiosk-Einnahmen bei 2.650 € lagen.",
-      "treatment": 1,
-      "id": "bja4r"
-    },
-    {
-      "index": "q1_313",
-      "text": "Positive Bilanz für das Schwimmbad „Südpool“ im Jahr 2024. Im Jahr 2024 verzeichnete das örtliche Schwimmbad „Südpool“ einen erfreulichen Anstieg der Besucherzahlen und eine gleichzeitige Senkung des Energieverbrauchs. Während der Stromverbrauch im Januar mit 42.500 kWh begann, fiel er bis Juni auf 31.800 kWh. Der Gasverbrauch reduzierte sich ebenfalls, von 11.200 m³ im Januar auf 5.900 m³ im Juni. Gleichzeitig stieg die Besucherzahl kontinuierlich an, beginnend mit 6.540 im Januar und gipfelnd in 22.900 im Juli. Die Einnahmen aus dem Kiosk stiegen parallel dazu, was auf die große Beliebtheit des Schwimmbades hinweist. Im August wurden 21.400 Besucher gezählt, gefolgt von einem Rückgang im Herbst. Diese Entwicklung zeigt, dass das „Südpool“ ein attraktiver Anlaufpunkt für die Gemeinde bleibt, während die Bemühungen um Energieeffizienz sichtbar Früchte tragen.",
-      "treatment": 1,
-      "id": "uaa4h"
-    },
-    {
-      "index": "q1_32",
-      "text": "Es wird anhand der Statistik deutlich, dass die Besucheranzahl in den Monaten April bis Oktober überschrittlich im Vergleich zu den restlichen Monaten ist. Somit steigen auch die Einnahmen des Kiosks in diesen Bereichen stark an.",
-      "treatment": 0,
-      "id": "ome5s"
-    },
-    {
-      "index": "q1_343",
-      "text": "Das Schwimmbad „Südpool“ ist sehr beliebt, zumindest im Sommer. Aber wie sieht’s im restlichen Jahr aus? Im Juli ist die Besucherzahl am höchsten, wonach diese bis zum Dezember stark sinkt. Im August ist die Besucherzahl immer noch am zweitgrößten, dann sinkt die sehr stark ab. Relativ genauso sieht es von Januar bis Juni aus, nur andersherum, denn hier startet die Zahl relativ niedrig und steigt bis Juni ums dreifache an. Bei dem Energieverbrauch kann man etwas anderes sehen, da dieser im Januar sehr hoch ist und pro Monat Richtung Sommer immer niedriger wird, auch hier ist der Juli der Wendepunkt, denn dieser ist der Monat mit dem wenigsten Verbrauch, ab August steigt es wieder immer weiter, bis er im Dezember am höchsten ist. Wobei die Wintermonate sich nicht viel nehmen, hier ist der Verbrauch bei allen deutlich mehr als im Sommer.",
-      "treatment": 1,
-      "id": "ade5p"
-    },
-    {
-      "index": "q1_345",
-      "text": "In diesem Schwimmbad ist klar zu sehen, dass im Winter mehr Energie verbraucht wird als im Sommer. Wegen Heizkosten etc. Zusätzlich merkt man auch, wenn es mehr Besucher sind, kommt es auch zu mehr Energiekosten. Man kann auch erkennen, dass im Dezember am meisten verbraucht wurde und am wenigsten im Juli. Im Juli hatte das Schwimmbad auch am meisten Besucher, aber dennoch hatten sie weniger Kosten als im August, was eventuell mit der Wärme zu tun hat. Denn im August ist es am wärmsten, da muss natürlich für eine Klimaanlage gesorgt sein.",
-      "treatment": 1,
-      "id": "h2p6h"
-    },
-    {
-      "index": "q1_350",
-      "text": "Für das örtliche Schwimmbad \"Südpool\" war das Jahr 2024 mit einem in der ersten Hälfte des Jahres kontinuierlich sinkenden Energieverbrauch und steigender Besucherzahl ein sehr erfolgreiches. Der niedrigste Energieverbrauch lag im Juli bei nur 30.500 kWh Strom und 5.400 m³ Gas. Zwar stieg der Energieverbrauch zum Ende des Jahres sowie die Besucherzahl, jedoch ist dies den normalen saisonalen Schwankungen eines Schwimmbades zuzuordnen. Aber selbst im Dezember, mit dem höchsten Verbrauch, lag der Stromverbrauch bei nur 43.500 kWh. Das Schwimmbad \"Südpool\" kann also zu Recht sich mit einer Energieeffizienz schmücken sowie guten Besucherzahlen.",
-      "treatment": 1,
-      "id": "öje9b"
     },
     {
       "index": "q1_355",
@@ -173,52 +41,16 @@
       "id": "aod7b"
     },
     {
-      "index": "q1_367",
-      "text": "Im Schwimmbad „Südpool“ ist der Energieverbrauch im Jahr 2024 deutlich saisonabhängig ausgefallen. Während der Stromverbrauch von 42.500 kWh im Januar bis auf 30.500 kWh im Juli sank, stieg er in den Wintermonaten wieder auf 43.500 kWh im Dezember an. Ähnlich entwickelte sich der Gasverbrauch, der im warmen Sommer mit 5.400 m³ seinen Tiefpunkt erreichte und im Dezember auf 11.500 m³ kletterte. Gleichzeitig verzeichnete das Bad in den Sommermonaten einen starken Besucherzuwachs: Von 6.540 Gästen im Januar stieg die Zahl bis auf 22.900 im Juli. Ab September nahm der Besucherstrom dann wieder spürbar ab. Die Daten zeigen, dass der niedrigste Energieverbrauch stets mit den höchsten Besucherzahlen zusammenfiel. Insgesamt spiegeln die Schwankungen ein klares Bild der saisonalen Nutzung wider, die im Sommer für volle Becken und im Winter für hohe Heizkosten sorgt.",
-      "treatment": 1,
-      "id": "rfd4h"
-    },
-    {
       "index": "q1_376",
       "text": "Im Jahr 2024 zeigte das örtliche Schwimmbad „Südpool“ bemerkenswerte Änderungen im Energieverbrauch und der Besucherzahl. Die Besucherzahlen stiegen durch attraktive Sonderaktionen um 25 %, was zu einem höheren Energiebedarf führte. Um diesen Anstieg zu bewältigen, implementierte das Management energieeffiziente Systeme und erneuerbare Energien, wodurch der Energieverbrauch um 10 % gesenkt werden konnte. Diese Maßnahmen führten nicht nur zu einer Verbesserung der Umweltbilanz des Betriebs, sondern auch zu Kostensenkungen auf lange Sicht. Interessanterweise zeigten Daten, dass die beliebtesten Schwimmzeiten in den Abendstunden lagen, was die Planung optimierte. Die Kombination aus gesteigerter Besucherzahl und innovativen Energiekonzepten stellt einen positiven Trend für die Zukunft des „Südpool“ dar. Trotz der Herausforderungen war die Saison 2024 für das Schwimmbad insgesamt ein Erfolg.",
       "treatment": 1,
       "id": "loa8g"
     },
     {
-      "index": "q1_386",
-      "text": "Im Jahr 2024 zeigt das örtliche Schwimmbad „Südpool“ eine signifikante Entwicklung in Bezug auf Energieverbrauch und Besucherzahlen. Die Besucherzahl stieg um beeindruckende 15 % im Vergleich zum Vorjahr, was vor allem auf neue Aktivitäten und Veranstaltungen zurückzuführen ist, die bei der lokalen Bevölkerung großen Anklang fanden, darunter die beliebten „Südpool-Sommerfeste“. Diese Steigerung führte jedoch auch zu einem Anstieg des Energieverbrauchs um 20 %. Die Einführung neuer Wasserattraktionen und die Erweiterung bestehender Angebote nutzen mehr Energie, was die Betreiber zu einem Umdenken anregte. Um zukünftige Kosten und den ökologischen Fußabdruck zu minimieren, plant das Schwimmbad die Installation von Solarzellen und die Verbesserung der Energieeffizienz. Durch diese Maßnahmen will man nicht nur dem gestiegenen Bedarf gerecht werden, sondern auch ein nachhaltigeres Freizeitangebot schaffen. Der „Südpool“ wird somit nicht nur ein Ort der Erholung, sondern auch ein Beispiel für umweltbewusste Entwicklung in der Region.",
-      "treatment": 1,
-      "id": "oda5b"
-    },
-    {
-      "index": "q1_388",
-      "text": "Entwicklung des Energieverbrauchs und der Besucherzahl im Schwimmbad „Südpool“ 2024. Im Jahr 2024 zeigte das örtliche Schwimmbad „Südpool“ markante Schwankungen im Energieverbrauch und in der Besucherzahl. Während der Wintermonate stieg der Stromverbrauch deutlich an, was im Wesentlichen auf die Notwendigkeit von Heizsystemen und Beleuchtung zurückzuführen ist. Gleichzeitig verzeichnete das Schwimmbad einen Rückgang der Besucherzahlen, da viele Familien und Schwimmsportbegeisterte bei kaltem Wetter eher ausblieben. Im Gegensatz dazu kam es im Sommer zu einer bemerkenswerten Abnahme des Energieverbrauchs, da die Außentemperaturen und die ganztägige Nutzung des Pools die Heizkosten reduziert haben. Gleichzeitig nahm die Besucherzahl dann wieder zu, da zahlreiche Gäste das Schwimmbad als beliebten Ausflugsort entdeckten. Diese saisonalen Unterschiede eröffnen interessante Perspektiven für die Energieplanung und das Marketing des Schwimmbades. Weitere Analysen könnten helfen, Strategien zu entwickeln, um die Winterbesucherzahlen zu steigern.",
-      "treatment": 1,
-      "id": "cja4m"
-    },
-    {
       "index": "q1_396",
       "text": "Das Schwimmbad „Südpool“ verzeichnete 2024 einen klaren saisonalen Verlauf bei Energieverbrauch und Besucherzahlen. Während die Besucherzahl von 6.540 im Januar auf den Jahreshöchstwert von 22.900 im Juli stieg, sank der Stromverbrauch im gleichen Zeitraum kontinuierlich auf 30.500 kWh. Auch der Gasverbrauch erreichte mit 5.400 m³ im Juli seinen niedrigsten Wert. Im Hochsommer sorgten warme Außentemperaturen für weniger Heizbedarf und volle Becken. Ab September kehrten sich die Trends um: Mit sinkenden Besucherzahlen stiegen sowohl Strom- als auch Gasverbrauch wieder an. Im Dezember lagen die Verbräuche mit 43.500 kWh Strom und 11.500 m³ Gas auf Jahreshöchstniveau. Insgesamt zeigt sich, dass der Energiebedarf stark von den Witterungsbedingungen abhängt, während die Besucherzahlen dem typischen Badesaison-Muster folgen.",
       "treatment": 1,
       "id": "odn5r"
-    },
-    {
-      "index": "q1_41",
-      "text": "In unserem örtlichen Schwimmbad \"Südpol\" wird es heiß! Setzt man den Stromverbrauch des Schwimmbads ins Verhältnis mit den Besucherzahlen und somit auch Einnahmen des Schwimmbads, stellt man fest, dass deutlich mehr Strom im Winter verbraucht wird, um das Becken für deutlich weniger Besucher*innen zu heizen. So wird im Winter etwa doppelt so viel Gas verbraucht wie im Sommer, für ein Drittel der Besucher*innen.",
-      "treatment": 0,
-      "id": "caa3k"
-    },
-    {
-      "index": "q1_420",
-      "text": "Im Jahr 2024 erfreute sich das örtliche Schwimmbad „Südpool“ eines bemerkenswerten Besucherrekords, während der Energieverbrauch kontinuierlich sank. Im Januar lag beispielsweise der Stromverbrauch bei 42.500 kWh und die Besucherzahl bei 6.540. Ab April stiegen die Gästezahlen rasant an und erreichten im Juni mit 18.400 Besuchern einen Höhepunkt. Dieser Anstieg ist vor allem auf neue Freizeitangebote und besondere Veranstaltungen zurückzuführen, die viele Menschen anlockten. Gleichzeitig fiel der Stromverbrauch auf 31.800 kWh, was auf effektive Energiesparmaßnahmen hindeutet. Auch beim Gasverbrauch gab es einen Rückgang: im Juni lag dieser bei 5.900 m³. Die Einnahmen aus dem Kiosk kletterten auf einen Rekordwert von 6.200 Euro. Diese positiven Entwicklungen zeigen, wie „Südpool“ es schafft, umweltbewusst zu wirtschaften und gleichzeitig seine Attraktivität für die Gemeinschaft zu steigern.",
-      "treatment": 1,
-      "id": "oaa4p"
-    },
-    {
-      "index": "q1_422",
-      "text": "Im Südpool zeigte sich 2024 ein klarer saisonaler Trend: Während Strom- und Gasverbrauch vom kalten Januar bis zum warmen Juli stetig sanken, stiegen die Besucherzahlen im gleichen Zeitraum deutlich an. Im Juli erreichte das Bad mit 22.900 Gästen seinen Höhepunkt, während der Stromverbrauch mit 30.500 kWh und der Gasverbrauch mit 5.400 m³ auf Jahrestiefstständen lagen. Im August blieb die Auslastung hoch, bevor ab September ein kontinuierlicher Rückgang einsetzte. Parallel dazu stiegen die Energieverbräuche im Herbst und Winter wieder an und erreichten im Dezember ihre höchsten Werte. Die Zahlen deuten darauf hin, dass das Bad in den Sommermonaten weniger Energie für Heizung und Beleuchtung benötigt, gleichzeitig aber deutlich stärker frequentiert wird. Im Winter kehrt sich dieses Verhältnis um: Hoher Energiebedarf trifft auf geringere Besucherzahlen. Für die Betriebsleitung ergibt sich daraus die Herausforderung, Energieeffizienz und saisonale Nutzung bestmöglich in Einklang zu bringen.",
-      "treatment": 1,
-      "id": "zjn6b"
     },
     {
       "index": "q1_424",
@@ -233,22 +65,10 @@
       "id": "eoa5a"
     },
     {
-      "index": "q1_439",
-      "text": "Im Jahr 2024 verzeichnete das örtliche Schwimmbad „Südpool“ bemerkenswerte Entwicklungen in Bezug auf den Energieverbrauch und die Besucherzahlen. Der Stromverbrauch fiel von 42.500 kWh im Januar auf einen Tiefpunkt von 30.500 kWh im Juli, während der Gasverbrauch ebenfalls rückläufig war, von 11.200 m³ im Januar auf 5.400 m³ im Juli. Parallel dazu erfreute sich das Schwimmbad einer steigenden Besucherzahl, die im April mit 10.120 ihren ersten Höchststand erreichte und im Juli 22.900 Besucher anlockte. Dies führte zu steigenden Einnahmen im Kiosk, die im Hochsommer 7.100 Euro betrugen. Im Spätherbst stabilisierten sich die Besucherzahlen, während der Energieverbrauch wieder anstieg, was auf die beginnende Heizperiode hinweist. Der Dezember zeigte einen Stromverbrauch von 43.500 kWh und 6.900 Gas m³, mit 6.900 Besuchern. Insgesamt belegt die Entwicklung, dass „Südpool“ trotz eines gesunkenen Energieverbrauchs wieder eine steigende Besucherzahl verzeichnete, was auf eine erfolgreiche Saison hinweist.",
-      "treatment": 1,
-      "id": "pje7b"
-    },
-    {
       "index": "q1_451",
       "text": "Im Jahr 2024 verzeichnete das örtliche Schwimmbad „Südpool“ einen signifikanten Anstieg sowohl im Energieverbrauch als auch in der Besucherzahl. Die Besucherzahlen stiegen um 25 % im Vergleich zum Vorjahr, was auf eine zunehmende Beliebtheit des Schwimmbades und neue Freizeitangebote zurückzuführen ist. Diese Zunahme führte allerdings auch zu einem erhöhten Energieverbrauch von 15 %, da längere Öffnungszeiten und zusätzliche Veranstaltungen neue Ressourcen beanspruchten. Um diesen Herausforderungen entgegenzuwirken, implementierte das Schwimmbad nachhaltige Maßnahmen, wie den Einsatz von energieeffizienten Heizsystemen und den Einsatz von Solartechnologie. Die Verwaltung des Schwimmbades plant, weiterhin auf nachhaltige Energiequellen zu setzen, um den Fußabdruck zu reduzieren. Die positive Entwicklung zeigt, dass das Schwimmbad nicht nur ein Treffpunkt für die Gemeinde ist, sondern auch Verantwortung für die Umwelt übernimmt. Langfristig strebt „Südpool“ an, ein Vorbild für ähnliche Einrichtungen in der Region zu werden.",
       "treatment": 1,
       "id": "une5g"
-    },
-    {
-      "index": "q1_456",
-      "text": "In den kalten Monaten des Jahres - sprich Anfang und Ende des Jahres 2024 - sieht man einen Anstieg des Energieverbrauchs, der sich ca. bei 40.000 kWh bewegt. Denn trotz der - im Vergleich - niedrigen Besucherzahlen geht hierbei die meiste Wärme verloren, bzw. muss aufgewendet werden, um das Wasser und die Örtlichkeit zu erhitzen und warm zu halten. Im Sommer hingegen ist der Stromverbrauch rückläufig, trotz steigender Besucherzahlen. Da die Sonneneinstrahlung und die Außentemperatur bereits erhöht sind.",
-      "treatment": 1,
-      "id": "ose5g"
     },
     {
       "index": "q1_46",
@@ -263,28 +83,10 @@
       "id": "eja6l"
     },
     {
-      "index": "q1_463",
-      "text": "Der Energieverbrauch und die Besucherzahlen zeigen im Jahresverlauf einen signifikanten Zusammenhang. Im Januar ist der Verbrauch von 42.500 kWh bei 6.540 Besuchern der höchste, während die kWh im Mai auf 33.100 sinken und die Besucherzahl gleichzeitig auf 14.500 ansteigt. Dies deutet darauf hin, dass ein Anstieg der Besucherzahlen nicht immer zu einem proportionalen Anstieg des Energieverbrauchs führt. Besonders in den Sommermonaten (Juni und Juli) bleibt der Energieverbrauch relativ konstant, während die Besucherzahlen mit 18.400 bzw. 22.900 ihren Höhepunkt erreichen. Auch der Kioskumsatz spiegelt diese Trends wider und zeigt im Juli mit 7.100 € den höchsten Wert. Insgesamt zeigt die Datenanalyse, dass die Effizienz im Energieverbrauch optimiert werden könnte, um den Anforderungen einer steigenden Besucherzahl besser gerecht zu werden.",
-      "treatment": 1,
-      "id": "eja4p"
-    },
-    {
       "index": "q1_485",
       "text": "Für das örtliche Schwimmbad „Südpool“ bedeutet die Sommerzeit Hauptsaison und umsatzstärkste Zeit. Die Besucherzahlen sind auf einem Jahreshoch und die Kosten für Gas auf einem Jahrestief. Mit teilweise mehr als dreimal so vielen Besuchenden und rund 25 % weniger Gaskosten im Vergleich zu den Wintermonaten gestaltet sich der Sommer am lukrativsten für die Schwimmbadbetreibenden.",
       "treatment": 1,
       "id": "inl4h"
-    },
-    {
-      "index": "q1_491",
-      "text": "Die angegebenen Daten zeigen einen klaren Trend im Strom- und Gasverbrauch sowie in der Besucherzahl und den Einnahmen über das Jahr hindurch. Der Stromverbrauch nimmt tendenziell ab, während der Gasverbrauch ebenfalls rückläufig ist, was auf eine mögliche Verbesserung in der Energieeffizienz oder veränderte Nutzungsgewohnheiten hindeutet. Die Besucherzahlen steigen bis Mai, erreichen im Juli ihren Höhepunkt und sinken dann wieder, was mit den Ferienzeiten und Wetterbedingungen zusammenhängen könnte. Die Einnahmen aus dem Kiosk zeigen einen ähnlichen Trend, wobei die Einnahmen proportional zu den Besucherzahlen steigen. Ein Journalist könnte diese Daten nutzen, um über saisonale Schwankungen, Energieverbrauch und deren Auswirkungen auf die finanzielle Gesundheit des Unternehmens zu berichten.",
-      "treatment": 1,
-      "id": "rno5h"
-    },
-    {
-      "index": "q1_54",
-      "text": "Der Strom- und Gasverbrauch des Schwimmbades Südpool variiert in den verschiedenen Monaten. In den Wintermonaten (November bis Februar) wird am meisten Energie verbraucht. Gleichzeitig kommen in dieser Jahreszeit auch am wenigsten Gäste in das Schwimmbad. Der geringste Verbrauch des Schwimmbades liegt im Juli bei 30.500 kWh und 5.400 m³ Gas.",
-      "treatment": 0,
-      "id": "eaa5b"
     },
     {
       "index": "q1_6",
