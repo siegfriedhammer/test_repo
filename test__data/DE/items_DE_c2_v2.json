@@ -2,7 +2,7 @@
   "language": "DE",
   "task": "c2",
   "variant": 2,
-  "n_items": 20,
+  "n_items": 56,
   "items": [
     {
       "index": "c2_10",
@@ -17,16 +17,106 @@
       "id": "sjj6o"
     },
     {
+      "index": "c2_116",
+      "text": "Grundidee ist, Daten besser zugänglich zu machen für Leute, die nicht viel Zeit haben oder denen es schwerfällt, viel Text zu lesen. Aber auch generell für alle Menschen, damit sie eine bessere Übersicht bekommen. Es ist sinnvoll, da man so mehr Überblick bekommt und zum Beispiel nicht einfach Sachen zustimmt, wo man gar nicht genau weiß, worum es geht. Es hilft bei der Aufklärung und dem Verstehen von Informationen. Besonders kreativ ist dabei, dass ich die App so gestalten würde, dass jeder Mensch sie benutzen kann, also auch zugänglich für Gehörlose oder Blinde, auch für Analphabeten und andere Personengruppen, die Schwierigkeiten haben.",
+      "treatment": 0,
+      "id": "ioe5h"
+    },
+    {
+      "index": "c2_125",
+      "text": "Unsere App zur Bewältigung der Informationsflut, „InfoFilter“, zielt darauf ab, Nutzern eine strukturierte und gezielte Informationsaufnahme zu ermöglichen. Sie richtet sich an Berufstätige, Studenten und alle, die mit einer Überlastung an Informationen kämpfen. Die App nutzt KI-gestützte Algorithmen, um Inhalte aus verschiedenen Quellen zu aggregieren und nach Relevanz zu filtern. Nutzer können ihre Interessen und Prioritäten einstellen, sodass nur die für sie wichtigsten Informationen angezeigt werden. Dabei werden Daten wie Leseverhalten, bevorzugte Themen und Quellen gesammelt, um personalisierte Vorschläge zu unterbreiten. Dies ist besonders nützlich, da es hilft, Zeit zu sparen und Stress zu reduzieren. Neu ist die kombinierte Nutzung von maschinellem Lernen und psychologischen Ansätzen, um die Informationsaufnahme zu optimieren und ein besseres Gefühl der Kontrolle zu vermitteln.",
+      "treatment": 1,
+      "id": "aah6h"
+    },
+    {
+      "index": "c2_126",
+      "text": "Ich will eine App programmieren, wo sich registrierte Sexualstraftäter eintragen müssen. Die Sexualstraftäter müssen dann eine Art Fußfessel tragen. Dann können die User der App sehen, ob gerade ein Sexualstraftäter in der Nähe ist.",
+      "treatment": 0,
+      "id": "ade6b"
+    },
+    {
+      "index": "c2_131",
+      "text": "Die Grundidee ist ein persönlicher „Informationsfilter“, der Inhalte aus E-Mails, Messengern, News, sozialen Medien und Arbeits-Tools bündelt und intelligent priorisiert. Nutzer:innen definieren Ziele, Interessen und verfügbare Zeit, und die App sortiert Informationen danach, was jetzt relevant, später wichtig oder verzichtbar ist. Mithilfe von KI werden Inhalte zusammengefasst, Dopplungen erkannt und kurze, verständliche Übersichten erstellt. Genutzt werden dabei Metadaten (z. B. Zeitpunkt, Quelle), freiwillig geteilte Präferenzen sowie anonymisierte Nutzungsmuster. Entstehen würden personalisierte Zusammenfassungen, Relevanzscores und Lernprofile, die sich laufend anpassen. Das ist nützlich, weil es Stress reduziert, Zeit spart und bessere Entscheidungen ermöglicht. Besonders kreativ ist, dass die App nicht nur filtert, sondern aktiv „Informationspausen“ empfiehlt und Wissen im richtigen Moment statt in Echtzeit bereitstellt.",
+      "treatment": 0,
+      "id": "rdo5h"
+    },
+    {
       "index": "c2_132",
       "text": "Eine App, die zwar begrenzteres Wissen hat, aber dafür geprüft und verlässlich ist. Datensätze von KI ausgewählt, aber menschlich überprüft, um das Internet besonders für Kinder sicherer zu machen.",
       "treatment": 1,
       "id": "öje9b"
     },
     {
+      "index": "c2_14",
+      "text": "Unsere App zur Bewältigung der Informationsflut, genannt \"InfoFilter\", hilft Nutzern dabei, relevante Informationen zu kuratieren und zu organisieren. Die Grundidee besteht darin, ein personalisiertes Dashboard zu schaffen, das nur die für den Nutzer wichtigen Nachrichten aus verschiedenen Quellen anzeigt. Zielgruppen sind Berufstätige, Studierende und alle, die mit einer Vielzahl von Informationen konfrontiert sind. Die App nutzt KI-Algorithmen, um die Vorlieben und Interessen der Nutzer zu analysieren und Inhalte entsprechend zu filtern. Nutzer können zudem eigene Kriterien festlegen und Feedback geben, um die Ergebnisse weiter zu verfeinern. Dabei entstehen Daten über die Interaktionen der Nutzer, die helfen, die Algorithmen zu optimieren. Der Vorteil ist, dass der Nutzer weniger Zeit mit der Informationssuche verbringen muss, während er gleichzeitig qualitativ hochwertige Inhalte erhält. Neu daran ist die Kombination aus personalisierter Filterung und der Möglichkeit für Nutzer, aktiv an der Verbesserung des Systems mitzuwirken.",
+      "treatment": 1,
+      "id": "eja4h"
+    },
+    {
+      "index": "c2_140",
+      "text": "Ein Englisch-Deutsch oder Deutsch-Englisch Übersetzer.",
+      "treatment": 1,
+      "id": "tan5h"
+    },
+    {
       "index": "c2_145",
       "text": "Eine App, die Kleidungsauswahl abhängig vom Wetter vorschlägt.",
       "treatment": 0,
       "id": "oae9s"
+    },
+    {
+      "index": "c2_155",
+      "text": "Zunächst öffnet sich ein Filter, wo man die eigenen emotionalen Kapazitäten angeben kann. Bei dieser Auswahl geht es darum, herauszufinden, wie viele Nachrichten und welche Form von Nachrichten die Person gerade aufnehmen kann. Dieser filtert dann die Informationen und zeigt erst dann eine Übersicht für den/die Nutzer*in. Dies führt zu einer Verringerung der Informationsflut und weniger emotionaler Überforderung.",
+      "treatment": 0,
+      "id": "eoa6p"
+    },
+    {
+      "index": "c2_157",
+      "text": "Die App-Idee ist es, die Hintergründe und vor allem das Framing von Informationen im Internet zu erkennen, bezüglich der Perspektive, aus der die Informationen stammen. Beispielsweise könnten Informationen auf die Emotionalität der Wörter oder die Satzstruktur hin analysiert werden. Nutzen sollten sie alle Bürger*innen, die sich kritischer mit ihrem Informationskonsum auseinandersetzen wollen. Daten, die genutzt werden sollen, sind z.B. Tagesschau-Headlines, Instagram-Posts, Zeitungsartikel etc. Dies ist ziemlich nützlich, da so ein kritischerer Konsum mit den Informationen erfolgen kann und bewusster reflektiert wird, welche Perspektiven konsumiert werden, um auch z.B. den Confirmation Bias zu verhindern.",
+      "treatment": 0,
+      "id": "rae7h"
+    },
+    {
+      "index": "c2_172",
+      "text": "Die App ZenNode ist ein biometrisch gesteuerter Informationswächter, der die digitale Flut basierend auf dem aktuellen Stresslevel des Nutzers reguliert. Sie richtet sich primär an Wissensarbeiter und Studierende, die unter ständiger Erreichbarkeit und kognitiver Überlastung leiden. Konkret verknüpft sich die App mit Wearables, um über Parameter wie die Herzfrequenzvariabilität den Grad der mentalen Beanspruchung in Echtzeit zu messen. Steigt die Belastung zu stark an, werden eingehende Informationen automatisch nach Relevanz gefiltert oder komplexe Inhalte KI-gestützt in leicht verdauliche Zusammenfassungen umgewandelt. Hierbei werden sensible Vitaldaten sowie Metadaten der Kommunikationstools genutzt, woraus anonymisierte Belastungsprofile zur langfristigen Optimierung der eigenen Work-Life-Balance entstehen. Der Nutzen liegt in der drastischen Reduktion des \"Cognitive Load\", wodurch die mentale Gesundheit geschont und die Produktivität nachhaltig gesteigert wird. Neuartig ist die Idee, die Informationsdichte nicht statisch, sondern dynamisch an die biologische Belastungsgrenze des menschlichen Gehirns zu koppeln. Durch diese Symbiose aus Körperdaten und digitalem Filter wird das Smartphone erstmals vom Stressfaktor zum adaptiven Schutzschild gegen die Informationsflut.",
+      "treatment": 1,
+      "id": "öjy6s"
+    },
+    {
+      "index": "c2_190",
+      "text": "Info-Clear: richtet sich an Studierende und Personen im Beruf. KI hilft dabei, die Informationen zu filtern, welche relevant sind und bezieht sich dafür nur auf von Menschen erstellte Inhalte (spezifisch Qualitätsjournalismus wie den Spiegel oder die Tagesschau), um sich vor KI-Halluzinationen zu schützen und Doppelmeldungen zu vermeiden. So wird eine Möglichkeit für mehr Effizienz in der Informationswelt geschaffen.",
+      "treatment": 1,
+      "id": "uja4a"
+    },
+    {
+      "index": "c2_191",
+      "text": "Eine App, die gezielt nur Lernzettel erstellt. Dabei kann man einzelne Präferenzen/Details angeben, die einem wichtig sind. Ähnlich wie Filter auf Immobilien-Websites bspw.. Danach gibt man den Input ein oder nur ein grobes Oberthema und die App erstellt einen perfekt auf einen abgestimmten Lernzettel.",
+      "treatment": 1,
+      "id": "cna4r"
+    },
+    {
+      "index": "c2_193",
+      "text": "Die App \"Focus Buddy\" wurde entwickelt, um Menschen dabei zu unterstützen, Ablenkungen zu erkennen und ihre Konzentration zu verbessern. Nutzer können spezifische Ablenkungen wie Social Media oder Handyspiele eingeben, die sie häufig stören. Sobald eine Ablenkung gesetzt wird, startet ein Timer, der die Person für kurze Zeit zum Nachdenken anregt, ohne dass sie sich ablenken lässt. Gleichzeitig könnte die App motivierende Zitate anzeigen, um die Nutzer zu ermutigen und ihre Konzentration zu stärken. Das zentrale Ziel ist es, eine bewusste Auseinandersetzung mit Ablenkungen zu fördern und eine mehrstufige Methode zur Verbesserung der Produktivität anzubieten. Auch das Einteilen von Ablenkungen in Kategorien ermöglicht eine gezielte Reflexion über persönliche Gewohnheiten. \"Focus Buddy\" kann somit als persönlicher Coach fungieren, der den Nutzern hilft, besser mit ihrer Zeit umzugehen und fokussierter zu arbeiten. Durch die einfache Bedienung spricht die App sowohl Studenten als auch Berufstätige an, die ihre Effizienz steigern möchten.",
+      "treatment": 1,
+      "id": "mja4h"
+    },
+    {
+      "index": "c2_196",
+      "text": "Die App müsste in der Lage sein, auf alle anderen Apps des Handys zugreifen zu können. Damit könnte sie zum Beispiel Mitteilungen, News, To-dos, Nachrichten etc. ordnen und dem User nur das anzeigen, was der User gerade sehen will. Wichtige Nachrichten werden dem User dennoch überblickartig angezeigt, bei einem Klick wird er dann direkt zu einer entsprechenden App weitergeleitet.",
+      "treatment": 0,
+      "id": "ose6s"
+    },
+    {
+      "index": "c2_214",
+      "text": "Eine App, die alles um den Sport Dart für Anfänger und Fortgeschrittene verbindet. Dart wird immer populärer und es gibt bis jetzt fast nur Videos und Artikel von einzelnen Leuten, aber davon unzählige. Es wäre einfacher, wenn man alles in einer App bündeln könnte. Für das Spielen gibt es schon gute Apps, aber vor allem am Anfang ist man überfordert, was man alles beachten muss. Ein Guide für Darts-Anfänger mit Inhalten wie (welche Pfeile eignen sich, passen zu meinem Wurfstil/für den Anfang, wie wird beeinflusst (Eigenschaften Barrel, Flight...), wie muss ich eigentlich stehen, werfen. Vielleicht kann man auch noch einbauen, wo es in der Nähe das nächste Turnier, Verein, Dartshop gibt...",
+      "treatment": 0,
+      "id": "isa4h"
+    },
+    {
+      "index": "c2_216",
+      "text": "Da ich häufig mit meiner Familie am Abendbrottisch in teilweise hitzige Diskussionen gerate und wir durch die unheimlich starke Polarisierung und Informationsflut durch Social Media alle andere Informationen und Perspektiven haben und es scheinbar zu jeder Perspektive und Argumentationshaltung Inhalte gibt, sollte meine App eine Möglichkeit schaffen, sich über ein Thema gesondert zu informieren. Außerdem sollte ein KI-Tool eingebaut sein, welches Themen von dort einfügbaren Social Media Beiträgen herausfiltert und dazu passende wissenschaftliche Literatur herausgibt. So können Diskussionen zielgerichteter ablaufen und man informiert sich gemeinsam über den aktuellen Stand der Wissenschaft. Ohne dass Bauchgefühle oder Überrepräsentation in den sozialen Medien die Realität verzerren können.",
+      "treatment": 0,
+      "id": "ome5h"
     },
     {
       "index": "c2_219",
@@ -53,6 +143,48 @@
       "id": "cje5b"
     },
     {
+      "index": "c2_244",
+      "text": "Es sollte eine App werden, die Fakenews rausfiltern kann. Des Weiteren sollen die Informationen nach Wichtigkeit und Region in der Welt sortiert werden können. Für das Herausfiltern der Fakenews könnte zum Beispiel ein Algorithmus im Hintergrund laufen, der weitere Quellen zu den zu filternden Aussagen überprüft. Für die Wichtigkeit sollte eine Entscheidungsmatrix entwickelt werden, anhand derer die Wichtigkeit entschieden wird. Der Ort der Nachricht kann über Filterung der Orte in Informationen erlangt werden und anschließend durch einen Algorithmus gegliedert werden.",
+      "treatment": 0,
+      "id": "eme8d"
+    },
+    {
+      "index": "c2_262",
+      "text": "Meine App soll dazu dienen, Informationen zu filtern und im Vorhinein für den Nutzer auszusortieren, damit der Nutzer nicht so leicht überfordert wird. Zuerst sollen offensichtlich unseriöse Quellen aussortiert werden. Dann sollen Quellen, die nicht ganz der gewünschten Information entsprechen, aussortiert werden. Dann werden dem Nutzer die nicht aussortierten Quellen gezeigt und gezielt zusammengefasst.",
+      "treatment": 1,
+      "id": "esn7h"
+    },
+    {
+      "index": "c2_265",
+      "text": "In der App würden die NutzerInnen zunächst eine Personengruppe auswählen können, die auf sie selbst zutrifft. Weitergehend können verschiedene Kategorien ausgewählt werden, in denen die Informationen, also Nachrichten, geordnet, kategorisiert und sortiert werden. Dadurch werden die Informationen so aufgeschlüsselt, dass sie einer bestimmten Art der Information sowie einem bestimmten Thema zugeordnet werden können. Weitere Kategorien wären dringliche Informationen etc. Dadurch können die NutzerInnen selbst entscheiden, welche Informationen sie erhalten wollen und vor allem geordneter. Das bedeutet, dass wenn jemand einen äußerst schlechten Tag hat, sich die Person nicht noch zusätzlich negative Nachrichten anschauen muss, nur weil sie up to date bleiben möchte, sondern auch einfach positive Nachrichten bzw. Informationen über Errungenschaften mitbekommen möchte.",
+      "treatment": 0,
+      "id": "nsa6a"
+    },
+    {
+      "index": "c2_267",
+      "text": "Die Grundidee meiner App ist ein Programm, welches politische Informationen auf Richtigkeit prüft. Zielgruppe sind Jugendliche. Auf die Idee bin ich gekommen, da die Jugend durch soziale Medien mit vielen falschen Informationen im politischen Kontext konfrontiert wird und es häufig komplizierter ist, diese zu prüfen. Durch meine App möchte ich die Demokratie durch die Bekämpfung von Falschinformationen stärken.",
+      "treatment": 0,
+      "id": "eoa6g"
+    },
+    {
+      "index": "c2_268",
+      "text": "Ich hatte noch nie das Problem von zu vielen Informationen im Internet, schon aber zu wenig Zeit, um sie aufzunehmen. Daher würde ich eine Anwendung schaffen, die auf allen Websites bionic reading möglich macht.",
+      "treatment": 1,
+      "id": "ama5g"
+    },
+    {
+      "index": "c2_269",
+      "text": "Die App heißt “InformationForMe”. Man kann zu Beginn und im Verlauf der Nutzung eigene Interessen eingeben, zu denen man Nachrichten/Infos erhalten möchte. Die App filtert mithilfe von KI Inhalte von verschiedenen Webseiten etc. Dann wird ein Feed persönlich für einen erstellt. Eine zusätzliche Funktion ist, dass auch bei anderen Apps nach langer Nutzungszeit die Frage gestellt wird, ob man gerade wirklich noch weiter scrollen möchte. Es wird auch eine Alternative wie z.B. einen Spaziergang machen vorgeschlagen (auch basierend auf den vorher angegebenen Interessen).",
+      "treatment": 1,
+      "id": "ami4b"
+    },
+    {
+      "index": "c2_275",
+      "text": "Entwickelt wird eine Validations-App zur Vorbeugung von Fake News. Demokratisch, unabhängig, weltoffen, tolerant, vielseitig, vielschichtig und wissenschaftlich filtert diese App Informationen und labelt diese nach Zuverlässigkeit/Wahrheitsgehalt. Bestimmte Akteure können sich zertifizieren lassen (öffentliche Medien wie Zeitungen, Newsportale etc.), die Validität ihrer Beiträge wird laufend bewertet. Aussagen individueller Akteure werden separat validiert und ggf. mit einem Warnhinweis versehen. Weiteres Feature: Diese App filtert News aus voreingestellten Portalen. Für Einzelbeiträge lässt man diese via URL oder Screenshot validieren.",
+      "treatment": 0,
+      "id": "uon9b"
+    },
+    {
       "index": "c2_281",
       "text": "Meine Idee für eine App wäre, dass man Rechtsberatung leicht zugänglich macht. Dafür soll man seine eigene Situation spielerisch schildern können. Mit Rollenspielen, welche man an seine Situation anpassen kann. Jede Person, die an einer Rechtsberatung interessiert wäre oder sich ihrer Rechte nicht bewusst ist, kann die App benutzen. Dafür würden Gesetze benötigt werden, genauso wie Links zu tatsächlicher Rechtsberatung in Kanzleien (dabei auch kostenlose Beratungsstellen). Es soll eine Übersicht der eigenen Situation und der Rechte ermöglichen, welche für alle verständlich ist, da juristische Normen nicht leicht zu verstehen sind.",
       "treatment": 1,
@@ -71,6 +203,30 @@
       "id": "rnn5h"
     },
     {
+      "index": "c2_290",
+      "text": "Die App heißt \"Real-Life\". Sie richtet sich an Nutzende aus allen gesellschaftlichen Schichten und Altersklassen. Die Nutzenden benötigen dafür kein Endgerät und es werden auch keine Daten erhoben - völlig anonym also. Mit dieser Anwendung kann das Leben entschleunigt und immaterieller werden. So bauen die Nutzenden eine gesunde Bodenständigkeit bei einem Waldspaziergang oder Aktivitäten mit Familie und Freunden auf. Ohne stetiges Verlangen nach Konsum oder Geltung können sich die Nutzenden auf das Wesentliche im Leben konzentrieren.",
+      "treatment": 0,
+      "id": "lan8u"
+    },
+    {
+      "index": "c2_298",
+      "text": "Das Projekt soll Emotionen von Studierenden dokumentieren. Die Studenten tragen in einen Stundenplan mit den entsprechenden Modulen und Unterkursen ihre Emotionen ein. Es gibt vorgeschriebene Emotionen, wobei man sich die Emojis aussuchen darf. Man darf eingeben, pro Unterkurs, welche Aufgaben oder Situationen im Unterricht waren. Daraus wird ein Plan erstellt, wie viel man sich erholen sollte und arbeiten sollte, sowie Tipps zum z.B. Entspannen. Es kann auch in einer Statistik die durchschnittliche Emotion angezeigt werden, um z.B. zu sehen, ob der Studiengang gut für jemanden ist bzw. wie gut die einzelnen Module.",
+      "treatment": 1,
+      "id": "tnn6g"
+    },
+    {
+      "index": "c2_299",
+      "text": "Ein Programm, welches bei z.B. Instagram Beiträge auf ihre Richtigkeit überprüft und so filtert, dass nur eine bestimmte Anzahl von informativen Beiträgen angezeigt werden. Dies geht Hand in Hand mit einer zeitlichen Begrenzung der Nutzung von Instagram.",
+      "treatment": 0,
+      "id": "osa5h"
+    },
+    {
+      "index": "c2_30",
+      "text": "Woher kommt die Information? Welches Thema hat die Information? Welche Themen passen noch zu der Information? Welche überhaupt nicht?",
+      "treatment": 0,
+      "id": "ejt7h"
+    },
+    {
       "index": "c2_303",
       "text": "Der/Die User:in kann filtern, welche Themenbereiche ihn/sie interessieren. Der Algorithmus wird mit Datensätzen trainiert, die viele verschiedene Informationen aus unterschiedlichen Bereichen (Politik, Sport, Wirtschaft, Kultur, Wissenschaft, ...) erhalten, damit er diese selbstständig kategorisieren kann. Es gibt zudem eine Funktion, um weltweit relevante Informationen zu sehen und eine Funktion, um Informationen zu erhalten, die nicht zum typischen Interesse der Userin/des Users passen. Dadurch sind nicht alle, die er/sie erhält, Informationen aus einer Bubble. Dies ist besonders nützlich, da so der/die User:in filtern kann, was ihn/sie interessiert und nicht von den vielen Informationen erschlagen wird, ohne in einer Bubble zu landen.",
       "treatment": 1,
@@ -87,6 +243,36 @@
       "text": "Die App ist an alle gerichtet, die sich überhaupt im Internet aufhalten oder aufhalten wollen. Menschen, die vorher eher zögerlich waren, weil es überfordernd ist, wird der Einstieg leichter gemacht. Die Nutzung der App funktioniert so, dass man vorab auswählen kann, was für Art von Content man sehen will (Informationen, Unterhaltung, Politik, Kunst etc.) und wie lange man das sehen möchte. Dadurch limitiert sich die Bildschirmzeit. Die User bekommen dann hauptsächlich zu ihrem Thema Content vorgeschlagen, entweder im Stil von YouTube, wo man sich Videos auswählen kann, oder wie TikToks/Reels. Der Inhalt muss trotzdem divers sein und der Algorithmus darf nicht so „gut“ funktionieren, dass man nur in einer Bubble bleibt, sondern sollte auch andere Videos anzeigen. Bei jedem Video sollte es einen Faktencheck geben und ein Flagging, ob es mit KI erstellt worden ist oder nicht.",
       "treatment": 1,
       "id": "rma5h"
+    },
+    {
+      "index": "c2_31",
+      "text": "Die App ist ein spielerischer Begleiter gegen Informationsflut, der wie ein Tamagotchi funktioniert und das eigene Lern- und Informationsverhalten widerspiegelt. Nutzer:innen, die sich oft überfordert fühlen oder effektiver lernen möchten, pflegen ein digitales Wesen, das davon lebt, wie gut Informationen ausgewählt, strukturiert und reflektiert werden. Die App sammelt z. B. Daten darüber, welche Inhalte konsumiert werden, wie lange man sich mit Themen beschäftigt und ob man Gelerntes zusammenfasst oder anwendet. Aus diesen Daten entstehen Lernmuster, die das Tamagotchi „gesünder“, klüger oder kreativer werden lassen. Statt endlosem Scrollen belohnt die App bewusstes Lesen, Pausen und aktives Verarbeiten von Wissen. Spielerische Elemente wie Level, Emotionen des Wesens und kleine Challenges motivieren zur Selbstregulation. Nützlich ist die App, weil sie Informationskompetenz fördert und Überforderung sichtbar macht. Besonders kreativ ist die emotionale Bindung zum virtuellen Wesen, das abstrakte Informationsflut in ein greifbares, spielbares Erlebnis übersetzt.",
+      "treatment": 1,
+      "id": "eae4o"
+    },
+    {
+      "index": "c2_32",
+      "text": "Unsere App zur Bewältigung der Informationsflut hilft Nutzern, die ständig wachsende Menge an Informationen effektiv zu organisieren und zu filtern. Die Grundidee besteht darin, personalisierte Inhalte bereitzustellen, die auf den Interessen und Präferenzen der Nutzer basieren. Zielgruppen sind sowohl Berufstätige, die im Homeoffice arbeiten, als auch Studierende, die sich mit einer Fülle von Lernmaterialien auseinandersetzen müssen. Die App nutzt KI-Algorithmen, um relevante Nachrichten, Artikel und Forschungsergebnisse automatisch zu kuratieren. Nutzer können ihre Quellen und Themen anpassen, um nur die für sie wichtigen Informationen zu erhalten. Dies ist besonders nützlich, da es hilft, Überforderung zu vermeiden und die Konzentration zu fördern. Eine neuartige Funktion ist die Möglichkeit, Inhalte in kurze, verdauliche Abschnitte zu gliedern, um sie schneller erfassen zu können. Zusätzlich ermöglicht die App eine soziale Komponente, in der Nutzer Inhalte mit Gleichgesinnten teilen und diskutieren können, was den Austausch von Ideen anregt.",
+      "treatment": 1,
+      "id": "dms6l"
+    },
+    {
+      "index": "c2_325",
+      "text": "Die App soll genutzt werden, um Reflexion über konsumierte Inhalte anzuregen. Dazu kann die App bei Aktivierung auf den Browserverlauf eines Users sowie die Daten zur Bildschirmzeit zugreifen und gibt dann Auskunft darüber, welche Internetseiten bzw. Apps man in der Zeit der Aktivierung aufgerufen hat und wie viel Zeit man auf diesen jeweils verbracht hat. Die App gibt einem dann eine Rückmeldung dazu, welche Arten von Informationen man konsumiert hat und zeigt bei einer Nutzung über längere Zeit gewisse Trends auf (z.B. \"Du hast dir durchschnittlich 1 Stunde pro Tag Inhalte zu negativen Folgen des Klimawandels angeschaut.\"). Dann kann die App einem am Ende eines jeden Tages Fragen zur Reflexion stellen: \"Was denkst du über...?\", \"Wie hat...deine Sichtweise verändert?\", \"Welche Intention hat wohl der Autor dieses Posts?\"... Dadurch soll ein bewussterer Informationskonsum angeregt werden. Die App ist minimalistisch aufgebaut und in ansprechenden, beruhigenden Farbtönen gehalten, sodass der Nutzer zudem eine Auszeit vom hektischen Informationskonsum haben kann.",
+      "treatment": 0,
+      "id": "ema9w"
+    },
+    {
+      "index": "c2_327",
+      "text": "Die Grundidee meiner App ist eine Anwendung zu entwickeln, mit der man steuern kann, welche Inhalte man gezeigt bekommt. Das heißt, dass man in dieser App festlegen kann, welche Informationen von welchen Anbietern man bekommen möchte. Also das wird je nachdem davon abhängen, von welchen Creators man genau Contents bekommen möchte. Ziel ist es, unnötige Informationen zu bekommen, obwohl man es sich das gar nicht wünscht.",
+      "treatment": 0,
+      "id": "ajh5b"
+    },
+    {
+      "index": "c2_331",
+      "text": "App, die einen in einer Art Tunnelsystem durch das Internet browsen lässt. Verschiedene Tunnel decken verschiedene Themenbereiche ab, und innerhalb eines Tunnels werden einem nur fachspezifische Inhalte angezeigt. Immer wieder erreicht man Checkpoints/Kreuzungen, an denen man sich entscheiden kann, im Tunnel zu bleiben, zu wechseln oder das Gebiet auszuweiten. So kann man vermeiden, bei Recherche oder auch Unterhaltung von anderen Themen abgelenkt zu werden. Natürlich liegt bei si etwas die Gefahr vor, in \"rabbit holes\" zu fallen und in gewissen Formen gäbe es da bestimmt Potenzial, schnell in Extreme zu gelangen. Da müssten in der App auf jeden Fall Kontrollmechanismen eingebaut werden. Beispielsweise, dass man einen Tunnel nur begrenzt lange folgen kann.",
+      "treatment": 0,
+      "id": "ima5e"
     },
     {
       "index": "c2_336",
@@ -123,6 +309,36 @@
       "text": "Die App filtert und ordnet nach Quelle, Suchbegriff, Sprache und Verwendungszweck sowie Kontext, um dem User einen sinnvollen Überblick über Inhalte geben zu können.",
       "treatment": 0,
       "id": "aji5h"
+    },
+    {
+      "index": "c2_70",
+      "text": "Eine App, die die gelesenen Bücher trackt. Die Liste ist stets zu ergänzen und man kann mit einer schnellen Abfrage herausfinden, ob ein beliebiges Buch gelesen wurde oder nicht.",
+      "treatment": 1,
+      "id": "aja4h"
+    },
+    {
+      "index": "c2_72",
+      "text": "Um die Informationsflut für Studenten zu sortieren, können verschiedene Kategorien hilfreich sein. Eine sinnvolle Unterteilung könnte in die Bereiche Wissenschaft, Geschichte, Technologie, Kunst und Gesellschaft erfolgen. Innerhalb dieser Bereiche könnten weiterführende Subkategorien wie aktuelle Forschung, historische Ereignisse, technische Neuheiten oder kulturelle Bewegungen erstellt werden. Zudem sind vertrauenswürdige Datenbanken, wie Google Scholar oder JSTOR, wertvoll für die Recherche. Ein systematisches Vorgehen, etwa durch Mindmaps oder digitale Notizen, kann dabei helfen, die gesammelten Informationen besser zu organisieren und schneller wiederzufinden. Schließlich ist es auch wichtig, Quellen kritisch zu bewerten, um die Qualität der Informationen sicherzustellen.",
+      "treatment": 1,
+      "id": "isa6h"
+    },
+    {
+      "index": "c2_78",
+      "text": "Die App \"MindMap My Day\" bietet eine innovative Lösung für effektives Aufgabenmanagement. Sie richtet sich an Schüler, Studierende und Berufstätige, die ihre täglichen Aktivitäten besser strukturieren möchten. Mit einer interaktiven Mind-Map können Nutzer Aufgaben, Deadlines und relevante Informationen visuell anordnen und miteinander verknüpfen. Eine intuitive Benutzeroberfläche ermöglicht es, Prioritäten zu setzen und Fortschritte spielend nachzuvollziehen. KI-gestützte Vorschläge helfen, Zeit optimal zu managen und Ressourcen besser zu nutzen. Die App fördert nicht nur die Übersichtlichkeit, sondern auch das Gedächtnis und die Entscheidungsfindung. Besonders kreativ ist die Echtzeit-Kollaboration, die das gemeinsame Bearbeiten von Mind-Maps ermöglicht. Dies stärkt den Austausch unter Freunden oder Kollegen und fördert teamorientiertes Arbeiten.",
+      "treatment": 1,
+      "id": "amt5g"
+    },
+    {
+      "index": "c2_9",
+      "text": "Die App adressiert Informationsflut, indem sie eingehende Inhalte radikal priorisiert, verdichtet und kontextualisiert. Zielnutzer sind wissensintensive Personen wie Studierende, Führungskräfte und Analysten, die täglich mit E-Mails, Dokumenten, Artikeln und Feeds arbeiten. Die App aggregiert alle Quellen zentral, analysiert Inhalte semantisch und reduziert sie automatisch auf handlungsrelevante Kernaussagen, Entscheidungen und Widersprüche. Nutzer definieren Ziele, Projekte und Entscheidungsfragen; daran gekoppelt filtert und gewichtet das System Informationen dynamisch. Genutzt werden Inhaltsdaten, Metadaten, Nutzungsinteraktionen sowie explizite Priorisierungen; daraus entstehen personalisierte Relevanzmodelle und Wissensgraphen. Der Nutzen liegt in drastisch reduziertem Leseaufwand, höherer Entscheidungsqualität und klarerem mentalen Fokus. Neu ist die Kombination aus zielbasierter Informationsbewertung, kontinuierlichem Lernen aus Entscheidungen und automatischer Verdichtung statt bloßer Empfehlung oder Ablenkungsminimierung.",
+      "treatment": 0,
+      "id": "umk4d"
+    },
+    {
+      "index": "c2_94",
+      "text": "Kein infinite scrolling. Keine Vorschläge. Daten und Quellen deutlich angegeben/verlinkt. Nicht viele Icons auf einmal, sondern nur wenig wirklich relevante Ergebnisse zu einer Suche. Farben beschränken sich auf die optionalen Thumbnails der Beiträge. Zu jedem Artikel/Video wird ein Transkript in einfacher Sprache angeboten, damit auch wirklich jede Person alles verstehen kann. Kein Algorithmus, um zu verhindern, dass sich nur noch für eine \"Seite\" informiert und interessiert wird und somit womöglich das Gesamtbild/die Neutralität verloren geht.",
+      "treatment": 0,
+      "id": "afs7g"
     }
   ]
 }

@@ -2,8 +2,26 @@
   "language": "DE",
   "task": "q1",
   "variant": 2,
-  "n_items": 20,
+  "n_items": 81,
   "items": [
+    {
+      "index": "q1_10",
+      "text": "Ich denke, es können etwas über hundert Euro gesammelt werden. Allerdings rundet nicht jeder auf, was die Angelegenheit erschwert. Aber wenn jeden Tag mehrere hundert Kunden aufrunden würden, wäre dies möglich.",
+      "treatment": 0,
+      "id": "tna7l"
+    },
+    {
+      "index": "q1_102",
+      "text": "1000 Kunden. Mal durchschn. 0,02€ = 20€",
+      "treatment": 0,
+      "id": "aoh5l"
+    },
+    {
+      "index": "q1_104",
+      "text": "Ich denke, man kann mit der Aktion schon um die 1000€ zusammenkriegen. Ich denke, dass es fast nie zu einer Summe kommt, bei der man keine Cent-Stücke zurückbekommt. Deswegen denke ich, dass es so viel sein könnte.",
+      "treatment": 0,
+      "id": "cda5h"
+    },
     {
       "index": "q1_107",
       "text": "An einem durchschnittlichen Tag mit der Aufrundungsmethode würde man 500€ am Tag sammeln.",
@@ -11,10 +29,22 @@
       "id": "snl4h"
     },
     {
+      "index": "q1_110",
+      "text": "Ich denke, dass damit nicht besonders viel Geld zusammengesammelt wird. Zum einen bezahlen viele Menschen mit Karte, denen dann sowieso egal ist, wie gerade der Betrag ist, und somit kein volles Portemonnaie zustande kommt. Zum anderen haben viele Menschen bereits Probleme, sich selber über Wasser zu halten. Diese würden dann dieses Geld, was sie spenden können, selber brauchen, um beim nächsten Einkauf zahlen zu können.",
+      "treatment": 0,
+      "id": "ifs6g"
+    },
+    {
       "index": "q1_111",
       "text": "Ich glaube, jeder zweite bis dritte Kunde rundet auf. Ich würde im Durchschnitt 5 Cent pro Kunde sagen. Je nachdem, wie viele Kunden täglich dort sind, ergibt sich der Betrag. Selbstbezahlungskassen verändern die Situation natürlich noch einmal. Dann würde ich jeder vierte bis fünfte Kunde sagen.",
       "treatment": 0,
       "id": "rme6l"
+    },
+    {
+      "index": "q1_115",
+      "text": "Ich schätze, dass man als Laden mit der Methode täglich maximal bis zu 20 € verdienen kann. Die täglichen Einnahmen durch verkaufte Produkte liegen wesentlich höher, bei einer bekannten Kette wahrscheinlich bei über 20.000 € am Tag, aber an „Resten“ kommt nicht viel rum, weil es sich um wenige Cents handelt. Ich glaube, die meisten Leute zahlen heutzutage mit der Karte und haben selten Kleingeld mit sich. Und viele, die bar zahlen, schätzen jeden Cent und runden nicht auf.",
+      "treatment": 0,
+      "id": "aoa6h"
     },
     {
       "index": "q1_117",
@@ -29,10 +59,28 @@
       "id": "ima5s"
     },
     {
+      "index": "q1_128",
+      "text": "Man muss erstmal die Kartenzahler berücksichtigen, die nicht unbedingt aufrunden, zudem gibt es die Leute, die ihr Kleingeld sammeln und sparen. Außerdem kommt es darauf an, wie groß der Ort ist, in dem man wohnt. Nimmt man als Beispiel Lüneburg, würde ich sagen, dass durchschnittlich 200-300 Leute einkaufen. Zieht man davon die Leute ab, die entweder mit Karte zahlen, nicht aufgerundet, und die Leute, die das Kleingeld behalten, kommt man ungefähr auf 100-150 Leute. Wenn jeder von ihnen durchschnittlich 5 Cent spendet, sammelt ein Supermarkt 5-10 Euro am Tag.",
+      "treatment": 0,
+      "id": "üjn6c"
+    },
+    {
+      "index": "q1_13",
+      "text": "Ich würde schätzen, dass auf diese Weise an einem durchschnittlichen Tag in einem durchschnittlichen Supermarkt bis zu 10€ zusammenkommen kann. Denn ich selber stehe an der Kasse und weiß, wie viele Leute das kleine Kupfergeld für nervig halten. Vor allem als ich im Baumarkt an der Kasse stand, haben Firmenbesitzer bzw. Handwerker keine Zeit, um das Kleingeld ordentlich wegzupacken. Dann lassen sie es lieber da. Ich bin mir auch sicher, dass dieser Betrag noch höher sein wird in einem Supermarkt ohne SB-Kassen. Denn an diesen kann man häufig nur mit Karte zahlen, wodurch natürlich die Bereitschaft abnimmt, zu spenden und aufzurunden.",
+      "treatment": 0,
+      "id": "eja5c"
+    },
+    {
       "index": "q1_131",
       "text": "Geschätzt hat ein durchschnittlicher Supermarkt am Tag 3.000 Kunden. Aufrunden wird mit Beträgen von 0,01 € und 0,50 € am meisten passieren - ein paar werden ausweichend nein sagen, ein paar werden ausweichend ja sagen, obwohl der Betrag höher ist. Ich schätze, der Supermarkt kann damit pro Tag 70 €-170 € mehr einnehmen und spenden.",
       "treatment": 0,
       "id": "eja5b"
+    },
+    {
+      "index": "q1_135",
+      "text": "Wenn man davon ausgeht, dass der Supermarkt täglich von ca. 2.000 Einkaufenden besucht wird und von diesen 2.000 ca. 1.500 Menschen dazu bereit sind aufzurunden und man das mal 0,02 rechnet, wenn man davon ausgeht, dass nicht alle nur einen Cent spenden, kommt man auf 30 Euro täglich. Das ist über die Monate und Jahre aufsummiert viel Geld. Das Ergebnis wird bestimmt variieren, je nachdem wie viele Menschen tatsächlich spenden, da mittlerweile viel mit der Karte gezahlt wird und man somit gar kein Geld zurückbekommt und das auch umständlicher wäre, das ins Kartenlesegerät einzugeben.",
+      "treatment": 0,
+      "id": "ofa6h"
     },
     {
       "index": "q1_142",
@@ -41,10 +89,34 @@
       "id": "umg9h"
     },
     {
+      "index": "q1_148",
+      "text": "Viele verneinen solch eine Aktion und es hängt meiner Meinung nach auch ab, wo dies stattfindet. Bestimmt kommt man schon auf etwa 4 Euro.",
+      "treatment": 0,
+      "id": "nja5h"
+    },
+    {
+      "index": "q1_162",
+      "text": "Ich denke, so um die 5€, da es ja nicht die größten Beträge sind und auch nicht jeder daran partizipiert.",
+      "treatment": 0,
+      "id": "hmj5l"
+    },
+    {
+      "index": "q1_163",
+      "text": "Dadurch, dass die Preise \"ungerade\" bzw. meistens mit einer 99 enden, könnte man, wenn man an einem Tag z.B. 1.200 Einkäufe hat, ungefähr 4.000 Euro plus machen.",
+      "treatment": 0,
+      "id": "hda5w"
+    },
+    {
       "index": "q1_164",
       "text": "Das hängt vom Umsatz und Tag ab. Manche Tage generieren mehr Umsatz, andere weniger. Sagen wir, der Supermarkt hat einen Umsatz von 15.000 Euro. Und circa die Hälfte der Kund/innen spenden ihr Kleingeld. Dann wären es circa 1.000-1.500 Euro pro Tag.",
       "treatment": 0,
       "id": "eaa6h"
+    },
+    {
+      "index": "q1_170",
+      "text": "200€, an einem guten Tag, wenn jeder bis jeder zweite aufrundet.",
+      "treatment": 0,
+      "id": "oma4p"
     },
     {
       "index": "q1_172",
@@ -53,10 +125,52 @@
       "id": "nne9h"
     },
     {
+      "index": "q1_184",
+      "text": "Ich denke, dass ein Supermarkt durchschnittlich 20 Euro täglich sammeln kann. Dies denke ich, da ich selber nicht von der Aktion wusste und daher gar nicht spenden konnte. Wenn Leute spenden, handelt es sich dabei ja auch nur um Centbeträge. Daher denke ich, dass es leider nur 20 Euro sind. Wäre die Aktion mehr Leuten bekannt, denke ich, dass täglich bis zu 50 Euro möglich wären, da keiner gerne Kleingeld im Geldbeutel hat.",
+      "treatment": 0,
+      "id": "ujn5h"
+    },
+    {
       "index": "q1_191",
       "text": "Ich würde schätzen, bis zu 10€ an einem normalen Tag. Dies würde ich schätzen, da die meisten zu zahlenden Beträge lediglich eine Spendenzahl von 1-4 ct haben, da diese Beträge am wahrscheinlichsten sind. Jedoch muss auch beachtet werden, dass ich keine Kenntnisse über die Anzahl an Personen pro Tag kenne, die in den Supermarkt gehen. Wenn man jedoch von 1-4 ct pro Person rechnet und beachtet, dass es Personen gibt, die nicht aufrunden würden, dann glaube ich, dass bis zu 10€ gesammelt werden können.",
       "treatment": 0,
       "id": "aaa5h"
+    },
+    {
+      "index": "q1_2",
+      "text": "Ich denke, der Supermarkt sammelt täglich ca. 87,5€. Es gibt täglich 500 BesucherInnen, wovon die Hälfte eine kleine Spende macht.",
+      "treatment": 0,
+      "id": "nfa5w"
+    },
+    {
+      "index": "q1_202",
+      "text": "Die Aktion ist bekannt, dennoch gibt es meiner persönlichen Auffassung nach nicht allzu viele Personen, die dies machen. Wir gehen davon aus, dass in einem Supermarkt mittlerer Größe durchgehend 2-3 Kassen besetzt sind. Pro Kasse wählen in einer Stunde ca. 5 Personen die Option der Aufrundung. Dabei werden durchschnittlich 2,5 ct gesammelt. Pro Kasse würden dann pro Stunde ca. 12,5 ct, also pro Tag (angenommene Öffnungszeiten: 7-22 Uhr) pro Supermarkt ca. 5 €. Dies läppert sich bei mehreren Supermärkten ganz schön.",
+      "treatment": 0,
+      "id": "nsa6a"
+    },
+    {
+      "index": "q1_204",
+      "text": "Ich schätze, ein durchschnittlicher Supermarkt hat zwischen 500 und 1.000 Kassiervorgängen pro Tag. Wenn etwa 10–25 % der Kundinnen beim Bezahlen „aufrunden bitte“ sagen, spendet also ein Teil der Kundschaft. Das durchschnittliche Aufrunden auf die nächste Zehn-Cent-Stelle beträgt rechnerisch rund 5 Cent pro spendendem Einkauf. Mit 800 Kundinnen und 20 % Spendern ergibt das 800 heißt €8 pro Tag. Bei kleinerem Kundenaufkommen (500 / 10 %) sind es nur etwa €2,50 pro Tag, bei stärkerem Andrang und mehr Spendern (1.000 / 25 %) etwa €12,50 pro Tag. Realistisch liegt die Sammelsumme also im Mittel bei ca. €5–€15 pro Supermarkt und Tag, je nach Kundenfrequenz und Anteil der Spendenden.",
+      "treatment": 0,
+      "id": "aljd8"
+    },
+    {
+      "index": "q1_206",
+      "text": "Ich rechne ungefähr mit 5 Cent pro Kunde und nehme an, dass ca. 1500 Kunden an der Kasse bezahlen an einem Tag. Da wahrscheinlich nicht alle Kunden spenden werden, rechne ich mit ca. 1000 Kunden. Also 1000 mal 0,05 € = 5 € am Tag. Da jeder Markt unterschiedlich besucht ist, würde ich mit einer Spanne von 5 €-10 € rechnen.",
+      "treatment": 0,
+      "id": "ime3h"
+    },
+    {
+      "index": "q1_208",
+      "text": "Die Fragestellung lautet „wie viel Geld kann man in einem durchschnittlichen Supermarkt (…) auf diese Weise sammeln, also werde ich die meiner Meinung nach Maximalsumme ermitteln. Ich gehe davon aus, dass an einem durchschnittlichen Tag 60 Kundinnen pro Stunde einkaufen. Ein durchschnittlicher Supermarkt hat 14 Stunden am Tag geöffnet, dadurch kaufen an einem durchschnittlichen Tag 840 Kundinnen ein. Wenn man davon ausgeht, dass die Einer-Cent-Beträge gleich stark verteilt sind (es gibt z.B. gleichermaßen Einkaufsbeträge, die auf 1 oder 9 enden), so würde man im Durchschnitt 5 ct spenden. 840 x 5 sind 4200 ct = 42 € pro Tag, die man nach meiner Einschätzung an einem Durchschnittstag an Spenden sammeln könnte.",
+      "treatment": 0,
+      "id": "ajn7d"
+    },
+    {
+      "index": "q1_219",
+      "text": "Der Menge Geld, die sich an einem durchschnittlichen Tag in einem durchschnittlichen Supermarkt durch diese Methode sammeln lässt, hängt von verschiedenen Faktoren ab. Erstmal die Anzahl Kunden, die an diesem Tag im Supermarkt etwas einkaufen, wo sie am Ende einen aufzurundenden Betrag haben. Das wird fast gleichzusetzen sein mit den Kunden, die insgesamt einkaufen, da fast nie runde Werte beim Einkaufen rauskommen. Zweitens den durchschnittlichen Prozentsatz dieser Kunden, die tatsächlich aufrunden. Zusätzlich bräuchte man noch den durchschnittlich aufgerundeten Wert (also 1 Cent, 4 Cent etc.). Die Multiplikation dieser drei Werte sollte den gewünschten Wert ergeben. Z.B. Für 500 Kunden, von denen 5% aufrunden mit einem durchschnittlichen Wert von 4 Cent, wäre das 1 € pro Tag.",
+      "treatment": 0,
+      "id": "aja5l"
     },
     {
       "index": "q1_227",
@@ -65,10 +179,40 @@
       "id": "iaa9k"
     },
     {
+      "index": "q1_231",
+      "text": "Ich schätze, dass an einem Tag durchschnittlich 400 Menschen in dem Supermarkt einkaufen. Das wären bei einem 9h Tag ca. 44 Menschen pro Stunde. Da das Wechselgeld meistens nur wenige Cent betrifft, gehe ich jetzt mal davon aus, dass jeder von ihnen ca. 5 Cent spendet. So würde man auf eine Summe von 20 Euro am Tag kommen.",
+      "treatment": 0,
+      "id": "eoe7b"
+    },
+    {
+      "index": "q1_232",
+      "text": "Es werden im Schnitt immer 5 ct aufgerundet. Wenn es im Durchschnitt ca. 1500 Kunden pro Tag sind, dann können 1500 x 5 ct, also 7500 ct = 75 € gespendet werden.",
+      "treatment": 0,
+      "id": "oja8h"
+    },
+    {
       "index": "q1_238",
       "text": "Gehen wir davon aus, dass an einem durchschnittlichen Tag in einem durchschnittlichen Supermarkt durchschnittlich 50 Leute pro Stunde einkaufen gehen und der Supermarkt 15 Stunden geöffnet hat. Das wären insgesamt ca. 750 Leute am Tag. Wenn davon 10% an der Aktion teilnehmen und durchschnittlich 4 ct spenden, dann kommen am Tag ca. 3€ pro Supermarkt zusammen. Mein Ergebnis basiert allerdings auf rein spekulativen Annahmen meinerseits, da die oben gegebenen Informationen keinerlei Rückschlüsse darauf ziehen lassen, wie viele Menschen durchschnittlich am Tag im Supermarkt einkaufen gehen, wie viele von ihnen sich an der Aktion beteiligen oder wie viel sie jedes Mal durchschnittlich spenden.",
       "treatment": 0,
       "id": "eje5w"
+    },
+    {
+      "index": "q1_24",
+      "text": "Gehen wir mal davon aus, dass in einem durchschnittlichen Supermarkt an einem durchschnittlichen Tag ca. 50 Personen/Stunde an der Kasse durchkommen, und etwa 10 % der Personen aufrunden (da aus persönlicher Alltagserfahrung so ca. jede 10. Person bei der Sache mitmacht) mit Beträgen zwischen 3-9 ct (rechnerisch wird hier der Durchschnitt von 6 ct/Person genommen). Dann sind es bei 16 h, die Supermärkte i.d.R. offen haben, ca. 30-40 €.",
+      "treatment": 0,
+      "id": "ima4h"
+    },
+    {
+      "index": "q1_249",
+      "text": "Angenommen, in einem durchschnittlichen Supermarkt gibt es pro Tag etwa 500 Kunden, die bei der Aktion mitmachen und ihren Endbetrag aufrunden. Dabei gibt es oft Produkte, die mit einem ,99 Cent Betrag enden oder auf einem ,x5 Cent Betrag enden. Beim Aufrunden durch die Aktion würden also jeweils 1 Cent oder 5 Cent gespendet werden. Wenn jeder teilnehmende Kunde durchschnittlich 5 Produkte mit ,99 Cent und 3 Produkte mit ,x5 Cent kauft, werden pro Kunde 20 Cent gespendet. Da wir von täglich insgesamt 500 teilnehmenden Kunden rechnen, können pro Tag circa 100€ gespendet werden.",
+      "treatment": 0,
+      "id": "yaa6h"
+    },
+    {
+      "index": "q1_26",
+      "text": "Ich denke, dass in Zeiten der Inflation für viele Menschen jeder Cent wichtig ist und schätze daher, dass nur ca. jede 10. Person an der Kasse bitte aufrunden sagt. Vor allem, weil ich selber in meiner Generation es noch nie miterlebt habe, dass eine Person bitte aufrunden an der Kasse gesagt hat. Wenn wir dann von ca. 2000 Personen ausgehen, die am Tag einkaufen, runden um die 200 Personen auf. Wenn wir dann von der Mitte, also 2 Cent ausgehen, wird auf diese Weise am Tag 4 € pro Supermarkt gesammelt.",
+      "treatment": 0,
+      "id": "ome5c"
     },
     {
       "index": "q1_261",
@@ -77,16 +221,124 @@
       "id": "eje9h"
     },
     {
+      "index": "q1_27",
+      "text": "Ich denke, man kann selten mehr als 15€ am Tag auf diese Weise sammeln. Die Aktion ist nicht in jedem Supermarkt ausgeschildert und nicht jeder weiß davon. Ich selber bekomme sehr selten mit, dass aufgerundet wird. In einer Stunde macht das vielleicht eine Handvoll Leute. Es kommen sowieso nie mehr als 9 Ct pro Person zusammen. Sagen wir 10-20 Leute pro Stunde. Dann wäre das ca. 1€. Kann natürlich auch sein, dass ich mich verschätze und doch mehr Leute Gebrauch davon machen. Ich denke, es ist auch unterschiedlich je nach Supermarkt und macht einen Unterschied, je nachdem, ob es ausgeschildert ist oder nicht.",
+      "treatment": 0,
+      "id": "eaa5l"
+    },
+    {
+      "index": "q1_272",
+      "text": "Die Summe, die in einem durchschnittlichen Supermarkt an einem Tag durch die „Aufrunden bitte“-Aktion gesammelt werden kann, hängt von mehreren Faktoren ab, einschließlich der Anzahl der Kunden und der Häufigkeit von Kleinbeträgen. Angenommen, ein Supermarkt hat täglich etwa 500 Kunden, und 30 % der Kunden entscheiden sich für das Aufrunden. Bei einem durchschnittlichen Betrag von 1,50 Euro pro Kunde, der auf 2 Euro aufgerundet wird, könnte jeder Spendende etwa 0,50 Euro spenden. Das ergibt täglich rund 75 Euro (500 Kunden x 30 % x 0,50 Euro). Wenn verschiedene Supermärkte diese Aktion umsetzen, summieren sich die Beträge schnell und können helfen, eine bedeutende Summe zur Bekämpfung von Kinderarmut beizutragen.",
+      "treatment": 1,
+      "id": "eoi4l"
+    },
+    {
+      "index": "q1_277",
+      "text": "Die Idee des Aufrundens in Supermärkten ist sehr effektiv, da sie auf kleine Beträge abzielt, die sonst oft ungenutzt bleiben würden. Nehmen wir an, ein durchschnittlicher Supermarkt hat an einem Tag etwa 1.000 Kunden, die jeweils im Durchschnitt 5 Cent aufrunden. Das würde bedeuten, dass allein durch diese kleinen Beträge insgesamt 50 Euro pro Tag gesammelt werden können. Wenn wir das auf einen Monat hochrechnen, könnten das rund 1.500 Euro sein. Gleichzeitig haben größere Supermärkte oder viel besuchte Standorte das Potenzial, deutlich höhere Summen zu erreichen. Faktoren wie die Anzahl der Kunden und die Bereitschaft, aufzurunden, spielen eine entscheidende Rolle. Insgesamt könnte das eine erfolgreiche Methode sein, um Geld für einen guten Zweck zu sammeln.",
+      "treatment": 1,
+      "id": "njn6l"
+    },
+    {
+      "index": "q1_287",
+      "text": "Ich denke, an einem durchschnittlichen Tag in einem durchschnittlichen Supermarkt kommen durch das Aufrunden etwa 10 € ein. Begründung: nicht jeder wird aufrunden und da nur Kleinstbeträge bis 9 Cent gespendet werden, werden die Spenden nicht allzu groß ausfallen. Während der Weihnachtszeit könnten die Spenden aber größer ausfallen als an einem durchschnittlichen Tag.",
+      "treatment": 1,
+      "id": "zje6h"
+    },
+    {
+      "index": "q1_289",
+      "text": "Ich schätze, dass ein durchschnittlicher Supermarkt an einem durchschnittlichen Tag ca. 50 € Spenden sammelt. Wenn jeder Kunde im Schnitt 5 Cent aufrundet und ein Supermarkt ca. 1000 Kunden am Tag hat, kommen wir auf ca. 50 € Spenden vom Tag.",
+      "treatment": 1,
+      "id": "ije5s"
+    },
+    {
+      "index": "q1_298",
+      "text": "Ein durchschnittlicher Markt hat an einem Tag ca. 150-250 Kunden mit einem durchschnittlichen Einkaufswert von 30-40 €. Bei einer Aufrundungsrate von 70-80 % könnte man dadurch tägliche Einnahmen von 10-20 € machen. Das Ergebnis variiert jedoch stark und hängt von dem lokalen Kaufverhalten und der Preispolitik ab.",
+      "treatment": 1,
+      "id": "eja6l"
+    },
+    {
+      "index": "q1_310",
+      "text": "Es ist schwierig, das einzuschätzen, da es von vielen Faktoren abhängt. Heutzutage wird viel mit Karte bezahlt. Außerdem ist die Kundenanzahl auch entscheidend. Ebenso ist ein wichtiger Faktor, wie viel die Kunden auch spenden, da dies auch oft variiert und auch wie viele Kunden an dieser Aktion teilnehmen.",
+      "treatment": 1,
+      "id": "loa8h"
+    },
+    {
+      "index": "q1_312",
+      "text": "Die Summe unterscheidet sich, je nachdem, wie groß der Supermarkt ist etc. Die Summe liegt vermutlich zwischen 5.000 und 20.000.",
+      "treatment": 1,
+      "id": "e0k5i"
+    },
+    {
+      "index": "q1_314",
+      "text": "Wenn man annimmt, dass ein Supermarkt 3.500 Kunden pro Tag hat, zahlt ungefähr 1/3 davon mit Bargeld. Wenn man jetzt weiter annimmt, dass alle diese Kunden aufrunden, könnte man bei einer Aufrundung von nur 5 Cent ca. 50 € pro Tag sammeln.",
+      "treatment": 1,
+      "id": "ioe3h"
+    },
+    {
+      "index": "q1_322",
+      "text": "Ich glaube, an einem durchschnittlichen Tag in einem durchschnittlichen Supermarkt kann durch Aufrunden von Centbeträgen ungefähr 3 € gesammelt werden. Das wären dann um die 300 Menschen, die ihren Endbetrag aufrunden, und aus eigener Erfahrung würde ich sagen, dass das nicht viel mehr Einkäufer machen.",
+      "treatment": 1,
+      "id": "ofe7e"
+    },
+    {
       "index": "q1_323",
       "text": "Leider konnte ich keine genaueren Zahlen finden, aber laut Schätzungen soll ein mehrstelliger Millionenbetrag dabei rumgekommen sein.",
       "treatment": 1,
       "id": "oon4h"
     },
     {
+      "index": "q1_344",
+      "text": "Ich denke, man könnte wahrscheinlich ca. 35 Mio Cent pro Tag sammeln. Der KI-Chat hat nur gesagt, dass \"viele\" Leute 5 Cent spenden. Ich weiß aber auch aus eigener Erfahrung, dass es häufig auch 1-3 Cent Fälle gibt, wo aufgerundet wird. Das hat der Bot nicht bedacht. Insgesamt gehen 14 Mio Menschen pro Tag einkaufen, sagt Chat. Gehen wir mal davon aus, ca. die Hälfte davon (7 Mio) spendet 5 Cent (trotz eigener Erfahrung kann ich nicht damit kalkulieren, deswegen setze ich die Gesamtmenge an Spendern runter), dann kommt man auf 35 Mio Euro am Tag.",
+      "treatment": 1,
+      "id": "rje7h"
+    },
+    {
+      "index": "q1_354",
+      "text": "Meine Schätzung wäre 300 €. Bei einem durchschnittlichen Einkauf, von dem man vielleicht so 20-50 Cent aufrundet und dies hochrechnet auf vielleicht 600-1000 Kunden an einem durchschnittlichen Tag.",
+      "treatment": 1,
+      "id": "üat7h"
+    },
+    {
       "index": "q1_368",
       "text": "Potentiell könnten 50-150 Euro in einem durchschnittlichen Supermarkt an einem durchschnittlichen Tag gespendet werden, wenn der Kunde alleine 5 Cent abgeben würde. Das bedeutet jedoch, dass jeder Kunde etwas spenden müsste. Demnach ist die eigentliche Zahl wesentlich geringer als oben genannt.",
       "treatment": 1,
       "id": "ifo5l"
+    },
+    {
+      "index": "q1_375",
+      "text": "Wenn durchschnittlich ca. 2000 Personen pro Tag in einem Supermarkt einkaufen und davon ca. 20 Prozent aufrunden, würde ich sagen, dass die Spendeneinnahmen bei 10 Cent x 200 Pax = 2000 €.",
+      "treatment": 1,
+      "id": "aal7h"
+    },
+    {
+      "index": "q1_38",
+      "text": "Man kann zwischen 1 und 9 Cent spenden. Also würde ich pauschal mit 4,50 Euro pro Person rechnen. Und dann kommt es stark auf die Kundenanzahl an, und die hängt von der Größe und Lage des Supermarktes ab. Durchschnittlich ist hier auch etwas vage ausgedrückt. Es gibt große und kleine Supermärkte, wobei die neuen alle eine Mindestgröße haben. Ist dies schon der neue Standard? Da weiß ich leider gar nicht, was aktuell Standard ist. Ich komme vom Dorf, da ist für mich der durchschnittliche Supermarkt wohl auch anders als in der Stadt. Am Dienstag wird am wenigsten und am Samstag am meisten verkauft. Also gehen wir von einem Mittwoch oder Donnerstag aus oder was ist hier der durchschnittliche Tag? Kann ich leider so nicht beantworten.",
+      "treatment": 0,
+      "id": "rma3b"
+    },
+    {
+      "index": "q1_393",
+      "text": "Angenommen, ein Supermarkt hat um die 100 Kunden am Tag: dann könnte man bei jeglichen Einkaufswerten einen Beitrag zwischen 99 und 1 Cent beim Aufrunden sammeln. Wenn man davon den Durchschnittswert nimmt (angenommen 35 Cent, da bei höheren Preisen Kunden eventuell nicht aufrunden würden), könnte man 35 Euro an einem Tag einsammeln.",
+      "treatment": 1,
+      "id": "eaa4b"
+    },
+    {
+      "index": "q1_397",
+      "text": "Wenn davon ausgegangen wird, dass durchschnittlich ca. 1.000 - 10.000 Kunden einen Supermarkt besuchen und je nach Einkauf 1, 2 oder 5 Cent Münzen spenden, kommt eine Spannweite von 60 bis 250 Euro pro Supermarkt heraus. In Anbetracht von allen Supermärkten deutschlandweit wären das 6,2 Millionen Euro täglich. Eine relativ hohe Summe von Spendengeldern, die Gutes tun, ausgelöst von dem Stichwort \"Aufrunden bitte\".",
+      "treatment": 1,
+      "id": "aaa7g"
+    },
+    {
+      "index": "q1_40",
+      "text": "Da die Barzahlung immer mehr zurückgeht, denke ich maximal 20 € am Tag.",
+      "treatment": 0,
+      "id": "ama5h"
+    },
+    {
+      "index": "q1_401",
+      "text": "Wenn ein Supermarkt ca. 1000 Kunden am Tag hat und davon ca. ein Drittel aufrundet, könnte man davon ausgehen, dass bei dem Rundungsbetrag von einem Kunden circa 5 Cent rauskommt. Würde ich behaupten, dass pro Tag 15 Euro rauskommen.",
+      "treatment": 1,
+      "id": "ijp6l"
     },
     {
       "index": "q1_406",
@@ -101,16 +353,112 @@
       "id": "üjs9l"
     },
     {
+      "index": "q1_412",
+      "text": "Ich würde schätzen, in einem durchschnittlichen Supermarkt an einem durchschnittlichen Tag können ungefähr um die 200-400 EUR eingenommen werden. Das hängt, denke ich, stark davon ab, wie viel insgesamt an dem Tag verkauft wurde, für welche Preise und besonders, wie viele Menschen an der Aktion „Deutschland rundet auf“ teilnehmen.",
+      "treatment": 1,
+      "id": "rma5o"
+    },
+    {
+      "index": "q1_421",
+      "text": "Nehmen wir den Mittelwert täglicher Einkäufe eines mittelgroßen Supermarkts: ca. 2.250 Einkäufe am Tag. Nehmen wir an, dass die letzte Ziffer des zu zahlenden Betrags zur gleichen Wahrscheinlichkeit eine Ziffer von 0-9 ist. Dann können an einem Tag 2.250 x 4,5 = 10.125 Cent, 101,25 Euro gespendet werden.",
+      "treatment": 1,
+      "id": "uaa4h"
+    },
+    {
+      "index": "q1_423",
+      "text": "Ich gehe davon aus, dass insgesamt 30.000.000 Menschen pro Tag einkaufen. Laut Umfragen spenden ungefähr 5.375.000 % dieser Menschen. Zumal es sich um einen sehr geringen Betrag von durchschnittlich 3 Cent handelt. Rechnet man dies aus, so ergibt sich eine jährliche Spendensumme von 450.000 €.",
+      "treatment": 1,
+      "id": "pdh6f"
+    },
+    {
       "index": "q1_426",
       "text": "Schätzungsweise könnte man durchschnittlich vielleicht 300 Euro sammeln. Geht man davon aus, dass ein durchschnittlicher Supermarkt am Tag von ca. 1.000 Kund:innen besucht wird, sind von diesen 1.000 vielleicht 500 bereit, aufzurunden. Dann würde ich davon ausgehen, dass es oft ..,95 Euro-Beträge sind und somit 5 ct gespendet werden. So würde ich auf 250 Euro kommen. Mit Beachtung von anderen Parametern kommt man dann vielleicht auf 300 Euro, weil manche vielleicht mehr aufrunden oder es vielleicht andere Centbeträge nach dem Komma sind und somit mehr gespendet wird.",
       "treatment": 1,
       "id": "cje5s"
     },
     {
+      "index": "q1_429",
+      "text": "Angenommen, der Durchschnittseinkaufswert liegt bei 30 Euro, und es gibt täglich mehrere Millionen Einkäufe, könnte sich die Aufrundung pro Einkauf auf einen Betrag von etwa 0,10 bis 0,50 Euro summieren. Wenn wir von 10 Millionen Einkäufen pro Tag ausgehen, könnte die Gesamtsumme der Spenden leicht in die Millionen gehen, möglicherweise zwischen 1 und 5 Millionen Euro täglich, abhängig von den genauen Durchschnittswerten. Diese Schätzung ist jedoch sehr variabel und sollte als grobe Richtlinie verstanden werden.",
+      "treatment": 1,
+      "id": "ije4l"
+    },
+    {
       "index": "q1_431",
       "text": "Die Schätzung, wie viel Geld in einem durchschnittlichen Supermarkt an einem durchschnittlichen Tag durch die Aktion „Aufrunden bitte“ verdient wird, kann je nach vielen Faktoren schwanken. In einem Supermarkt, der täglich mehrere hundert Kunden bedient, könnte man annehmen, dass etwa 20-30 % der Kunden sich entscheiden, aufzurunden. Wenn jeder Kunde durchschnittlich 0,30 Euro aufrundet, könnte dies pro Tag schnell in die Hundert Euro gehen. Beispielsweise bei 300 Kunden könnten dies rund 90 Euro täglich sein. Über das Jahr gerechnet, würde das eine Summe von mehreren Tausend Euro ergeben, die für soziale Projekte eingesetzt werden kann. Diese Schätzung berücksichtigt jedoch keine saisonalen Schwankungen oder besondere Aktionen, die ebenfalls die Spendenbereitschaft beeinflussen könnten. Letztlich hängt die genaue Summe stark von der Kundenfrequenz und dem Einkaufsverhalten ab.",
       "treatment": 1,
       "id": "afe6w"
+    },
+    {
+      "index": "q1_432",
+      "text": "50€-300€ ist meine Schätzung. Ich habe Chat AI gefragt, wie viel Euro ein durchschnittlicher Einkauf beträgt. Dann habe ich ihn gefragt, wie viel Umsatz ein durchschnittlicher Supermarkt am Tag macht. Aus diesen Daten sollte Chat AI mir dann berechnen, wie viele Einkäufer ein durchschnittlicher Supermarkt am Tag hat. Anhand dieser Zahl (100-600 Einkäufe) habe ich dann angenommen, dass um 10 Cent aufgerundet wird, was mir eine Zahl von 10000-60000 Cent gibt, also 100€-600€. Ich habe dann durch 2 geteilt, um anzunehmen, dass jeder zweite Einkauf aufrundet.",
+      "treatment": 1,
+      "id": "ida5r"
+    },
+    {
+      "index": "q1_438",
+      "text": "Wenn man annimmt, dass der durchschnittliche Supermarkt 500 Kunden am Tag hat und die Kunden ca. 50 Cent spenden, würde man auf 250€ pro Tag kommen. Ich schätze aber, dass die meisten Menschen nicht bei 50 Cent aufrunden, sondern durchschnittlich bei 25 Cent. Also schätze ich, dass ein Supermarkt am Tag höchstens ca. 125€ an Spenden zusammenkriegt. Meine endgültige Schätzung ist aber, weil auch nicht jeder Kunde von der Aktion Bescheid weiß, ca. 50%, würde ich schätzen, sich deswegen auch der Betrag halbiert. Von dieser Hälfte spendet die Hälfte wiederum nicht. Meine endgültige Schätzung lautet also ein Viertel von 125€, also ca. 31,25€ am Tag.",
+      "treatment": 1,
+      "id": "ant7f"
+    },
+    {
+      "index": "q1_441",
+      "text": "15 -20€. Wenn pro Tag etwa 500 Kunden kommen. Meistens werden Preise wie 3,99€ angeboten. Daher wird der Großteil der Rundungen 1 Cent betragen. Somit wäre man bei 5 Euro insgesamt. Da es aber doch noch andere Beträge gibt und die X,99€-Angebote sich wiederholen, kommt es zu Rundungen von schätzungsweise 4 Cent. Daher gehe ich von etwa 17,50€ aus.",
+      "treatment": 1,
+      "id": "hgr4t"
+    },
+    {
+      "index": "q1_444",
+      "text": "In einem durchschnittlichen Supermarkt liegen die täglichen Kundenkontakte meist zwischen 800 und 1.500. Wenn nur etwa 10–20 % der Kund*innen „Aufrunden bitte“ sagen, ergeben sich etwa 80–300 Spenden pro Tag. Der durchschnittliche Spendenbetrag liegt meist zwischen 1 und 5 Cent, da nur auf die nächste Zehnerstelle aufgerundet wird. Dadurch kommt pro Spende ungefähr ein Betrag von 2–3 Cent zusammen. Multipliziert mit der Zahl der Spenden ergibt sich ein Tagesertrag von ungefähr 2 bis 9 Euro pro Markt. Hochgerechnet auf das Jahr können so mehrere hundert bis über tausend Euro zusammenkommen. Diese Schätzung zeigt, dass viele kleine Beiträge gemeinsam einen spürbaren Effekt haben können.",
+      "treatment": 1,
+      "id": "eja7m"
+    },
+    {
+      "index": "q1_459",
+      "text": "An einem durchschnittlichen Tag in einem durchschnittlichen Supermarkt kann man mit einem Betrag von ca. 150 bis 200 Euro rechnen, welcher für diese Spendenaktionen eingesammelt werden kann. Es wird mit ca. 1500 Kunden pro Tag gerechnet und einer aufgerundeten Summe von 10 bis 20 Cent.",
+      "treatment": 1,
+      "id": "ija8w"
+    },
+    {
+      "index": "q1_460",
+      "text": "Ich denke 50€, da nicht jeder Mensch das tut und viel aufrunden, nicht viel Geld zusammenkommt.",
+      "treatment": 1,
+      "id": "aoe6g"
+    },
+    {
+      "index": "q1_471",
+      "text": "Ich würde sagen, dass an einem durchschnittlichen Tag in einem durchschnittlichen Supermarkt zwischen 200 und 300 Euro durch Aufrundung der Cent-Beträge gespendet werden. Da ein durchschnittlicher Supermarkt zwischen 20.000 und 60.000 Euro an einem Tag einnimmt, aber nur zwischen 5 und 10 % aller Menschen an Supermarktkassen überhaupt spenden.",
+      "treatment": 1,
+      "id": "üah6c"
+    },
+    {
+      "index": "q1_474",
+      "text": "Ich denke, es kommt zu circa 4,3 Euro am Tag. Das liegt zum einen daran, dass unrunde Preise irrelevant sind, da die meisten Leute mit Karte bezahlen und daher kein Rückgeld anfällt. Und zum anderen wissen zu wenig Leute etwas darüber, als dass sie spenden.",
+      "treatment": 1,
+      "id": "tjy4h"
+    },
+    {
+      "index": "q1_475",
+      "text": "Da die meisten Dinge im Supermarkt keine ganze Zahl als Preis haben, kommen bei so ziemlich jedem Kunden Beträge heraus, die man aufrunden kann. Also kann man davon ausgehen, von jedem Kunden mindestens 2 Cent zu bekommen (manche geben mehr, manche weniger). Wenn man also davon ausgeht, dass mindestens 1000 Leute am Tag einkaufen gehen, würde man pro Tag 20 Euro einnehmen. Da ich nicht genau weiß, wie viele Leute am Tag einkaufen gehen, ist der Betrag wahrscheinlich um einiges höher.",
+      "treatment": 1,
+      "id": "aaa5l"
+    },
+    {
+      "index": "q1_488",
+      "text": "Ich rechne mit wenig Geld, eine grobe Schätzung geht von 10 € aus. Nur wenige der Kunden nehmen das Angebot meiner Erfahrung nach an, die gespendeten Beträge liegen zwischen 1 und 9 Cent pro Einkauf. Bei geschätzt durchschnittlichen 5 ct käme man bei 200 Teilnehmern auf 10 €.",
+      "treatment": 1,
+      "id": "öab5h"
+    },
+    {
+      "index": "q1_55",
+      "text": "Fünf Cent im Schnitt Rückgeld. Der Supermarkt hat vielleicht 500 Kunden am Tag, also sage ich zwischen 25 und 50 Euro.",
+      "treatment": 0,
+      "id": "ajr6l"
+    },
+    {
+      "index": "q1_59",
+      "text": "1-10 Euro denke ich",
+      "treatment": 0,
+      "id": "hms6l"
     },
     {
       "index": "q1_65",
@@ -123,6 +471,24 @@
       "text": "Ich schätze mal, alle Beträge ab 96 ct werden für gewöhnlich aufgerundet, das wären im Durchschnitt 2 ct pro Kunde. An einem gewöhnlichen Tag kommen schätzungsweise 1000 Kunden in den Supermarkt. Da die Preise der Supermärkte aus psychologischen Gründen oft kurz vor dem nächst-höheren Euro-Betrag enden, ist davon auszugehen, dass 75% aller Kunden einen Betrag zahlen müssen, der zu runden ist. Davon runden ca. 25% wirklich auf, da der Rest von der Aktion entweder nichts weiß oder an SB-Kassen oder per Karte zahlt. Unter diesen Annahmen würden täglich 3,75 € an Spenden gesammelt werden.",
       "treatment": 0,
       "id": "ijn4h"
+    },
+    {
+      "index": "q1_67",
+      "text": "Wenn der Supermarkt 10 h geöffnet hat und pro Minute im Supermarkt ca. 5 Leute bezahlen. Aber nicht jeder rundet auf, sondern vielleicht nur jeder zehnte, dann runden 1200 Menschen pro Tag auf und spenden im Durchschnitt vielleicht 4 Cent, dann sind wir bei 48 Euro pro Tag, aber ich glaube, es kann sich schnell zu mehr entwickeln, wenn mehr Leute spenden.",
+      "treatment": 0,
+      "id": "iaa5d"
+    },
+    {
+      "index": "q1_91",
+      "text": "100€",
+      "treatment": 0,
+      "id": "wma7h"
+    },
+    {
+      "index": "q1_92",
+      "text": "1250 Euro 500 Kunden pro Tag, im Durchschnitt 2,5 Cent aufrunden",
+      "treatment": 0,
+      "id": "ase4h"
     }
   ]
 }
