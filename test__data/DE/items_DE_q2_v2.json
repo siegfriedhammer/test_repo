@@ -23,6 +23,12 @@
       "id": "ija4h"
     },
     {
+      "index": "q2_17",
+      "text": "12",
+      "treatment": 0,
+      "id": "eoa6b"
+    },
+    {
       "index": "q2_232",
       "text": "Das Ganze hängt von der genauen Anzahl Läufern, der Größe der Wasser-Cups und wie viel die Läufer trinken während des Marathons. Während eines Marathons wird empfohlen, etwa 500 bis 1000 ml Wasser pro Stunde zu trinken, abhängig von individuellem Bedarf, Wetterbedingungen und Fitnesslevel. Sagen wir 2-4 Stunden, das heißt 1000-4000 ml pro Läufer -> 5000 Läufer ca. 5000-20000 Liter.",
       "treatment": 1,
@@ -57,12 +63,6 @@
       "text": "Mehrere tausend Liter.",
       "treatment": 1,
       "id": "öse5h"
-    },
-    {
-      "index": "q2_273",
-      "text": "Es werden ca. 3600 Wasser ausgegeben. Ansatz: Mehrere tausend Läufer*innen = 4000. Pro Lauf trinkt jemand ca. 800 ml-1 Liter Wasser. 0,8 * 4000 = 3200. 1 * 4000 = 4000. 3600 als Mittelwert.",
-      "treatment": 0,
-      "id": "ana6l"
     },
     {
       "index": "q2_275",

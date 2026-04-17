@@ -5,124 +5,124 @@
   "n_items": 20,
   "items": [
     {
-      "index": "c1_131",
-      "text": "App, die dir einen strukturierten Alltag plant, indem man seinen Stundenplan eingibt und so ein effektiver Lernplan erstellt wird mit genügend Pausen.",
+      "index": "c1_121",
+      "text": "Eine Anwendung, die eine Person daran erinnert, genug zu trinken. Sie kann verknüpft werden mit dem Terminkalender und der Wetter-App, um die Erinnerungen zeitlich angepasst zu senden, zum Beispiel bei höheren Temperaturen öfter. Dadurch, dass die Erinnerungen sich anpassen, ist es wahrscheinlicher, dass Personen sich tatsächlich daran halten.",
       "treatment": 0,
-      "id": "üas4m"
+      "id": "rfa7c"
     },
     {
-      "index": "c1_248",
-      "text": "Mein Projekt soll ein Einnahmen-Ausgaben-System sein. Das System soll die Ausgaben und Einnahmen auch graphisch darstellen können (wahrscheinlich Excel). Wenn ich es hinbekomme, soll das System laufend Updates bekommen, also so, dass man im Verlauf des Monats die Ausgaben eingeben kann und diese direkt eingepflegt und visualisiert werden. Außerdem sollen nützliche Daten wie z.B. wie viel man noch übrig hat und wie man im Vergleich zum letzten Monat steht, angegeben werden. Zuletzt sollen auch monatliche Ausgaben direkt angegeben werden können.",
+      "index": "c1_217",
+      "text": "Mein Projekt ist ein digitaler Flohmarkt. Dieser soll eine Nachahmung von Tinder sein, nur mit Alltagsprodukten, die man erwerben will. Im Detail gibt es die Möglichkeit, präferierte Produkte auszuwählen mit einem entsprechenden Preis. Nun werden diese Produkte von anderen Benutzern wie bei Tinder vorgeschlagen und man kann sich schnell zu seinem gewünschten Artikel swipen. Kommt es zum Match des Artikels, können die Händler über ein Chatmenü zum Abschluss des Kaufes kommen.",
       "treatment": 0,
-      "id": "asm3l"
+      "id": "vja4h"
     },
     {
-      "index": "c1_284",
-      "text": "Ein Programm, welches gesprochene Sprache oder Text in Gebärdensprache umwandelt. Zum einen kann es genutzt werden, um Gebärdensprache zu lernen. Zum anderen kann es genutzt werden, um direkt mit Menschen zu interagieren, die Gebärden nutzen. Gesprochene Sprache wird aufgenommen und ausgewertet, und daraus werden direkt Gebärden produziert. Man könnte es auch umgekehrt machen, ist aber komplizierter: Gebärden werden gefilmt und in gesprochenen Text umgewandelt.",
+      "index": "c1_238",
+      "text": "Automatischer Terminplaner. Es werden alle Termine + Uhrzeiten, die eine Person an einem Tag oder in der Woche vorhat, eingetragen und das Programm erstellt einen Plan davon.",
       "treatment": 0,
-      "id": "lme7l"
+      "id": "eon6h"
     },
     {
-      "index": "c1_336",
-      "text": "Mein Grundgedanke ist es, etwas sehr Praktisches für das soziale Miteinander zu überlegen, da es sehr nützlich ist und gleichzeitig zu Leuphana passt, bei der es ein wichtiger Bestandteil ist, Kontakte und Freundschaften zu schließen. Die Idee ist eine Website, bei der jeder einen kleinen Steckbrief erstellen kann. Des Weiteren schreibt jede Person, wann und um wie viel Uhr er/sie Pause/Frei hat. Nun geht es zum Sinn, nämlich kann jeder filtern und andere Menschen suchen, die zur selben Pause frei haben. Soweit es möglich ist, wäre dann ein Chat auf der Website möglich, oder man hinterlässt im Steckbrief die sozialen Medien. Man kann dann Personen, die zur selben Zeit frei haben und bei denen der Steckbrief zu einem passt, ganz gemütlich adden. Die andere Person sieht dann, wer sie geaddet hat und kann dann zurück adden, um zu signalisieren, dass sie auch Interesse hat, mal etwas gemeinsam zu machen. Der Sinn hinter dem Ganzen ist, dass Personen, die an bestimmten Tagen alleine sind, weil ihre Freundesgruppe nicht da ist, ihr bester Freund nicht usw., auch dann jemanden haben, mit dem sie Zeit verbringen können. Noch viel mehr lernt man immer mehr Leute kennen. Die Website würde heißen Uni.connect und im Vordergrund steht natürlich das Kennenlernen und Beisammensein der Studenten.",
+      "index": "c1_239",
+      "text": "Innerhalb meines Projekts werde ich eine App erstellen. Diese App soll bei längerer Handynutzung die Bildschirmhelligkeit senken. Damit soll auf den exzessiven Handykonsum aufmerksam gemacht werden. Der Zeitpunkt nach Beginn der Handynutzung, ab der der Bildschirm dunkler gemacht wird, soll in den Einstellungen geändert werden können. Somit soll der Nutzer individuell seine Bildschirmzeit anpassen können. Das Ziel der App ist, den Handykonsum durch weniger werdendes Interesse zu verringern.",
       "treatment": 0,
-      "id": "tmi5h"
+      "id": "iae4h"
     },
     {
-      "index": "c1_363",
-      "text": "Mein Projekt dreht sich um das Finden von Podcasts. Dir werden am Anfang viele verschiedene Kategorien vorgeschlagen. Nachdem du eine x-beliebige Anzahl der Wörter, die dein Interesse geweckt haben, angeklickt hast, wirst du in ein Fragenforum weitergeleitet. Anhand der ausgewählten Wörter werden dir nun fachspezifische Fragen gestellt, die die Auswahl der Podcasts konkretisieren. Du kannst auf die Fragen aber nur mit Ja/Nein/Neutral antworten. Nachdem du diese Fragen beantwortet hast, ca. 3-5 Fragen, werden dir Titel verschiedener Podcasts vorgelegt, die du liken oder disliken kannst. Oder du hörst ausgewählte Abschnitte verschiedener Podcasts, die du dann auch liken oder disliken kannst. Als Resultat spuckt dir mein Projekt dann 3-4 auf dich personalisierte Podcasts aus. Wenn ich es hinbekomme, inkludiere ich auch noch ein paar Links, die zu den Apps führen, wo der Podcast verfügbar ist.",
+      "index": "c1_286",
+      "text": "Smart Deadline-Tracker Die Grundidee: Ein Python-Tool, das automatisch Fristen und Deadlines aus verschiedenen Quellen erkennt (z. B. Moodle-Export, E-Mails, Textdateien oder Kalender) und sie: • übersichtlich darstellt und • mit Erinnerungen versieht.",
       "treatment": 0,
-      "id": "nas6d"
+      "id": "lma5l"
     },
     {
-      "index": "c1_451",
-      "text": "Ein Rechner, der ungefähre Preise für 2nd Hand Möbel angibt, die man verkaufen möchte. Dabei kann der Nutzer zuerst auswählen, wie groß das Möbelstück ist. Danach kann aus Kategorien ausgewählt werden, wie Holz/Metall/Stoff für Material. Dann kann der Zustand bestimmt werden. Der Rechner benötigt auch den Originalpreis und berechnet dann, wie viel prozentual davon verlangt werden könnte. Je nach Zustand, Material etc. könnte dann bspw. für einen Holzschrank mit gutem Zustand (großes Möbelstück, Holz, Zustand: gut) ca. 70% des Originalpreises vorgeschlagen werden. Das wäre bei einem 500€ Schrank ca. 375€.",
-      "treatment": 1,
-      "id": "ion4h"
+      "index": "c1_308",
+      "text": "Ein Projekt, welches Lebensmittelverschwendung vorbeugt. Über einen Scan-Code sieht man alle Lebensmittel, die eingekauft wurden, und man kann zusätzlich auch weitere Lebensmittel hinzufügen, die noch zu Hause vorhanden sind. Die App schreibt dann mögliche Rezepte auf und erinnert daran, wann was wie gegessen werden sollte, damit es nicht schlecht wird. Vielleicht zusätzlich auch, wie was am besten noch gelagert werden sollte, um Verschwendung von Lebensmitteln möglichst zu verhindern.",
+      "treatment": 0,
+      "id": "usa7s"
     },
     {
-      "index": "c1_480",
-      "text": "Ein Spiel, bei dem man immer höher springen muss. Die Figur ist ein Mensch, in diesem Fall ein Studierender, der zu seinem Ziel hochspringt, welches hier die Hausarbeit wäre. Das Spiel könnte „Mein Weg zur Hausarbeit“ heißen. Die Dinge, auf die der Studierende springt, sind dann helfende Dinge für eine Hausarbeit, wie z.B. Bücher, Laptops oder Stifte. Im Hintergrund befindet sich die Ablenkung durch verschiedene Apps, o.Ä.\nJe länger man springt, desto schneller wird die Geschwindigkeit und desto schwieriger wird es, das Ziel zu erreichen. Weitere Level könnten dann der Bachelor, Master, etc. sein.",
+      "index": "c1_435",
+      "text": "Ich würde Python verwenden. Für einen guten Spielfluss bräuchte ich eine Anwendung, die die Spielerzahl, die Anzahl der vorhandenen Chips und die Dauer einer Runde berücksichtigt.",
       "treatment": 1,
-      "id": "aja5l"
+      "id": "ejm3h"
     },
     {
-      "index": "c1_512",
-      "text": "Ich möchte gerne einen ChatBot programmieren, der hilft, Fragen zu beantworten oder die Zeit zu sagen.",
+      "index": "c1_452",
+      "text": "Ich möchte eine Umfrage an junge Menschen stellen, was sie zum Thema Bildung denken. Fragen könnten unter anderem sein: Was könnte man besser machen, wie erlebst du Bildung, wo gibt es überall Bildung? So etwas in der Art.",
       "treatment": 1,
-      "id": "rme6s"
+      "id": "üsn5h"
     },
     {
-      "index": "c1_514",
-      "text": "Ich plane eine Kunstquiz-App, in der verschiedene Gemälde, Objekte, Kunstwerke oder Musik gegeben sind und der Spieler den Erschaffer, die Erschafferin dieses Kunstwerks erraten muss. Es könnten vier Auswahloptionen geben sowie ein freies Textfeld, je nach Modus. Auch könnte man den Künstler/die Künstlerin anhand eines Porträts, anhand eines Albumcovers oder anhand eines Faktes erraten können. Es soll viele verschiedene Modi geben können. Spielerisch frischt man sein künstlerisches Allgemeinwissen auf.",
-      "treatment": 1,
-      "id": "emx5b"
+      "index": "c1_57",
+      "text": "Man kann ein kostenfreies Tool mithilfe von Large Language Models bauen, welches Schüler:innen und Student:innen nutzen können, um ihre Lernziele genau zu tracken und angeleitet auch besser zu erreichen. Die Nutzer können im Programm in den ausgewählten Fächern Inhalte angeben und Themen auswählen, die eigenen Materialien einscannen und hochladen und sich einen ganz individuellen Lernplan zusammenstellen lassen. Das Programm erstellt Zusammenfassungen, Übungen und Tests, um die Anwender bestmöglich auf ihre Prüfungen vorzubereiten. Besonders an diesem Programm: die Inhalte lassen sich in verschiedenen Formen als Zusammenfassung darstellen, so zum Beispiel in Form von Kurz-Video-Format wie bei bekannten Plattformen wie TikTok, um sich dem zunehmenden Problem von kürzerer Aufmerksamkeit und der Sucht nach schnellen Dopamin-Schüben zu stellen und ursprünglich \"schlechte\" Gewohnheiten in eine produktive Erfahrung zu verwandeln. So erhält jeder Jugendliche eine neue Möglichkeit, sich mit Leichtigkeit zum Lernen zu motivieren.",
+      "treatment": 0,
+      "id": "ome5h"
     },
     {
-      "index": "c1_533",
-      "text": "Das Projekt ist eine interaktive Filmempfehlungs-App, die das Swipe-Prinzip ähnlich wie Tinder nutzt. Nutzer geben ihre Filmvorlieben, Genres und Stimmungen an, um personalisierte Vorschläge zu erhalten. Jeder Film wird mit einem Trailer, einer kurzen Zusammenfassung und Bewertungen präsentiert. Die Freunde können durch die Filme swipen: Ein Swipe nach rechts zeigt Interesse, während ein Swipe nach links eine Ablehnung signalisiert. Die App aggregiert die positiven Bewertungen und zeigt die Filme, die von der Mehrheit gemocht werden, in einer Übersicht an. Abstimmungen und Umfragen können auch integriert werden, um die endgültige Auswahl zu erleichtern. Darüber hinaus wird angezeigt, auf welchen Streaming-Diensten die Filme verfügbar sind. So wird die gemeinsame Entscheidungsfindung unter Freunden spielerisch und unterhaltsam gestaltet.",
-      "treatment": 1,
-      "id": "ioe3h"
-    },
-    {
-      "index": "c1_539",
-      "text": "Das geplante individuelle Coding-Projekt wird eine To-Do-Liste. In dieser kann der Nutzer seine geplanten Termine ein- und austragen. Ebenso wird durch einen Haken dieser Termin abgehakt und als erledigt markiert.",
-      "treatment": 1,
-      "id": "ams5w"
-    },
-    {
-      "index": "c1_587",
-      "text": "Ein Gedicht mit mehreren Strophen, mit Lyrics zum Mitsingen.",
-      "treatment": 1,
-      "id": "cjl4l"
-    },
-    {
-      "index": "c1_595",
-      "text": "Eine spannende Idee könnte eine interaktive AR-App sein, die Nutzer bei der Erkundung lokaler Bauernmärkte begleitet. Die App könnte mit einem Spielelement kombiniert werden, bei dem Nutzer Punkte sammeln können, indem sie verschiedene Stände besuchen und bestimmte Produkte kaufen. Zusätzlich würde die App Rezepte basierend auf den gesammelten Zutaten vorschlagen, die visuell in der AR dargestellt werden, sodass Nutzer sehen, wie ihre fertigen Gerichte aussehen könnten. Eine soziale Komponente könnte es ermöglichen, Kochherausforderungen mit Freunden zu starten, die anhand der saisonalen Produkte in ihrer Nähe erstellt werden. Außerdem könnte ein Belohnungssystem etabliert werden, bei dem Nutzer durch das Teilen ihrer Erfahrungen und Kreationen Rabatte auf zukünftige Käufe erhalten. So wird das Einkaufen und Kochen zu einem doppelten Erlebnis von Entdeckung und Gemeinschaft.",
-      "treatment": 1,
-      "id": "uaa6s"
-    },
-    {
-      "index": "c1_634",
-      "text": "Ich habe ein Projekt, bei dem ich ein Gedicht und einen Songtext zum Mitdenken erstellen möchte. Mein Gedicht behandelt die Themen Hoffnung und Veränderung. Ich möchte mit einer kraftvollen Zeile beginnen, die die Emotionen weckt, und dann durch verschiedene Lebensstufen führen, in denen diese Themen vorkommen. In meinem Songtext plane ich eingängige Refrains und eine einfache Melodie, um die Botschaft klar rüberzubringen. Ich denke, dass visuelle Elemente, wie Illustrationen oder ein passendes Video, das Ganze unterstützen könnten. Mein Ziel ist es, die Zuhörer zum Nachdenken über die Bedeutung dieser Themen anzuregen. Ich hoffe, dass diese Ideen gut ankommen und dass ich damit Menschen erreichen kann.",
-      "treatment": 1,
-      "id": "cjl4l"
-    },
-    {
-      "index": "c1_647",
-      "text": "Projektvorschlag: Entwicklung einer digitalen Jam-Session-App. In der heutigen Zeit ist gemeinsames Musizieren oft durch physische Distanzen und unterschiedliche Zeitpläne erschwert. Diese App zielt darauf ab, Musiker aus aller Welt zu verbinden und ihnen eine Plattform zu bieten, um harmonisch zusammen zu musizieren. Ziele: 1. Echtzeit-Synchronisation für virtuelle Jam-Sessions. 2. Automatische Anpassung von Tempo und Tonarten zur Vereinfachung des Zusammenspiels. Die App könnte mit Python unter Verwendung von WebRTC für die Echtzeitkommunikation und einer grafischen Benutzeroberfläche mit Tkinter oder Flask entwickelt werden.",
-      "treatment": 1,
-      "id": "caa3c"
-    },
-    {
-      "index": "c1_658",
-      "text": "Mein Projekt soll die Produktivität steigern, indem man Intervall-Lernphasen nutzen soll. Es sollte so sein, dass man am Ende am effektivsten und mit dem geringsten Zeitaufwand ein Ergebnis erzielen kann. Es soll ein individuelles Belohnungssystem geben, das die Motivation ankurbeln soll. Um Störungsfaktoren zu blockieren, könnte man während der Lernintervalle andere elektrische Geräte und Nachrichten unterdrücken.",
-      "treatment": 1,
-      "id": "dda3b"
-    },
-    {
-      "index": "c1_741",
-      "text": "Eine zusammengesetzte Bibliothek an Informationen zur Entwicklung im Kindesalter von 0 bis 7 Jahren. Unter Berücksichtigung verschiedener Aspekte. Mit Verweisen in Pädagogik, Erziehung, Psychologie usw.",
-      "treatment": 1,
-      "id": "kan9f"
-    },
-    {
-      "index": "c1_761",
-      "text": "✨Match Making✨. Zu Beginn werden die Nutzer gefragt, welche Prioritäten sie beim Dating setzen. Diese Fragen werden in Form von Skalen dargestellt, um Präferenzen und Abneigungen zu bewerten. Die Person, mit der man datet, erhält einen Link, um dieselben Fragen zu beantworten. Anschließend wird die Übereinstimmung berechnet. In einem Slide wird dann eine rosa-rote Brille angezeigt, begleitet vom Titel \"Matchmaker in Progress\". Im nächsten Slide fällt die Brille und zeigt, wie hoch der Übereinstimmungsprozentwert ist. Daraufhin können die Nutzer die Gemeinsamkeiten und Unterschiede einsehen. Zusätzliche Features könnten persönliche Vorschläge oder Tipps für das Date basierend auf den gemeinsamen Interessen bieten.",
-      "treatment": 1,
+      "index": "c1_58",
+      "text": "Ein Programm, welches einem neue Strecken zum Laufen gehen entwickeln kann. In dieser können zudem die gewünschte Länge der Strecke, Start- und Endpunkt und die Höhe und Beschaffenheit der Strecke angepasst werden. Oder auch andere Faktoren, wie die Art des Laufs, ein Laufziel für die Strecke (z.B. bzgl. Zeit und Schnelligkeit). Dies soll einem ermöglichen, neue Pfade zu entdecken, was vor allem in unbekannteren Gegenden hilfreich sein kann.",
+      "treatment": 0,
       "id": "ama4h"
     },
     {
-      "index": "c1_777",
-      "text": "Eine einfache App, die es ermöglicht, in Nachbarschaften Gegenstände oder Fähigkeiten auszutauschen. Nicht jeder Haushalt braucht eine Bohrmaschine oder verschiedenste Gartengeräte. Mit einfachen Angaben wie „Ich verleihe meine Bohrmaschine“ oder „Ich brauche eine Bohrmaschine“ kann jeweils ein Gerät Angebot nachgefragt oder angeboten werden.",
+      "index": "c1_592",
+      "text": "Ich würde vielleicht eine Art kurzes Rollenspiel entwickeln. Der Einfachheit halber wäre es basierend auf Multiple Choice. Die spielende Person wäre die/der Inhaber*in einer Blutbank für Vampire. Die Challenge basiert darin, dass man verschiedene Verfügbarkeiten von Bluttypen hat und verschiedene Vampire, verschiedene hierarchisch gelistete Blutpräferenzen haben. Man muss es bestmöglich hinkriegen, alle Vampire einigermaßen zu befriedigen. Am Ende hat man keine Blutreserven mehr, und es folgt ein Hinweis auf den echten Mangel von Blutreserven und eine Bitte ums Blutspenden.",
       "treatment": 1,
-      "id": "ema3g"
+      "id": "eja6b"
     },
     {
-      "index": "c1_81",
-      "text": "Mein Projekt soll Gedichtsanalysen in der Schule vereinfachen. Es soll Emotionen in Texten erkennen, um die Intention und Gefühle der ikonischen Autoren wie beispielsweise Schiller oder Goethe besser verstehen und nachvollziehen zu können. Ich habe Gedichtsanalysen während meiner Schulzeit gehasst und ich denke, so ein Tool hätte mir eine Menge Kopfschmerzen erspart :)",
+      "index": "c1_596",
+      "text": "Fragebögen, die darauf aufbauen, einen perfekten Lernpartner zu finden. Da geht es um die Lernstruktur, die Personen etc. Interessant vielleicht auch für neurodivergente Menschen, die möglicherweise Probleme haben, auf andere zuzugehen oder den richtigen Partner zu finden, der genauso lernt. Es wird nach Studiengang, Interessen, 'Vorlieben' beim Lernen gefragt.",
+      "treatment": 1,
+      "id": "osa8h"
+    },
+    {
+      "index": "c1_653",
+      "text": "Eine Webseite für Schüler. Lehrer laden die Aufgaben/Lernstoffe usw. hoch und die Seite gamifiziert die Aufgaben, wählt zufällige Gruppen und teilt Teile von Aufgaben zu den Schülern. Die Schüler müssen sich zusammentun und die Aufgaben gemeinsam bearbeiten und lösen. Sie kriegen dafür Punkte und können dafür extra benotet werden oder einen Preis gewinnen.",
+      "treatment": 1,
+      "id": "rff4i"
+    },
+    {
+      "index": "c1_67",
+      "text": "Eine Kleidungsempfehlung abhängig vom Wetter. Ein Skript, das morgen das Wetter abruft und dementsprechende Empfehlungen für Klamotten gibt. Mehrere Wettervorhersagen werden miteinander verglichen und der Inhalt deines Kleiderschrankes muss dafür angegeben werden. Eventuell kann man optische Präferenzen als Filter angeben.",
       "treatment": 0,
-      "id": "oma6r"
+      "id": "ajn5h"
+    },
+    {
+      "index": "c1_724",
+      "text": "Eine AI, die aus Liedern die Songtexte herausfiltert und diese dann hinschreibt, so dass man mitsingen kann.",
+      "treatment": 1,
+      "id": "ins6l"
+    },
+    {
+      "index": "c1_773",
+      "text": "Ich möchte eine To-Do-Liste machen. Es soll verschiedene Spalten geben, in denen man Dinge eintragen kann. Dadurch sollen sie nach Wichtigkeit oder Themen sortiert werden. Es soll auch eine Spalte mit erledigten Aufgaben geben. Durch das Anklicken einer Aufgabe kann man sie als erledigt markieren.",
+      "treatment": 1,
+      "id": "rje5f"
+    },
+    {
+      "index": "c1_812",
+      "text": "Ich möchte eine Finanzplanungs-App einrichten, die es vor allem Studenten ermöglicht, besser mit ihrem Geld umzugehen bzw. einen besseren Überblick zu haben. An der ein oder anderen Stelle kann vielleicht gespart werden, manches ist notwendig. Dafür benötige ich Tools wie Node.js oder MongoDB. Es soll auch eine Art Belohnung geben, um Sparziele zu erkennen und weiter zu verfolgen.",
+      "treatment": 1,
+      "id": "eja4p"
+    },
+    {
+      "index": "c1_454",
+      "text": "Das Programm heißt CodeTwin und nutzt fortschrittliche KI-Modelle, um aus bereits vorhandenem Quellcode automatisch sichere, optimierte und fehlerfreie „Zwillingsversionen“ zu erstellen. Es löst das weit verbreitete Problem, dass Projekte mit veralteten oder unsicheren Codebibliotheken arbeiten, indem es automatisch auf aktuelle Standards und Sicherheitsrichtlinien migriert. CodeTwin analysiert die gesamte Codebasis, erkennt fehleranfällige Stellen und schlägt direkt besser strukturierte Alternativen vor, die funktional identisch sind, aber effizienter und wartungsfreundlicher. Es kann zusätzlich APIs überwachen, sodass Änderungen externer Schnittstellen nicht mehr zu plötzlichen Fehlern im Programm führen. Ein eingebauter „Kompatibilitätsmodus“ ermöglicht es, automatisch Versionen für unterschiedliche Plattformen (Desktop, Mobile, Web) zu generieren. Durch ein lernendes System adaptiert sich CodeTwin an den bevorzugten Programmierstil des Entwicklers und behält dessen individuelle Struktur bei. Die Oberfläche ist intuitiv und erlaubt es, Korrekturen in Echtzeit zu akzeptieren oder abzulehnen, mit direkter Vorschau auf die Auswirkungen. Dadurch können sowohl große Unternehmen als auch Einzelentwickler sicherstellen, dass ihre Software aktuell, sicher, performant und langfristig wartbar bleibt, ohne teure 'Komplett-Neuschreibungen.'",
+      "treatment": 1,
+      "id": "koi4l"
+    },
+    {
+      "index": "c1_638",
+      "text": "Das Projekt wird ein Tool, welches in einem Restaurant Kuchenstücke verwaltet. Dieses Tool kann entweder mit dem Bestellsystem direkt oder separat funktionieren. Es geht bei dem Tool darum, dass der Kellner, wenn er zu einem Tisch geht, um die Bestellung aufzunehmen, weiß, wie viele Stücke an Kuchen von einem Kuchen noch vorhanden sind, damit er keine Kuchenstücke mehrmals vergibt. Dies wäre besonders in Stoßzeiten nützlich. Morgens werden alle Kuchenstücke für den Tag eingetragen, bei einer Bestellung mit einem bestimmten Stück geht die Anzahl der verfügbaren Stücke runter. So weiß man, wenn ein bestimmter...",
+      "treatment": 1,
+      "id": "raa4h"
+    },
+    {
+      "index": "c1_848",
+      "text": "Ich würde gerne ein Pilzerkennungsprojekt programmieren. Durch die Angabe von verschiedenen Merkmalen kann der genannte Pilz identifiziert werden, oder die Auswahl zumindest auf zwei Arten eingegrenzt werden. Dazu gibt es Informationen, ob diese genießbar oder essbar sind. Falls ja, könnte es zusätzlich eine Info zur möglichen Verarbeitung der Pilze geben.",
+      "treatment": 1,
+      "id": "tma4b"
     }
   ]
 }

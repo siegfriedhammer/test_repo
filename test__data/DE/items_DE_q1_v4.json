@@ -5,124 +5,124 @@
   "n_items": 20,
   "items": [
     {
-      "index": "q1_146",
-      "text": "Der Fahrradladen XY zeigt im vergangenen Jahr eine durchaus mühsame Entwicklung der Lieferfähigkeit. Von Januar bis April schaffen sie gerade mal 55-62% der Kundenbestellungen auszuliefern. In der Mitte des Jahres, von Mai bis August, schaffen sie es dann schon 68-74% der Bestellungen auszuliefern, wobei in diesem Zeitraum auch weitaus mehr Fahrräder bestellt werden und damit die Anzahl der offenen Bestellungen sogar größer ist als im ersten Quartal. Zum Ende des Jahres fallen nicht nur die Bestellungen, sondern auch die Lieferquote wieder etwas ab, wobei der Rückstand sich immer noch ziemlich hoch hält.",
+      "index": "q1_121",
+      "text": "In den Sommermonaten ist erkennbar, dass die meisten Fahrräder bestellt wurden. Dieses Ergebnis ist auf die warme und helle Jahreszeit zurückzuführen. Auch die Lieferzeit ist hierbei am kürzesten. Am wenigsten Bestellungen gehen im Januar und Februar ein. Generell bewegt sich die Spannweite an Bestellungen zwischen 180 und 480 im Monat.",
       "treatment": 0,
-      "id": "efn6h"
+      "id": "ona5h"
     },
     {
-      "index": "q1_173",
-      "text": "Ein Blick auf die Kundenbestellungen des Ladens verrät uns, dass die meisten Bestellungen im Frühjahr bzw. Sommer eingehen (mit einem Peak im Juli mit 480) und diese in der anderen Jahreshälfte abflachen, wenn auch immer noch auf einem stabilen Niveau mit mindestens 180 Bestellungen monatlich. Die Lieferfähigkeit pendelt das Jahr über zwischen 50 und 74 Prozent.",
+      "index": "q1_126",
+      "text": "In den warmen Monaten von Frühling bis Herbst wird mehr beim Fahrradladen bestellt als in den kühleren Wintermonaten. Die Lieferquote ist in den Sommermonaten höher als in den Wintermonaten. Trotzdem ist die durchschnittliche Lieferzeit trotz mehr Bestellungen in den Sommermonaten kürzer als in den Wintermonaten. Der Rückstand ist im Frühling am höchsten und sonst übers Jahr recht konstant.",
       "treatment": 0,
-      "id": "öde3g"
+      "id": "eam3u"
     },
     {
-      "index": "q1_19",
-      "text": "Die Lieferquote ist in den Randbereichen, bei denen im Vergleich zu anderen Monaten weniger geliefert wurde, geringer als in den Monaten wie Mai bis September, in denen mehr produziert wurde. In den mehr produzierten Monaten war die Lieferzeit auch viel geringer und die kürzeste Lieferzeit sind 12 Tage.",
+      "index": "q1_136",
+      "text": "Dank der Tabelle kann man erkennen, dass Mitte des Jahres zwischen den Monaten April und Oktober die Kundenbestellungen am höchsten sind, was bedeutet, dass dort die meisten Fahrräder oder Fahrradteile bestellt wurden, was wahrscheinlich daran liegt, dass in dieser Zeitspanne die besten Wetterbedingungen zum Fahrradfahren sind. Parallel dazu kann man erkennen, dass die Liefertage in diesen Monaten viel weniger sind als in den Monaten davor und danach, was dafür gedacht ist, mehr Umsatz zu machen und dementsprechend die Kunden schneller zufrieden zu machen, damit sie sich irgendwann erneut für dieses Geschäft entscheiden. Dass der Rückstand im April so hoch ist, würde ich damit verbinden, dass das Geschäft sich versucht, auf die kommende volle Zeit einzustellen, aber dies überschätzt.",
       "treatment": 0,
-      "id": "oje9h"
+      "id": "isn5m"
     },
     {
-      "index": "q1_20",
-      "text": "Die Lieferfähigkeit von Fahrrädern war über das Jahr 2024 schwankend, mit einem Tiefstpunkt im März, wo nur 55 % aller Bestellungen beliefert wurden, und einem Höchstpunkt im Juli, wo die Lieferquote bei 74 % lag. Dies spiegelt sich ebenso in der durchschnittlichen Lieferzeit wider. Die absolute Anzahl der Kundenbestellungen spiegelt einen saisonalen Bedarf wider. In den Wintermonaten sind die Bestellungen weniger, teils unter 50 % der Sommermonats-Bestellungen. Somit lässt sich die Lieferverzögerung nicht auf einen allgemeinen Bestellboom zurückführen, sondern möglicherweise auf ein geringeres Angebot, wenn bspw. die Hersteller ihre Produktion auch saisonal ausrichten.",
+      "index": "q1_149",
+      "text": "Im Sommer gibt es mehr Bestellungen und die Lieferquote des Fahrradladens ist besser als im Winter.",
       "treatment": 0,
-      "id": "umn9g"
+      "id": "cme3h"
     },
     {
-      "index": "q1_221",
-      "text": "Die Lieferfähigkeit ist ein Thema, was uns alle betrifft und welches gerne mal zu Unmut führt, wenn das lang ersehnte Paket mal wieder eine viel zu lange Lieferzeit hat. Dabei ist die Lieferfähigkeit ein entscheidender Faktor und ausschlaggebend für die Kundenzufriedenheit. Statistiken ergeben in Bezug auf die Lieferfähigkeit am Beispiel eines Fahrradladens, dass insbesondere in den Monaten von Mai bis August die Nachfrage nach Fahrrädern und Zubehör besonders hoch ist und im Zuge dessen auch die Bestellquote am höchsten. Interessant ist, dass trotz der großen Bestelldichte die Lieferzeit dabei am kürzesten ist, als beispielsweise in den Wintermonaten mit weniger Bestelldichte. Auch offene Bestellungen sind hier am geringsten. Im Frühjahr und Winter nehmen die Bestellanfragen rapide ab, aber auch die Lieferfähigkeit, die sich stark reduziert.",
+      "index": "q1_168",
+      "text": "Die Verlässlichkeit der Lieferungen des Fahrradladens schwankt über den Verlauf des Jahres unregelmäßig. Während im Sommer viele Fahrräder bestellt werden und verlässlich sowie schnell ausgeliefert werden, kommt es im Winter zu weniger Bestellungen, längeren Lieferzeiten und generell weniger Verlässlichkeit.",
       "treatment": 0,
-      "id": "ema6h"
+      "id": "aay5h"
     },
     {
-      "index": "q1_247",
-      "text": "Obwohl in der Mitte des Jahres Fahrradunternehmen XY ihren Rückstand an offenen Bestellungen aufzuarbeiten schien, fallen nun wieder mehr Wartezeiten sowie unzufriedene Kunden an. Von Mai bis August lag die Lieferzeit zwischen 12-17 Tagen, stieg jedoch gegen Ende des Jahres auf 20-23, obwohl es weniger Bestellungen gab als im Sommer, wo die Anzahl der Bestellungen oft mehr als 400 war. Das Unternehmen scheint unter Stress besser zu arbeiten.",
+      "index": "q1_178",
+      "text": "Die Lieferfähigkeit des Fahrradladens im Jahr 2024 verändert sich im Laufe der Monate. Während zur Sommerzeit, Mai bis August, die Zahlen der Bestellungen und der Lieferquoten am höchsten sind, sind die Tage der Lieferzeiten am geringsten. Die meisten offenen Bestellungen sind besonders in der Frühlingszeit vorhanden.",
       "treatment": 0,
-      "id": "rjh6l"
+      "id": "uja6p"
     },
     {
-      "index": "q1_278",
-      "text": "Im Jahr 2024 hat sich die Lieferfähigkeit des örtlichen Fahrradladens signifikant verbessert. Laut den aktuellen Daten stiegen die monatlichen Bestellungen von 150 im Januar auf 300 im Dezember. Die Lieferquote erreichte im Schnitt 90 %, was einen deutlichen Anstieg im Vergleich zum Vorjahr darstellt. Besonders erfreulich ist, dass die Rückstände im Laufe des Jahres von 40 auf nur 10 Bestellungen gesenkt werden konnten. Dies ist auf optimierte Lagerhaltung und stärkere Beziehungen zu Lieferanten zurückzuführen. Die Kundenzufriedenheit hat sich dadurch erheblich gesteigert, was sich in positiven Rückmeldungen niederschlägt. Der Fahrradladen steht somit gut da, um das nächste Jahr erfolgreich zu starten.",
-      "treatment": 1,
-      "id": "rme6s"
-    },
-    {
-      "index": "q1_284",
-      "text": "Sommer-Peak der Fahrradverkäufe. Fahrrad fahren, schönes Wetter und ein Ausflug mit Freunden. So mag bei vielen der perfekte Sommertag aussehen. Für viele Fahrradhändler sind die Sommermonate der wichtigste Bestandteil ihrer Saison. Mehr Bestellungen als im Frühling oder Winter und gleichzeitig auch mehr Kundschaft, die in den Läden ihre Fahrräder kauft, denn die Lieferzeit ist hier am kürzesten, doch oftmals ist der Andrang so hoch, dass viele Fahrradläden in Rückstand geraten, alle Bestellungen schnellstmöglich auszuführen. Im Gegenteil, außerhalb der Sommermonate ist der Andrang deutlich geringer, jedoch verlängern sich die Lieferzeiten.",
-      "treatment": 1,
-      "id": "eja4f"
-    },
-    {
-      "index": "q1_288",
-      "text": "Ein Anstieg der Bestellungen könnte darauf hindeuten, dass die Nachfrage steigt, während niedrige Lieferquoten und hohe Rückstände auf mögliche Probleme in der Lieferkette hinweisen könnten. Wenn der Laden in der Lage ist, Verzögerungen zu minimieren und die Lagerbestände effizient zu verwalten, könnte sich die Lieferfähigkeit verbessern. Während Mai bis März könnten die Bestellungen stark ansteigen, was die Lieferfähigkeit des Ladens herausfordern könnte. Ein hoher Umsatz in dieser Periode könnte allerdings auch bedeuten, dass eine gute Planung und ausreichende Lagerbestände entscheidend sind. Es gibt Anstiege und bleibt eher konstant, als sich abrupt zu verändern.",
-      "treatment": 1,
-      "id": "knn4h"
-    },
-    {
-      "index": "q1_317",
-      "text": "Der Fahrradladen XY verzeichnet deutlich mehr Bestellungen im Sommer, da bestimmt viele Leute Fahrrad fahren wollen. Außerdem besteht zu dieser Zeit auch eine höhere Lieferquote und Zuverlässigkeit. Der Fahrradladen arbeitet effektiver im Sommer.",
-      "treatment": 1,
-      "id": "ejd7h"
-    },
-    {
-      "index": "q1_320",
-      "text": "Der Rückstand steigt mit den Bestellungen.",
-      "treatment": 1,
-      "id": "efa6g"
-    },
-    {
-      "index": "q1_326",
-      "text": "Das Bestell-Problem: Während am Verlauf des Jahres die Anzahl der Bestellungen beim Fahrradladen stetig stieg, scheint sie sich nun am Ende des Jahres etwas zu beruhigen. Der Bestellungshochstand im Juli hat sich im Dezember wieder halbiert. Und trotz der stetigen Nachfrage nach Bestellungen fällt eines auf: Sowohl die Lieferzeit als auch die Rückstand-Quote haben sich im Verlaufe des Jahres kaum gebessert. Hier stellt sich nun die Frage: Tut der Fahrradladen genug, um auch die Online-Kunden zufrieden zu stellen, oder ignoriert er das große Potenzial des Onlinehandels? Die Zukunft wird zeigen, wie sich das Kaufverhalten der Konsumenten ändert und ob der Fahrradladen damit mithalten kann.",
-      "treatment": 1,
-      "id": "asr9m"
-    },
-    {
-      "index": "q1_335",
-      "text": "In den letzten Monaten hat der Fahrradladen eine signifikante Verbesserung seiner Lieferfähigkeit verzeichnet. Die Analyse der Daten zeigt, dass die Lieferzeiten im Durchschnitt um 30 % reduziert wurden. Dies ist auf den optimierten Lagerbestand und verbesserte Logistikprozesse zurückzuführen. Kunden berichten über kürzere Wartezeiten und eine höhere Zufriedenheit mit der Gesamtqualität der Dienstleistungen. Besonders in der Hochsaison, wenn die Nachfrage steigt, konnte der Laden seine Reaktionsfähigkeit erhöhen. Die Einführung einer digitalen Bestellplattform hat ebenfalls zur Effizienzsteigerung beigetragen. Zukünftig plant der Fahrradladen, weiterhin in moderne Technologien zu investieren, um diesen Trend fortzusetzen. Diese Fortschritte positionieren das Geschäft stark im Wettbewerbsumfeld und stärken die Kundenbindung.",
-      "treatment": 1,
-      "id": "bgo6g"
-    },
-    {
-      "index": "q1_371",
-      "text": "Die meisten Bestellungen gehen beim Fahrradladen in den Sommermonaten zwischen April und Oktober ein. Zu der Zeit ist auch die Lieferquote am höchsten und die Lieferzeit am geringsten. Auffällig ist, dass der Rückstand im Januar am niedrigsten ist, in den restlichen Monaten jedoch deutlich schwankt. Insgesamt verbessert sich die Lieferfähigkeit.",
-      "treatment": 1,
-      "id": "pje5h"
-    },
-    {
-      "index": "q1_392",
-      "text": "Unter Druck entstehen Diamanten?! Bei genauer Analyse der uns zur Verfügung stehenden Daten des Fahrradgeschäfts springen uns die Sommermonate sofort ins Gesicht. Die Verkaufszahlen sind mit Abstand am höchsten, das wird viele auf den ersten Blick nicht wundern, doch dann die Überraschung des Ganzen. In diesen Monaten gab es nicht nur die größte Nachfrage, sondern auch die kürzeste Lieferzeit und den niedrigsten Rückstand. Der Fahrradladen machte also einen beeindruckenden Job und performte unter der größten Beanspruchung am besten.",
-      "treatment": 1,
-      "id": "af5ur"
-    },
-    {
-      "index": "q1_472",
-      "text": "Im Jahr 2024 hat ein lokaler Fahrradladen eine bemerkenswerte Entwicklung in seiner Lieferfähigkeit erlebt. Im Januar waren noch 180 Kundenbestellungen mit einer Lieferquote von nur 62 % und einer durchschnittlichen Lieferzeit von 21 Tagen offen, was zu einem Rückstand von 95 Bestellungen führte. Der Anstieg der Bestellungen erreichte im Mai mit 410 Bestellungen seinen Höhepunkt, während die Lieferquote auf 68 % stieg und die durchschnittliche Lieferzeit auf 17 Tage fiel. In den folgenden Monaten konnte der Laden die Lieferquote weiter steigern, und im Juli wurde mit 74 % die beste Quote verzeichnet, bei einer durchschnittlichen Lieferzeit von nur 12 Tagen und 165 offenen Bestellungen. Trotz eines leichten Rückgangs im August blieb die Lieferfähigkeit stabil, und die Kunden konnten weiterhin zeitnah versorgt werden. Ein gezieltes Management der Bestellungen und Optimierungen im Lager scheinen die Hauptfaktoren für diese positive Entwicklung zu sein.",
-      "treatment": 1,
-      "id": "eje5b"
-    },
-    {
-      "index": "q1_482",
-      "text": "Im Januar lagen die Kundenbestellungen bei 180. Im Laufe des Jahres ist diese Zahl jedoch signifikant angestiegen, bis sie im Juli ihren Höhepunkt bei 480 Bestellungen erreichte und im Anschluss wieder abfiel. Beobachten konnte man hierbei, dass bei erstmaligem Anstieg der Bestellungen die Lieferzeit anstieg und offene Bestellungen sich anhäuften. Im Mai wurde dieser Trend erkannt und die durchschnittliche Lieferzeit ging trotz hoher Nachfrage zurück. Die Anzahl der offenen Bestellungen hingegen blieb erhöht. In diesem Zeitraum war die Lieferquote so hoch wie nie (74%). Ab Oktober allerdings entwickelte es sich wieder zum „alten“. Die Bestellungen gingen zurück, die offenen Bestellungen wurden weniger und die Lieferzeit erhöhte sich erneut.",
-      "treatment": 1,
-      "id": "eas5u"
-    },
-    {
-      "index": "q1_487",
-      "text": "Der Fahrradladen blickt 2024 auf ein bewegtes Jahr in Sachen Lieferfähigkeit zurück. Während die Kundenbestellungen vom Januar (180) bis Juli (480) stetig anstiegen, konnte die Lieferquote im selben Zeitraum von 62 % auf 74 % verbessert werden. Besonders positiv wirkte sich dies auf die durchschnittliche Lieferzeit aus, die im Sommer mit nur 12 bis 16 Tagen ihren niedrigsten Wert erreichte. Gleichzeitig baute der Laden seinen Rückstand von 210 offenen Bestellungen im März bis auf 150 im August deutlich ab. Ab Herbst nahm die Nachfrage wieder ab, doch die Lieferquote schwankte stärker und fiel im November auf 59 %. Die Lieferzeiten verlängerten sich zum Jahresende erneut leicht, blieben jedoch unter den Spitzenwerten des Frühjahrs. Der Rückstand stieg im November auf 182 offene Bestellungen, sank im Dezember aber wieder auf 168. Insgesamt zeigt das Jahr eine klare Leistungssteigerung im Sommer, jedoch Herausforderungen bei der Konstanz im letzten Quartal.",
-      "treatment": 1,
-      "id": "ame6a"
-    },
-    {
-      "index": "q1_5",
-      "text": "In dem besagten Fahrradladen sind im Jahr 2024 die meisten Bestellungen im Monat Juli eingegangen. Im Monat darauf betrug die durchschnittliche Lieferzeit nur 12 Tage, das war der Jahrestiefstand. Am längsten mussten Kunden im März auf ihr bestelltes Fahrrad warten. Die meisten offenen Bestellungen gab es im April mit 237 Fahrrädern, die noch nicht ausgeliefert waren.",
+      "index": "q1_185",
+      "text": "Im Jahr 2024 stieg die Anzahl der Kundenbestellungen in den Sommermonaten an, mit ihr die Prozentquote der Lieferungen. Die höchste Lieferquote entfällt auf den Monat mit den meisten Bestellungen (Juli). Im Laufe des Jahres, vor allem jedoch bis zum Sommer, baute das Unternehmen die Lieferfähigkeit aus und den Rückstand trotz steigendem Bestellaufkommen ab. Die durchschnittliche Lieferzeit war in dem auftragsreichsten Sommer zudem am kürzesten.",
       "treatment": 0,
-      "id": "tay6p"
+      "id": "uja4a"
     },
     {
-      "index": "q1_69",
-      "text": "Im Jahr 2024 hat der Fahrradladen deutlich mehr Fahrräder und Teile verkauft. Die Zahl der Bestellungen stieg von 180 im Januar auf 480 im Juli. Die Lieferquote war im Sommer am besten: Im Juli schaffte der Laden 74 Prozent seiner Bestellungen pünktlich. Die Lieferzeit wurde dabei sogar auf nur 12 Tage verkürzt. Doch trotz dieser Verbesserung blieb der Rückstand an offenen Bestellungen hoch, im Dezember waren sogar noch 168 Aufträge unerledigt.",
+      "index": "q1_279",
+      "text": "In Zeiten, in denen ein Umdenken in Richtung umweltfreundlicherer Verkehrsmittel gefordert ist, erfreuen sich Fahrräder wachsender Beliebtheit. Die jüngsten Verkaufszahlen unseres örtlichen Fahrradgeschäfts bieten spannende Einblicke in die Trends und Vorlieben der Kunden. Im letzten Jahr hat sich die Lieferfähigkeit sehr verändert, aber stets verbessert. Im Sommer, von Mai bis August, fanden sich die meisten Bestellungen von Fahrrädern, womit allerdings gerechnet werden musste, denn die Lieferung verzögerte sich nicht, sondern wurde nur schneller im Vergleich zu den sonstigen Lieferzeiten. Auch offene Bestellungen wurden bei viel Verkauf weniger. Daraus lernen wir: Immer schön Fahrräder kaufen, damit das Geschäft läuft!",
+      "treatment": 1,
+      "id": "wja5l"
+    },
+    {
+      "index": "q1_281",
+      "text": "Die Entwicklung der Lieferfähigkeit des Fahrradladens ist im Jahr 2024 auffallend negativ geworden. Es können immer weniger Lieferungen gesendet werden.",
+      "treatment": 1,
+      "id": "ase7o"
+    },
+    {
+      "index": "q1_282",
+      "text": "Die Kundenbestellungen steigen stetig, was auf eine wachsende Nachfrage hinweist. Die Lieferquote zeigt jedoch Schwankungen, die eine Herausforderung darstellen, insbesondere im Februar und März, wo sie am niedrigsten war. Die durchschnittliche Lieferzeit hat sich im Verlauf des Jahres verbessert, besonders im Mai und Juni mit den geringsten Werten von 17 und 14 Tagen. Allerdings bleibt der Rückstand an offenen Bestellungen relativ hoch, vor allem im März und April, was auf mögliche Engpässe hinweist. Diese Daten deuten darauf hin, dass trotz der positiven Entwicklung der Lieferzeiten eine strategische Optimierung nötig ist, um die Effizienz weiter zu steigern und Rückstände zu verringern. Insgesamt zeigen die Kennzahlen, dass das Unternehmen fokussierte Maßnahmen zur Verbesserung seiner Lieferfähigkeit ergreifen sollte.",
+      "treatment": 1,
+      "id": "hja5r"
+    },
+    {
+      "index": "q1_306",
+      "text": "Man erkennt eine Tabelle, die im Durchschnitt Bestellungen und Rücksendungen präsentiert. Mal steigt, mal sinkt es.",
+      "treatment": 1,
+      "id": "can5w"
+    },
+    {
+      "index": "q1_362",
+      "text": "Innerhalb eines Jahres verteilt sich die Bestellbereitschaft von Kund*innen so, dass die besten Monate des Bestellens in die Sommermonate Juli und August fallen. In diesen Monaten ist auch die Lieferzeit mit 14 Tagen am kürzesten, da Angebot und Nachfrage die Lieferzeit positiv beeinflussen. Auch die Rücksendungen sind in diesem Zeitraum gering, verglichen mit denen im Frühling. Die Wintermonate bleiben, bis auf die Vorweihnachtszeit, im Vergleich eher gering. Allerdings ist die Weihnachtszeit wieder positiv beeinflusst und Fahrräder werden recht häufig bestellt. Daraus lässt sich schließen, dass die Sommermonate sehr beliebt sind zum Fahrradfahren und sich mehr Menschen auf das Rad schwingen und die Sonne genießen.",
+      "treatment": 1,
+      "id": "csa3a"
+    },
+    {
+      "index": "q1_363",
+      "text": "Im Jahr 2024 stellt sich der Fahrradladen als wesentlicher Akteur im regionalen Markt dar, wird bestrebt, durch schnelle und zuverlässige Lieferungen die Bedürfnisse seiner Kunden zu erfüllen und deren Zufriedenheit nachhaltig zu steigern. Über die Lieferbestellungen lässt sich sagen, dass im Januar mit 180 Bestellungen die Zahl am niedrigsten war, im Juli auf bis zu 480 stieg und bis Dezember wieder auf 220 sank. Die Lieferquote schwankte von Monat zu Monat unerheblich, zwischen vier und fünf Prozent. Im Frühjahr waren die Rückstände mit am höchsten von bis zu 238 Lieferungen im April. In diesen Monaten betrug auch die Lieferzeit länger als in den restlichen Monaten. Zusammenfassend lässt sich sagen, dass der Fahrradladen im Jahr 2024 signifikante Fortschritte in seiner Lieferfähigkeit gemacht hat, jedoch weiterhin Herausforderungen bestehen, die durch gezielte Maßnahmen angegangen werden müssen, um auch künftig eine hohe Kundenzufriedenheit zu gewährleisten.",
+      "treatment": 1,
+      "id": "oat5w"
+    },
+    {
+      "index": "q1_404",
+      "text": "Der Fahrradladen hat saisonale Schwankungen mit mehreren Kundenbestellungen in den Sommer-/Frühlingsmonaten und weniger Bestellungen in den kalten Winter- und Herbstmonaten. Die Lieferzeit in den Sommermonaten ist trotz mehrerer Bestellungen deutlich kürzer als in den Wintermonaten. Ebenso gibt es zum Teil im Sommer größere Rückstände, weil der Laden sich dann vermutlich doch verschätzt hat und mit mehr Verkaufszahlen gerechnet hat. Dennoch war der Laden in keinem Monat 'Verkaufsunfähig', sondern hatte eher deutlich zu viele Rückstände.",
+      "treatment": 1,
+      "id": "rds4b"
+    },
+    {
+      "index": "q1_407",
+      "text": "Der lokale Fahrradladen konnte die Lieferfähigkeit im Jahr 2024 deutlich verbessern, die Zahl der Kundenbestellungen ist stetig gestiegen und erreichte im Juli mit 480 Bestellungen ihren Höhepunkt. Dies zeigt, dass immer mehr Menschen Interesse an ihren Produkten haben. Allerdings gab es auch Herausforderungen. Während die Lieferquote im Juni und Juli mit über 70 % hoch war, war die durchschnittliche Lieferzeit zeitweise länger, was auf logistische Schwierigkeiten hinweist. Besonders im März hatten sie viele offene Bestellungen, was für den Laden einen Engpass darstellte. Insgesamt zeigt sich: Trotz der positiven Entwicklung gibt es Bereiche, in denen wir uns noch verbessern können, um unseren Kunden einen besseren Service zu bieten.",
+      "treatment": 1,
+      "id": "rff4i"
+    },
+    {
+      "index": "q1_43",
+      "text": "In der folgenden Abbildung sehen Sie die Entwicklung der Lieferfähigkeit eines Fahrradladens im Jahr 2024. Die Monate Januar bis Dezember werden in Abhängigkeit mit den Kundenbestellungen, der durchschnittlichen Lieferquote, der Lieferzeit in Tagen und dem Rückstand für offene Bestellungen dargestellt. Man kann der Tabelle entnehmen, dass im Januar die wenigsten Kundenbestellungen eingehen. Danach folgt der Dezember und Februar. Die meisten Bestellungen gibt es von Mai bis August, wobei im Juli die meisten Bestellungen getätigt werden. Das könnte an dem kalten und frostigen Wetter liegen. Im Winter kommen Fahrräder weniger in Gebrauch, im Gegensatz zum Sommer.",
       "treatment": 0,
-      "id": "hja5l"
+      "id": "ose8h"
+    },
+    {
+      "index": "q1_436",
+      "text": "Die Entwicklung der Lieferfähigkeit zeigt einen positiven Trend über die Zeit. In den ersten Quartalen lag die Lieferfähigkeit häufig unter 80%, was auf Herausforderungen wie Lieferengpässe hindeutet. Doch durch gezielte Verbesserungen und Investitionen in die Logistik konnte dieser Wert erheblich gesteigert werden. Insbesondere ab dem dritten Quartal wurde erstmals eine Lieferfähigkeit von über 90% erreicht. Dies deutet darauf hin, dass Unternehmen ihre Prozesse optimiert haben. Diese Fortschritte steigern nicht nur die Kundenzufriedenheit, sondern auch die Wettbewerbsfähigkeit. Die Digitalisierung der Abläufe wird in Zukunft weitere Verbesserungen ermöglichen. Ein Fokus auf Effizienz bleibt entscheidend für die Aufrechterhaltung dieser hohen Standards.",
+      "treatment": 1,
+      "id": "rmx3h"
+    },
+    {
+      "index": "q1_437",
+      "text": "Im Januar 2024 hat der Fahrradladen \"Cycle\" seine Eröffnung gefeiert. Über das folgende Jahr hinweg zeigten sich eindeutige Entwicklungen in der Lieferfähigkeit des Ladens, nicht nur im positiven Sinne. Mitte des Jahres im Juni und Juli feierte das Geschäft die Monate mit den meisten Kundenbestellungen und den kürzesten Lieferzeiten, welches aber dazu führt, dass von den knapp 500 Bestellungen noch fast 1/3 offen sind.",
+      "treatment": 1,
+      "id": "aaa8f"
+    },
+    {
+      "index": "q1_83",
+      "text": "Besonders im Monat Juli verzeichnete der Fahrradladen trotz eines Jahreshöchstwertes von 480 Kundenbestellungen eine herausragende Lieferquote von 74 Prozent und lieferte sein Produkt obendrein in einem Jahresrekordzeitraum von 12 Tagen aus.",
+      "treatment": 0,
+      "id": "ean6g"
+    },
+    {
+      "index": "q1_90",
+      "text": "Die Lieferfähigkeit im Fahrradladen ist besonders im Sommer besonders ansteigend, allerdings ist in den Frühjahrsmonaten ausgehend vom Februar ebenfalls ein klarer Anstieg, besonders in den Bestellungen, zu entnehmen.",
+      "treatment": 0,
+      "id": "ömy6v"
     }
   ]
 }
